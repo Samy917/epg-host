@@ -1,0 +1,69 @@
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="Televizija Crne Gore MNE.rs"><display-name>The television of Montenegro Mne.rs / Televizija Crne Gore MNE.rs</display-name></channel>
+<programme start="20250801043000 +0000" stop="20250801080000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Good morning black goro / Dobro jutro Crna Goro</title></programme>
+<programme start="20250801080000 +0000" stop="20250801080500 +0000" channel="Televizija Crne Gore MNE.rs"><title>News / Вијести</title></programme>
+<programme start="20250801080500 +0000" stop="20250801084000 +0000" channel="Televizija Crne Gore MNE.rs"><title>People and streets / Ljudi i ulice</title></programme>
+<programme start="20250801084000 +0000" stop="20250801092000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Stories from north ®price from the north (2014) / Priče sa sjevera ®Priče sa sjevera (2014)</title></programme>
+<programme start="20250801092000 +0000" stop="20250801095000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Young / Mladovanje</title></programme>
+<programme start="20250801095000 +0000" stop="20250801100000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Music / Muzika</title></programme>
+<programme start="20250801100000 +0000" stop="20250801100500 +0000" channel="Televizija Crne Gore MNE.rs"><title>News / Вијести</title></programme>
+<programme start="20250801100500 +0000" stop="20250801101500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Weather forecast / Meteo</title></programme>
+<programme start="20250801101500 +0000" stop="20250801110000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Let the kids / Пустите дјецу</title></programme>
+<programme start="20250801110000 +0000" stop="20250801113000 +0000" channel="Televizija Crne Gore MNE.rs"><title>The world in the world / Nasi u svijetu</title></programme>
+<programme start="20250801113000 +0000" stop="20250801120000 +0000" channel="Televizija Crne Gore MNE.rs"><title>First textbooks in Montenegro ®prvi textbooks in Montenegro (2015) / Први уџбеници у Црној Гори ®Prvi udžbenici u Crnoj Gori (2015)</title></programme>
+<programme start="20250801120000 +0000" stop="20250801120500 +0000" channel="Televizija Crne Gore MNE.rs"><title>News / Вијести</title></programme>
+<programme start="20250801120500 +0000" stop="20250801123500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Our part of the world heritage - Kostanjica / Naš dio svjetske baštine - Kostanjica</title></programme>
+<programme start="20250801123500 +0000" stop="20250801130000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Alternative pulse / Alternativni puls</title></programme>
+<programme start="20250801130000 +0000" stop="20250801130500 +0000" channel="Televizija Crne Gore MNE.rs"><title>news / Lajmet</title></programme>
+<programme start="20250801130500 +0000" stop="20250801133000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Children's program: Cigra / Dječiji program: Čigra</title></programme>
+<programme start="20250801133000 +0000" stop="20250801135000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 1 / Дневник 1</title></programme>
+<programme start="20250801135000 +0000" stop="20250801140000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Tastes of days / Ukusi dana</title></programme>
+<programme start="20250801140000 +0000" stop="20250801150000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Choice from the morning program / Izbor iz jutarnjeg programa</title></programme>
+<programme start="20250801150000 +0000" stop="20250801160000 +0000" channel="Televizija Crne Gore MNE.rs"><title>More than summer / Više od ljeta</title></programme>
+<programme start="20250801160000 +0000" stop="20250801164000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Stories from north ®price from the north (2014) / Priče sa sjevera ®Priče sa sjevera (2014)</title></programme>
+<programme start="20250801164000 +0000" stop="20250801170000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Educational program / Образовни програм</title></programme>
+<programme start="20250801170000 +0000" stop="20250801171000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Tastes of days / Ukusi dana</title></programme>
+<programme start="20250801171000 +0000" stop="20250801172000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Children's Program - PIP and Pose / Dječiji program - Pip i Pozi</title></programme>
+<programme start="20250801172000 +0000" stop="20250801173000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Art news / Арт вијести</title></programme>
+<programme start="20250801173000 +0000" stop="20250801180000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 2 / Dnevnik 2</title></programme>
+<programme start="20250801180000 +0000" stop="20250801190000 +0000" channel="Televizija Crne Gore MNE.rs"><title>More than summer / Više od ljeta</title></programme>
+<programme start="20250801190000 +0000" stop="20250801193000 +0000" channel="Televizija Crne Gore MNE.rs"><title>People and streets / Ljudi i ulice</title></programme>
+<programme start="20250801193000 +0000" stop="20250801201500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Profile: Damir Uzunović / Профил: Дамир Узуновић</title></programme>
+<programme start="20250801201500 +0000" stop="20250801203000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Music / Muzika</title></programme>
+<programme start="20250801203000 +0000" stop="20250801204000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 3 / Дневник 3</title></programme>
+<programme start="20250801204000 +0000" stop="20250801205000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Sports diary / Sportski dnevnik</title></programme>
+<programme start="20250801205000 +0000" stop="20250801211000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Albanian diary / Dnevnik na albanskom jeziku</title></programme>
+<programme start="20250801211000 +0000" stop="20250801214000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Educational program / Образовни програм</title></programme>
+<programme start="20250801214000 +0000" stop="20250801222000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Stories from north ®price from the north (2014) / Priče sa sjevera ®Priče sa sjevera (2014)</title></programme>
+<programme start="20250801222000 +0000" stop="20250801232000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Choice from the morning program / Izbor iz jutarnjeg programa</title></programme>
+<programme start="20250801232000 +0000" stop="20250801233000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Art news / Арт вијести</title></programme>
+<programme start="20250801233000 +0000" stop="20250802000000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 2 / Dnevnik 2</title></programme>
+<programme start="20250802000000 +0000" stop="20250802010000 +0000" channel="Televizija Crne Gore MNE.rs"><title>More than summer / Više od ljeta</title></programme>
+<programme start="20250802010000 +0000" stop="20250802013000 +0000" channel="Televizija Crne Gore MNE.rs"><title>People and streets / Ljudi i ulice</title></programme>
+<programme start="20250802013000 +0000" stop="20250802021500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Profile / Профил</title></programme>
+<programme start="20250802021500 +0000" stop="20250802023000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Art news / Арт вијести</title></programme>
+<programme start="20250802023000 +0000" stop="20250802024000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 3 / Дневник 3</title></programme>
+<programme start="20250802024000 +0000" stop="20250802025000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Sports diary / Sportski dnevnik</title></programme>
+<programme start="20250802025000 +0000" stop="20250802030000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Alternative pulse / Alternativni puls</title></programme>
+<programme start="20250802030000 +0000" stop="20250802031500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Blic Business / Блиц бизнис</title></programme>
+<programme start="20250802031500 +0000" stop="20250802040000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Music / Muzika</title></programme>
+<programme start="20250802040000 +0000" stop="20250802043000 +0000" channel="Televizija Crne Gore MNE.rs"><title>I play my game / Играм своју игру</title></programme>
+<programme start="20250802043000 +0000" stop="20250802044000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Art news / Арт вијести</title></programme>
+<programme start="20250802044000 +0000" stop="20250802050000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Music / Muzika</title></programme>
+<programme start="20250802050000 +0000" stop="20250802080000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Good morning black goro / Dobro jutro Crna Goro</title></programme>
+<programme start="20250802080000 +0000" stop="20250802080500 +0000" channel="Televizija Crne Gore MNE.rs"><title>News / Вијести</title></programme>
+<programme start="20250802080500 +0000" stop="20250802093500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Our heritage / Наша баштина</title><sub-title>Јутарњи Програм</sub-title></programme>
+<programme start="20250802093500 +0000" stop="20250802100000 +0000" channel="Televizija Crne Gore MNE.rs"><title>One Branka countless projects / Jedna Branka bezbroj projekata</title></programme>
+<programme start="20250802100000 +0000" stop="20250802101000 +0000" channel="Televizija Crne Gore MNE.rs"><title>News / Вијести</title></programme>
+<programme start="20250802101000 +0000" stop="20250802101300 +0000" channel="Televizija Crne Gore MNE.rs"><title>Weather forecast / Meteo</title></programme>
+<programme start="20250802101300 +0000" stop="20250802110000 +0000" channel="Televizija Crne Gore MNE.rs"><title>CHILDREN'S PROGRAM: Let the kids / Program za djecu: Pustite djecu</title></programme>
+<programme start="20250802110000 +0000" stop="20250802111500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Children's tones / Dječiji tonovi</title></programme>
+<programme start="20250802111500 +0000" stop="20250802114500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Has one place / Има једно мјесто</title></programme>
+<programme start="20250802114500 +0000" stop="20250802120000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Music / Muzika</title></programme>
+<programme start="20250802120000 +0000" stop="20250802123000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Around the world with Edin Krnic Harar Ethiopia / Oko svijeta sa Edinom Krnićem Harar Ethiopia</title></programme>
+<programme start="20250802123000 +0000" stop="20250802130000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Wine of wine / Земља вина</title></programme>
+<programme start="20250802130000 +0000" stop="20250802131500 +0000" channel="Televizija Crne Gore MNE.rs"><title>Blic Business / Блиц бизнис</title></programme>
+<programme start="20250802131500 +0000" stop="20250802132000 +0000" channel="Televizija Crne Gore MNE.rs"><title>news / Lajmet</title></programme>
+<programme start="20250802132000 +0000" stop="20250802133000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Urban legends / Урбане легенде</title></programme>
+<programme start="20250802133000 +0000" stop="20250802135000 +0000" channel="Televizija Crne Gore MNE.rs"><title>Diary 1 / Дневник 1</title></programme>
+</tv>
