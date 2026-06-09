@@ -2,156 +2,156 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv source-info-name="RTVE Teledeporte" source-info-url="https://www.rtve.es" generator-info-name="rtve_epg_pdf">
 
-  <channel id="Teledeporte.es">
+  <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Teledeporte_logo_2021.svg/200px-Teledeporte_logo_2021.svg.png"/>
   </channel>
 
   <!-- Tuesday 9 June 2026 -->
 
-  <programme start="20260609060000 +0200" stop="20260609061000 +0200" channel="Teledeporte.es">
+  <programme start="20260609060000 +0200" stop="20260609061000 +0200" channel="teledepo.es">
     <title lang="es">Baloncesto BSR Cla Cto Mundo Fem España-Thailandia</title>
     <category lang="es">Baloncesto</category>
   </programme>
 
-  <programme start="20260609061000 +0200" stop="20260609062500 +0200" channel="Teledeporte.es">
+  <programme start="20260609061000 +0200" stop="20260609062500 +0200" channel="teledepo.es">
     <title lang="es">Triatlon Programa Somos Triatlon</title>
     <category lang="es">Triatlón</category>
   </programme>
 
-  <programme start="20260609062500 +0200" stop="20260609075500 +0200" channel="Teledeporte.es">
+  <programme start="20260609062500 +0200" stop="20260609075500 +0200" channel="teledepo.es">
     <title lang="es">Voleibol Liga Europea Masc España - Bosnia H.</title>
     <category lang="es">Voleibol</category>
   </programme>
 
-  <programme start="20260609075500 +0200" stop="20260609091000 +0200" channel="Teledeporte.es">
+  <programme start="20260609075500 +0200" stop="20260609091000 +0200" channel="teledepo.es">
     <title lang="es">Balonmano Copa Rey Final</title>
     <category lang="es">Balonmano</category>
   </programme>
 
-  <programme start="20260609091000 +0200" stop="20260609091500 +0200" channel="Teledeporte.es">
+  <programme start="20260609091000 +0200" stop="20260609091500 +0200" channel="teledepo.es">
     <title lang="es">Telediario Matinal</title>
     <category lang="es">Noticias</category>
   </programme>
 
-  <programme start="20260609091500 +0200" stop="20260609092500 +0200" channel="Teledeporte.es">
+  <programme start="20260609091500 +0200" stop="20260609092500 +0200" channel="teledepo.es">
     <title lang="es">Futbol Liga Hypermotion Play Off Las Palmas-Malaga</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609092500 +0200" stop="20260609094000 +0200" channel="Teledeporte.es">
+  <programme start="20260609092500 +0200" stop="20260609094000 +0200" channel="teledepo.es">
     <title lang="es">Futbol Liga Hypermotion Play Off Castellon-Almeria</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609094000 +0200" stop="20260609110000 +0200" channel="Teledeporte.es">
+  <programme start="20260609094000 +0200" stop="20260609110000 +0200" channel="teledepo.es">
     <title lang="es">Ciclismo Tour Auvergne-Rhone-Alpes 2ª Etapa</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
-  <programme start="20260609110000 +0200" stop="20260609120000 +0200" channel="Teledeporte.es">
+  <programme start="20260609110000 +0200" stop="20260609120000 +0200" channel="teledepo.es">
     <title lang="es">Pebetero 2026</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260609120000 +0200" stop="20260609122500 +0200" channel="Teledeporte.es">
+  <programme start="20260609120000 +0200" stop="20260609122500 +0200" channel="teledepo.es">
     <title lang="es">Mountain Bike Copa del Mundo Prueba Loudenvielle</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
-  <programme start="20260609122500 +0200" stop="20260609123500 +0200" channel="Teledeporte.es">
+  <programme start="20260609122500 +0200" stop="20260609123500 +0200" channel="teledepo.es">
     <title lang="es">Diario 24</title>
     <category lang="es">Noticias</category>
   </programme>
 
-  <programme start="20260609123500 +0200" stop="20260609142000 +0200" channel="Teledeporte.es">
+  <programme start="20260609123500 +0200" stop="20260609142000 +0200" channel="teledepo.es">
     <title lang="es">Futbol UEFA Amistoso Peru - España</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609142000 +0200" stop="20260609150000 +0200" channel="Teledeporte.es">
+  <programme start="20260609142000 +0200" stop="20260609150000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260609150000 +0200" stop="20260609152500 +0200" channel="Teledeporte.es">
+  <programme start="20260609150000 +0200" stop="20260609152500 +0200" channel="teledepo.es">
     <title lang="es">Futbol FIFA Preview Series 2026 PGM 1</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609152500 +0200" stop="20260609155000 +0200" channel="Teledeporte.es">
+  <programme start="20260609152500 +0200" stop="20260609155000 +0200" channel="teledepo.es">
     <title lang="es">Futbol FIFA Preview Series 2026 PGM 2</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609155000 +0200" stop="20260609171000 +0200" channel="Teledeporte.es">
+  <programme start="20260609155000 +0200" stop="20260609171000 +0200" channel="teledepo.es">
     <title lang="es">Ciclismo Tour Auvergne-Rhone-Alpes 3ª Etapa</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
-  <programme start="20260609171000 +0200" stop="20260609171500 +0200" channel="Teledeporte.es">
+  <programme start="20260609171000 +0200" stop="20260609171500 +0200" channel="teledepo.es">
     <title lang="es">Deportes 1</title>
     <category lang="es">Noticias</category>
   </programme>
 
-  <programme start="20260609171500 +0200" stop="20260609190000 +0200" channel="Teledeporte.es">
+  <programme start="20260609171500 +0200" stop="20260609190000 +0200" channel="teledepo.es">
     <title lang="es">Futbol UEFA Amistoso Peru - España</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609190000 +0200" stop="20260609200000 +0200" channel="Teledeporte.es">
+  <programme start="20260609190000 +0200" stop="20260609200000 +0200" channel="teledepo.es">
     <title lang="es">Fútbol Documental "Las Chicas del Balón"</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609200000 +0200" stop="20260609201000 +0200" channel="Teledeporte.es">
+  <programme start="20260609200000 +0200" stop="20260609201000 +0200" channel="teledepo.es">
     <title lang="es">La Tarde en 24H</title>
     <category lang="es">Noticias</category>
   </programme>
 
-  <programme start="20260609201000 +0200" stop="20260609203000 +0200" channel="Teledeporte.es">
+  <programme start="20260609201000 +0200" stop="20260609203000 +0200" channel="teledepo.es">
     <title lang="es">Futbol FIFA Preview Series 2026 PGM 4</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609203000 +0200" stop="20260609205500 +0200" channel="Teledeporte.es">
+  <programme start="20260609203000 +0200" stop="20260609205500 +0200" channel="teledepo.es">
     <title lang="es">Futbol FIFA Preview Series 2026 PGM 5</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260609205500 +0200" stop="20260609230000 +0200" channel="Teledeporte.es">
+  <programme start="20260609205500 +0200" stop="20260609230000 +0200" channel="teledepo.es">
     <title lang="es">Futbol Sala 1ª Div Masc SF Movistar Inter - Barça</title>
     <category lang="es">Fútbol Sala</category>
   </programme>
 
-  <programme start="20260609230000 +0200" stop="20260610004500 +0200" channel="Teledeporte.es">
+  <programme start="20260609230000 +0200" stop="20260610004500 +0200" channel="teledepo.es">
     <title lang="es">Futbol Mundial 2010 Alemania - España</title>
     <category lang="es">Fútbol</category>
   </programme>
 
   <!-- Wednesday 10 June 2026 (madrugada) -->
 
-  <programme start="20260610004500 +0200" stop="20260610023000 +0200" channel="Teledeporte.es">
+  <programme start="20260610004500 +0200" stop="20260610023000 +0200" channel="teledepo.es">
     <title lang="es">Futbol Clasif Cto Mundo Islandia - España</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260610023000 +0200" stop="20260610040500 +0200" channel="Teledeporte.es">
+  <programme start="20260610023000 +0200" stop="20260610040500 +0200" channel="teledepo.es">
     <title lang="es">Baloncesto BSR Cla Cto Mundo Fem Argentina-España</title>
     <category lang="es">Baloncesto</category>
   </programme>
 
-  <programme start="20260610040500 +0200" stop="20260610052500 +0200" channel="Teledeporte.es">
+  <programme start="20260610040500 +0200" stop="20260610052500 +0200" channel="teledepo.es">
     <title lang="es">Ciclismo Tour Auvergne-Rhone-Alpes 3ª Etapa</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
-  <programme start="20260610052500 +0200" stop="20260610055000 +0200" channel="Teledeporte.es">
+  <programme start="20260610052500 +0200" stop="20260610055000 +0200" channel="teledepo.es">
     <title lang="es">Mountain Bike Copa del Mundo Prueba Loudenvielle</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
-  <programme start="20260610055000 +0200" stop="20260610060000 +0200" channel="Teledeporte.es">
+  <programme start="20260610055000 +0200" stop="20260610060000 +0200" channel="teledepo.es">
     <title lang="es">Ciclismo Acont Fed Española 2026 Resumenes</title>
     <desc lang="es">Incluye: Mountain Bike Campeonato de España BTT Enduro</desc>
     <category lang="es">Ciclismo</category>
