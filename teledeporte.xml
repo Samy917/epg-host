@@ -1,640 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="teledeporte-epg" generator-info-url="https://www.rtve.es">
-
+<tv date="20260615" source-info-name="RTVE Teledeporte" generator-info-name="XMLTV">
   <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Teledeporte.svg/200px-Logo_Teledeporte.svg.png"/>
+    <icon src="https://www.rtve.es/resources/img/rtve-tdp-logo.png"/>
   </channel>
 
-  <!-- ========== VIERNES 12 DE JUNIO 2026 ========== -->
+  <programme start="20260615060000 +0200" stop="20260615070000 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Patines OK Liga Iberdrola Play Off Final 2º Partido Club Patín Esneca</title>
+    <category lang="es">Hockey</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
 
-  <programme start="20260612060000 +0200" stop="20260612073500 +0200" channel="teledepo.es">
-    <title lang="es">Programa Estudio Estadio Mundial TDP 2026 Nº 1</title>
+  <programme start="20260615070000 +0200" stop="20260615071500 +0200" channel="teledepo.es">
+    <title lang="es">Surf Programa Surfing.es</title>
     <category lang="es">Deportes</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260612073500 +0200" stop="20260612092000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA México - Sudáfrica</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
+  <programme start="20260615071500 +0200" stop="20260615080000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Supercto España Rally Ourense</title>
+    <category lang="es">Motor</category>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260612092000 +0200" stop="20260612092500 +0200" channel="teledepo.es">
-    <title lang="es">Telediario Matinal</title>
-    <category lang="es">Noticias</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612092500 +0200" stop="20260612100000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Athletic Club - Dux Logroño</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612100000 +0200" stop="20260612103000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Espanyol - R. Sociedad</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612103000 +0200" stop="20260612110000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Tenerife - FC Barcelona</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612110000 +0200" stop="20260612113000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Corea del Sur - Chequia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612113000 +0200" stop="20260612120000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Levante UD - Sevilla FC</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612120000 +0200" stop="20260612123000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina At. Madrid - Badalona</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612123000 +0200" stop="20260612130000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Dep. Abanca - Madrid CFF</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612130000 +0200" stop="20260612133000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial México - Sudáfrica Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612133000 +0200" stop="20260612140000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Corea del Sur - Chequia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612140000 +0200" stop="20260612150000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612150000 +0200" stop="20260612152500 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612152500 +0200" stop="20260612155500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Corea del Sur - Chequia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612155500 +0200" stop="20260612172000 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Tour Auvergne-Rhône-Alpes 6ª Etapa</title>
-    <category lang="es">Ciclismo</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612172000 +0200" stop="20260612183000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Programa Gran Estadio Mundial 2026</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612183000 +0200" stop="20260612190000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Corea del Sur - Chequia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612190000 +0200" stop="20260612193000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial México - Sudáfrica Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612193000 +0200" stop="20260612200000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612200000 +0200" stop="20260612203000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA Canadá - Bosnia Herzegovina</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612203000 +0200" stop="20260612205500 +0200" channel="teledepo.es">
-    <title lang="es">Camino a NY</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612205500 +0200" stop="20260612211500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1ª Fase</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260612211500 +0200" stop="20260612213500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Logroño - R. Sociedad</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612213500 +0200" stop="20260612215500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Fem At. Madrid - Dep. Abanca</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612215500 +0200" stop="20260612221500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Badalona - Madrid CFF</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612221500 +0200" stop="20260612223500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Tenerife - Levante</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612223500 +0200" stop="20260612230000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina FC Barcelona - Sevilla</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260612230000 +0200" stop="20260613010000 +0200" channel="teledepo.es">
-    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613010000 +0200" stop="20260613024500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA Canadá - Bosnia Herzegovina</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613024500 +0200" stop="20260613031500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Corea del Sur - Chequia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613031500 +0200" stop="20260613050000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA México - Sudáfrica</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613050000 +0200" stop="20260613060000 +0200" channel="teledepo.es">
-    <title lang="es">Voleibol Liga Europea Fem España - Macedonia</title>
-    <category lang="es">Voleibol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <!-- ========== SÁBADO 13 DE JUNIO 2026 ========== -->
-
-  <programme start="20260613060000 +0200" stop="20260613070000 +0200" channel="teledepo.es">
-    <title lang="es">Grabado Voleibol Liga Europea Femenina 2ª Ronda España - Macedonia</title>
-    <category lang="es">Voleibol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613070000 +0200" stop="20260613072000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol FIFA World Cup 2026 Sede Philadelphia</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613072000 +0200" stop="20260613074500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol FIFA World Cup 2026 Sede Atlanta</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613074500 +0200" stop="20260613092500 +0200" channel="teledepo.es">
-    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613092500 +0200" stop="20260613100000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Madrid CFF - At. Madrid</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613100000 +0200" stop="20260613103000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Badalona - Dep. Abanca</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613103000 +0200" stop="20260613110000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina R. Sociedad - Athletic</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613110000 +0200" stop="20260613113000 +0200" channel="teledepo.es">
-    <title lang="es">Liga Futura Femenina Logroño - Espanyol</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613113000 +0200" stop="20260613120000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Sevilla - Tenerife</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613120000 +0200" stop="20260613123000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina FC Barcelona - Levante</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613123000 +0200" stop="20260613124500 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613124500 +0200" stop="20260613130000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613130000 +0200" stop="20260613133000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial EE.UU. - Paraguay Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613133000 +0200" stop="20260613140000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Canadá - Bosnia H. Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613140000 +0200" stop="20260613145000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613145000 +0200" stop="20260613161500 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Tour Auvergne-Rhône-Alpes 7ª Etapa</title>
-    <category lang="es">Ciclismo</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613161500 +0200" stop="20260613164500 +0200" channel="teledepo.es">
-    <title lang="es">Deportes 1</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613164500 +0200" stop="20260613171500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial EE.UU. - Paraguay Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613171500 +0200" stop="20260613174500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Canadá - Bosnia H. Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613174500 +0200" stop="20260613180000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613180000 +0200" stop="20260613192500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Programa Gran Estadio Mundial 2026</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613192500 +0200" stop="20260613195500 +0200" channel="teledepo.es">
-    <title lang="es">Teledeporte Directo al Mundial</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613195500 +0200" stop="20260613202500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Canadá - Bosnia H. Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613202500 +0200" stop="20260613205500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial EE.UU. - Paraguay Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260613205500 +0200" stop="20260613223000 +0200" channel="teledepo.es">
-    <title lang="es">Waterpolo Champions League Final CNAB - Pro Recco</title>
-    <category lang="es">Waterpolo</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613223000 +0200" stop="20260613224500 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613224500 +0200" stop="20260613233500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA Brasil - Marruecos</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613233500 +0200" stop="20260613235500 +0200" channel="teledepo.es">
-    <title lang="es">Camino a NY</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260613235500 +0200" stop="20260614013500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Sala Liga Fem SF Poio - At. Navalcarnero</title>
-    <category lang="es">Fútbol Sala</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614013500 +0200" stop="20260614020000 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Tour Auvergne-Rhône-Alpes 7ª Etapa</title>
-    <category lang="es">Ciclismo</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614020000 +0200" stop="20260614023000 +0200" channel="teledepo.es">
-    <title lang="es">Camino a NY</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614023000 +0200" stop="20260614041500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA Brasil - Marruecos</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614041500 +0200" stop="20260614043000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Semifinal Plata Web</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614043000 +0200" stop="20260614044500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Semifinal Plata Web</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614044500 +0200" stop="20260614050000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1/4 Final</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614050000 +0200" stop="20260614051500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1/4 Final</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614051500 +0200" stop="20260614053000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1/4 Final</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614053000 +0200" stop="20260614054500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1/4 Final</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614054500 +0200" stop="20260614060000 +0200" channel="teledepo.es">
-    <title lang="es">Triatlón Copa de Europa Elite Masculina Tarragona</title>
-    <category lang="es">Triatlón</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <!-- ========== DOMINGO 14 DE JUNIO 2026 ========== -->
-
-  <programme start="20260614060000 +0200" stop="20260614074500 +0200" channel="teledepo.es">
-    <title lang="es">Grabado Triatlón Campeonato de Europa Elite Masculina Tarragona</title>
-    <category lang="es">Triatlón</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614074500 +0200" stop="20260614093000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA Brasil - Marruecos</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614093000 +0200" stop="20260614095000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 1ª Semifinal</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614095000 +0200" stop="20260614102000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina 2ª Semifinal</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614102000 +0200" stop="20260614105000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Final Plata Web</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614105000 +0200" stop="20260614112000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Haití - Escocia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614112000 +0200" stop="20260614115500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Catar - Suiza Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614115500 +0200" stop="20260614124000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Liga Futura Femenina Final</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614124000 +0200" stop="20260614131000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Australia - Turquía Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614131000 +0200" stop="20260614134000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Brasil - Marruecos Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614134000 +0200" stop="20260614141000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Haití - Escocia Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614141000 +0200" stop="20260614150000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614150000 +0200" stop="20260614153000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614153000 +0200" stop="20260614160000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Australia - Turquía Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614160000 +0200" stop="20260614171500 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Tour Auvergne-Rhône-Alpes 8ª Etapa</title>
-    <category lang="es">Ciclismo</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614171500 +0200" stop="20260614174500 +0200" channel="teledepo.es">
-    <title lang="es">Teledeporte Directo al Mundial</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614174500 +0200" stop="20260614182000 +0200" channel="teledepo.es">
+  <programme start="20260615080000 +0200" stop="20260615094500 +0200" channel="teledepo.es">
     <title lang="es">Fútbol Copa Mundo FIFA Alemania - Curazao</title>
     <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260614182000 +0200" stop="20260614185500 +0200" channel="teledepo.es">
-    <title lang="es">Camino a NY</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
+  <programme start="20260615094500 +0200" stop="20260615095000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Noticias</category>
   </programme>
 
-  <programme start="20260614185500 +0200" stop="20260614204000 +0200" channel="teledepo.es">
-    <title lang="es">Motocross Cto España Montearagón</title>
-    <category lang="es">Motor</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614204000 +0200" stop="20260614211500 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Tour Auvergne-Rhône-Alpes 8ª Etapa</title>
-    <category lang="es">Ciclismo</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614211500 +0200" stop="20260614214500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Catar - Suiza Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614214500 +0200" stop="20260614221500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol RDP Selección Previa España - Cabo Verde</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614221500 +0200" stop="20260614223000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
-  </programme>
-
-  <programme start="20260614223000 +0200" stop="20260614230000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Australia - Turquía Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
-  </programme>
-
-  <programme start="20260614230000 +0200" stop="20260615010000 +0200" channel="teledepo.es">
+  <programme start="20260615095000 +0200" stop="20260615105000 +0200" channel="teledepo.es">
     <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
     <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615010000 +0200" stop="20260615013000 +0200" channel="teledepo.es">
-    <title lang="es">José Antonio Camacho</title>
+  <programme start="20260615105000 +0200" stop="20260615115000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
     <category lang="es">Deportes</category>
-    <rating><value>SIN CALIFICAR</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615013000 +0200" stop="20260615020000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Brasil - Marruecos Resumen</title>
+  <programme start="20260615115000 +0200" stop="20260615120000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260615120000 +0200" stop="20260615123000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Suecia - Túnez Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615020000 +0200" stop="20260615023000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Catar - Suiza Resumen</title>
+  <programme start="20260615123000 +0200" stop="20260615130000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Alemania - Curazao Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615023000 +0200" stop="20260615030000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Australia - Turquía Resumen</title>
+  <programme start="20260615130000 +0200" stop="20260615133000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Países Bajos - Japón Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615030000 +0200" stop="20260615033000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial Haití - Escocia Resumen</title>
+  <programme start="20260615133000 +0200" stop="20260615140000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Costa de Marfil - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615033000 +0200" stop="20260615053000 +0200" channel="teledepo.es">
-    <title lang="es">Voleibol Liga Europea Fem España - Azerbaiyán</title>
+  <programme start="20260615140000 +0200" stop="20260615150000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260615150000 +0200" stop="20260615152500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260615152500 +0200" stop="20260615155500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Países Bajos - Japón Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260615155500 +0200" stop="20260615175500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260615175500 +0200" stop="20260615200000 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Liga Europea Femenina España - Azerbaiyán</title>
     <category lang="es">Voleibol</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260615053000 +0200" stop="20260615060000 +0200" channel="teledepo.es">
-    <title lang="es">Hockey Patines OK Liga Final Fraga - CP Vila-Sana</title>
-    <category lang="es">Hockey Patines</category>
-    <rating><value>PARA TODOS LOS PÚBLICOS</value></rating>
+  <programme start="20260615200000 +0200" stop="20260615210000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260615210000 +0200" stop="20260615230000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA España - Cabo Verde</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260615230000 +0200" stop="20260616003500 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260616003500 +0200" stop="20260616013500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260616013500 +0200" stop="20260616032000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA España - Cabo Verde</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260616032000 +0200" stop="20260616035000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Suecia - Túnez Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260616035000 +0200" stop="20260616042000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Países Bajos - Japón Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260616042000 +0200" stop="20260616060000 +0200" channel="teledepo.es">
+    <title lang="es">Triatlón Copa de Europa Elite Femenina Tarragona</title>
+    <category lang="es">Triatlón</category>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
 </tv>
