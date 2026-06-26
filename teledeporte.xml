@@ -1,318 +1,230 @@
-<?xml version="1.0" ?>
-<tv generator-info-name="Custom EPG Generator">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="RTVE Teledeporte" generator-info-name="XMLTV">
   <channel id="teledepo.es">
-    <display-name lang="en">Teledeporte</display-name>
+    <display-name lang="es">Teledeporte</display-name>
+    <icon src="https://www.rtve.es/resources/img/rtve-tdp-logo.png"/>
   </channel>
-  <programme start="20260624060000 +0000" stop="20260624061500 +0000" channel="teledepo.es">
-    <title lang="en">TRIATHLON WORLD SERIES MIXED RELAYS QUIBERON</title>
-    <desc lang="en">Includes: TRIATHLON WORLD SERIES MIXED RELAYS QUIBERON</desc>
-  </programme>
-  <programme start="20260624061500 +0000" stop="20260624073000 +0000" channel="teledepo.es">
-    <title lang="en">BEACH HANDBALL ARENA 1000 EBT HANDBALL TOUR FROM ORIHUELA</title>
-    <desc lang="en">Includes: BEACH HANDBALL ARENA 1000 EBT HANDBALL TOUR FROM ORIHUELA</desc>
-  </programme>
-  <programme start="20260624073000 +0000" stop="20260624091500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL FIFA WORLD CUP ENGLAND - GHANA</title>
-    <desc lang="en">Includes: FOOTBALL FIFA WORLD CUP ENGLAND - GHANA</desc>
-  </programme>
-  <programme start="20260624091500 +0000" stop="20260624092000 +0000" channel="teledepo.es">
-    <title lang="en">MORNING NEWS</title>
-    <desc lang="en">Includes: MORNING NEWS</desc>
-  </programme>
-  <programme start="20260624092000 +0000" stop="20260624101500 +0000" channel="teledepo.es">
-    <title lang="en">STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</title>
-    <desc lang="en">Includes: STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260624101500 +0000" stop="20260624104500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624104500 +0000" stop="20260624111500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP COLOMBIA - CONGO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP COLOMBIA - CONGO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624111500 +0000" stop="20260624114500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624114500 +0000" stop="20260624120000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 WORLD CUP</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP</desc>
-  </programme>
-  <programme start="20260624120000 +0000" stop="20260624123000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624123000 +0000" stop="20260624130000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624130000 +0000" stop="20260624133000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP COLOMBIA - CONGO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP COLOMBIA - CONGO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624133000 +0000" stop="20260624140000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624140000 +0000" stop="20260624150000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 WORLD CUP</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP</desc>
-  </programme>
-  <programme start="20260624150000 +0000" stop="20260624153000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 EXTRA</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP EXTRA</desc>
-  </programme>
-  <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP COLOMBIA CONGO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="teledepo.es">
-    <title lang="en">TELEDEPORTE 1</title>
-    <desc lang="en">Includes: TELEDEPORTE DIRECT TO THE WORLD CUP</desc>
-  </programme>
-  <programme start="20260624170000 +0000" stop="20260624173000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624173000 +0000" stop="20260624180000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624180000 +0000" stop="20260624193000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL GRAN ESTADIO WORLD CUP 2026 PROGRAM</title>
-    <desc lang="en">Includes: FOOTBALL GRAN ESTADIO WORLD CUP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260624193000 +0000" stop="20260624200000 +0000" channel="teledepo.es">
-    <title lang="en">TELEDEPORTE 1</title>
-    <desc lang="en">Includes: TELEDEPORTE DIRECT TO THE WORLD CUP</desc>
-  </programme>
-  <programme start="20260624200000 +0000" stop="20260624203000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ARGENTINA - AUSTRIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP ARGENTINA - AUSTRIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624203000 +0000" stop="20260624210000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP FRANCE - IRAQ HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP FRANCE - IRAQ HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624210000 +0000" stop="20260624213000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624213000 +0000" stop="20260624220000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624220000 +0000" stop="20260624223000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP COLOMBIA CONGO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP COLOMBIA CONGO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624223000 +0000" stop="20260624230500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260624230500 +0000" stop="20260624233000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL FIFA WORLD CUP SCOTLAND - BRAZIL</title>
-    <desc lang="en">Includes: FOOTBALL FIFA WORLD CUP SCOTLAND - BRAZIL</desc>
-  </programme>
-  <programme start="20260624233000 +0000" stop="20260624235500 +0000" channel="teledepo.es">
-    <title lang="en">ROAD TO NY</title>
-    <desc lang="en">Includes: ROAD TO NY</desc>
-  </programme>
-  <programme start="20260624235500 +0000" stop="20260625000000 +0000" channel="teledepo.es">
-    <title lang="en">MOTORSPORT FORMULA E WORLD CHAMPIONSHIP SANYA RACE</title>
-    <desc lang="en">Includes: MOTORSPORT FORMULA E WORLD CHAMPIONSHIP SANYA RACE</desc>
-  </programme>
-  <programme start="20260625000000 +0000" stop="20260625000500 +0000" channel="teledepo.es">
-    <title lang="en">ROAD TO NY</title>
-    <desc lang="en">Includes: ROAD TO NY</desc>
-  </programme>
-  <programme start="20260625000500 +0000" stop="20260625010000 +0000" channel="teledepo.es">
-    <title lang="en">STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</title>
-    <desc lang="en">Includes: STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260625010000 +0000" stop="20260625012000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625012000 +0000" stop="20260625013000 +0000" channel="teledepo.es">
-    <title lang="en">MOTORSPORT FORMULA 4 SPAIN MOTORLAND ARAGON</title>
-    <desc lang="en">Includes: MOTORSPORT FORMULA 4 SPAIN MOTORLAND ARAGON</desc>
-  </programme>
-  <programme start="20260625013000 +0000" stop="20260625020000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625020000 +0000" stop="20260625020000 +0000" channel="teledepo.es">
-    <title lang="en">STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</title>
-    <desc lang="en">Includes: STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260625020000 +0000" stop="20260625023000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625023000 +0000" stop="20260625023000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625023000 +0000" stop="20260625030000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625030000 +0000" stop="20260625030000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL FIFA WORLD CUP ECUADOR - GERMANY</title>
-    <desc lang="en">Includes: FOOTBALL FIFA WORLD CUP ECUADOR - GERMANY</desc>
-  </programme>
-  <programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PORTUGAL - UZBEKISTAN HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625040000 +0000" stop="20260625043000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP PANAMA - CROATIA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP PANAMA CROATIA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625043000 +0000" stop="20260625044500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP COLOMBIA CONGO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP COLOMBIA - CONGO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625044500 +0000" stop="20260625050000 +0000" channel="teledepo.es">
-    <title lang="en">EQUESTRIAN NATIONAL JUMPING LIGA BARCELONA EVENT</title>
-    <desc lang="en">Includes: EQUESTRIAN NATIONAL JUMPING LIGA BARCELONA EVENT</desc>
-  </programme>
-  <programme start="20260625050000 +0000" stop="20260625053000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP ENGLAND - GHANA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625053000 +0000" stop="20260625054500 +0000" channel="teledepo.es">
-    <title lang="en">MOUNTAIN BIKE WORLD CUP LEOGANG RACE</title>
-    <desc lang="en">Includes: MOUNTAIN BIKE WORLD CUP LEOGANG RACE</desc>
-  </programme>
-  <programme start="20260625054500 +0000" stop="20260625060000 +0000" channel="teledepo.es">
-    <title lang="en">TRIATHLON PROGRAM WE ARE TRIATHLON</title>
-    <desc lang="en">Includes: TRIATHLON PROGRAM WE ARE TRIATHLON</desc>
-  </programme>
-  <programme start="20260625060000 +0000" stop="20260625061500 +0000" channel="teledepo.es">
-    <title lang="en">TENNIS PROGRAM LAND OF CHAMPIONS</title>
-    <desc lang="en">Includes: TENNIS PROGRAM LAND OF CHAMPIONS</desc>
-  </programme>
-  <programme start="20260625061500 +0000" stop="20260625062000 +0000" channel="teledepo.es">
-    <title lang="en">BEACH HANDBALL ARENA 1000 EBT ORIHUELA</title>
-    <desc lang="en">Includes: BEACH HANDBALL ARENA 1000 EBT ORIHUELA</desc>
-  </programme>
-  <programme start="20260625062000 +0000" stop="20260625064000 +0000" channel="teledepo.es">
-    <title lang="en">MOTORSPORT PROGRAM RACING FOR SPAIN</title>
-    <desc lang="en">Includes: MOTORSPORT PROGRAM RACING FOR SPAIN</desc>
-  </programme>
-  <programme start="20260625064000 +0000" stop="20260625065500 +0000" channel="teledepo.es">
-    <title lang="en">GOLF SPANISH FEDERATION EVENT 2026</title>
-    <desc lang="en">Includes: GOLF GASOL FOUNDATION CHARITY TOURNAMENT</desc>
-  </programme>
-  <programme start="20260625065500 +0000" stop="20260625084000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL FIFA WORLD CUP 2026</title>
-    <desc lang="en">Includes: FOOTBALL FIFA WORLD CUP SCOTLAND - BRAZIL</desc>
-  </programme>
-  <programme start="20260625084000 +0000" stop="20260625091000 +0000" channel="teledepo.es">
-    <title lang="en">STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</title>
-    <desc lang="en">Includes: STUDIO ESTADIO WORLD CUP TDP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260625091000 +0000" stop="20260625091500 +0000" channel="teledepo.es">
-    <title lang="en">MORNING NEWS</title>
-    <desc lang="en">Includes: MORNING NEWS</desc>
-  </programme>
-  <programme start="20260625091500 +0000" stop="20260625094500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625094500 +0000" stop="20260625101500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625101500 +0000" stop="20260625104500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625104500 +0000" stop="20260625111500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625111500 +0000" stop="20260625114500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625114500 +0000" stop="20260625120000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 WORLD CUP</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625133000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP CZECHIA - MEXICO HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SOUTH AFRICA - SOUTH KOREA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 WORLD CUP</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP</desc>
-  </programme>
-  <programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="teledepo.es">
-    <title lang="en">ESTADIO 2 WORLD CUP EXTRA</title>
-    <desc lang="en">Includes: ESTADIO 2 WORLD CUP EXTRA</desc>
-  </programme>
-  <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP BOSNIA H. - QATAR HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SWITZERLAND - CANADA HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625163000 +0000" stop="20260625170000 +0000" channel="teledepo.es">
-    <title lang="en">TELEDEPORTE DIRECT TO THE WORLD CUP</title>
-    <desc lang="en">Includes: TELEDEPORTE DIRECT TO THE WORLD CUP</desc>
-  </programme>
-  <programme start="20260625170000 +0000" stop="20260625173000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP MOROCCO - HAITI HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</title>
-    <desc lang="en">Includes: FOOTBALL WORLD CUP SCOTLAND - BRAZIL HIGHLIGHTS</desc>
-  </programme>
-  <programme start="20260625180000 +0000" stop="20260625192500 +0000" channel="teledepo.es">
-    <title lang="en">FOOTBALL GRAN ESTADIO WORLD CUP 2026 PROGRAM</title>
-    <desc lang="en">Includes: FOOTBALL GRAN ESTADIO WORLD CUP 2026 PROGRAM</desc>
-  </programme>
-  <programme start="20260625192500 +0000" stop="20260625213000 +0000" channel="teledepo.es">
-    <title lang="en">FUTSAL MEN'S LIGA 2025-2026 (YEAR 2026)</title>
-    <desc lang="en">Includes: FUTSAL MEN'S LIGA 2025-2026 (YEAR 2026)</desc>
-  </programme>
-  <programme start="20260625213000 +0000" stop="20260625215500 +0000" channel="teledepo.es">
-    <title lang="en">ROAD TO NY</title>
-    <desc lang="en">Includes: ROAD TO NY</desc>
-  </programme>
-  <programme start="20260625215500 +0000" stop="20260625232500 +0000" channel="teledepo.es">
-    <title lang="en">SWIMMING SPANISH ABSOLUTE CHAMPIONSHIP TRIALS EVENING SESSION</title>
-    <desc lang="en">Includes: SWIMMING SPANISH ABSOLUTE CHAMPIONSHIP TRIALS EVENING SESSION</desc>
-  </programme>
-  <programme start="20260625232500 +0000" stop="20260626002500 +0000" channel="teledepo.es">
-    <title lang="en">SUPERBIKE SPANISH SUPERBIKE CHAMPIONSHIP ESTORIL</title>
-    <desc lang="en">Includes: SUPERBIKE SPANISH SUPERBIKE CHAMPIONSHIP ESTORIL</desc>
-  </programme>
+
+  <programme start="20260626060000 +0200" stop="20260626061500 +0200" channel="teledepo.es">
+    <title lang="es">Vela de Altura</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626061500 +0200" stop="20260626062500 +0200" channel="teledepo.es">
+    <title lang="es">Deporte Paralímpico - Programa Deporte para Todos</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626062500 +0200" stop="20260626081000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA Ecuador - Alemania</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626081000 +0200" stop="20260626091000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626091000 +0200" stop="20260626091500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Noticias</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626091500 +0200" stop="20260626094500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Japón - Suecia Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626094500 +0200" stop="20260626101500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Turquía - Estados Unidos Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626101500 +0200" stop="20260626104500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Curazao - Costa de Marfil Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626104500 +0200" stop="20260626111500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Túnez - Países Bajos Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626111500 +0200" stop="20260626114500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Paraguay - Australia Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626114500 +0200" stop="20260626120000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260626120000 +0200" stop="20260626123000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Ecuador - Alemania Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626123000 +0200" stop="20260626130000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Japón - Suecia Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626130000 +0200" stop="20260626133000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Turquía - Estados Unidos Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626133000 +0200" stop="20260626140000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Curazao - Costa de Marfil Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626140000 +0200" stop="20260626150000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260626150000 +0200" stop="20260626153000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Extra</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626153000 +0200" stop="20260626160000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Ecuador - Alemania Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626160000 +0200" stop="20260626163000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Paraguay - Australia Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626163000 +0200" stop="20260626170000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte 1 - Directo al Mundial</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626170000 +0200" stop="20260626173000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Túnez - Países Bajos Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626173000 +0200" stop="20260626180000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Ecuador - Alemania Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626180000 +0200" stop="20260626193000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260626193000 +0200" stop="20260626200000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260626200000 +0200" stop="20260626203000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Ecuador - Alemania Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626203000 +0200" stop="20260626210000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626210000 +0200" stop="20260626213000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626213000 +0200" stop="20260626220000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626220000 +0200" stop="20260626221000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626221000 +0200" stop="20260626224000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626224000 +0200" stop="20260626231000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626231000 +0200" stop="20260626234000 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Partidos Mundial</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260626234000 +0200" stop="20260627014500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260627014500 +0200" stop="20260627040000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA Uruguay - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260627040000 +0200" stop="20260627043000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260627043000 +0200" stop="20260627050000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Noruega - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260627050000 +0200" stop="20260627053000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial Senegal - Irak Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260627053000 +0200" stop="20260627060000 +0200" channel="teledepo.es">
+    <title lang="es">Natación Campeonato España Absoluto Trials Sesión Tarde</title>
+    <category lang="es">Natación</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
 </tv>
