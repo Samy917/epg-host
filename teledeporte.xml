@@ -6,179 +6,195 @@
     <icon src="https://www.rtve.es/resources/img/rtve-tdp-logo.png"/>
   </channel>
 
-  <programme start="20260630060000 +0200" stop="20260630062500 +0200" channel="teledepo.es">
-    <title lang="es">Mountain Bike Copa Mundo Prueba Lenzerheide</title>
+  <programme start="20260701060000 +0200" stop="20260701080000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Sala Liga Femenina Final Melilla - Navalcarnero</title>
+    <category lang="es">Fútbol Sala</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701080000 +0200" stop="20260701080500 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Lista Chus Mateo</title>
+    <category lang="es">Baloncesto</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701080500 +0200" stop="20260701083500 +0200" channel="teledepo.es">
+    <title lang="es">TDPedales 2026</title>
     <category lang="es">Ciclismo</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630062500 +0200" stop="20260630064500 +0200" channel="teledepo.es">
-    <title lang="es">Surf Programa Surfing.es</title>
-    <category lang="es">Deportes</category>
+  <programme start="20260701083500 +0200" stop="20260701084500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Acontecimiento Federación Española 2026 Resúmenes</title>
+    <category lang="es">Ciclismo</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630064500 +0200" stop="20260630065500 +0200" channel="teledepo.es">
-    <title lang="es">Karate Campeonato de España de Clubes</title>
-    <category lang="es">Karate</category>
+  <programme start="20260701084500 +0200" stop="20260701085500 +0200" channel="teledepo.es">
+    <title lang="es">Trial Bici Campeonato de España</title>
+    <category lang="es">Ciclismo</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630065500 +0200" stop="20260630084000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Brasil - Japón</title>
+  <programme start="20260701085500 +0200" stop="20260701090000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Noticias</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701090000 +0200" stop="20260701104500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Francia - Suecia</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630084000 +0200" stop="20260630094000 +0200" channel="teledepo.es">
-    <title lang="es">Pebetero 2026</title>
-    <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
-  </programme>
-
-  <programme start="20260630094000 +0200" stop="20260630094500 +0200" channel="teledepo.es">
-    <title lang="es">Telediario Matinal</title>
-    <category lang="es">Noticias</category>
-  </programme>
-
-  <programme start="20260630094500 +0200" stop="20260630114500 +0200" channel="teledepo.es">
+  <programme start="20260701104500 +0200" stop="20260701114500 +0200" channel="teledepo.es">
     <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
     <category lang="es">Deportes</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630114500 +0200" stop="20260630120000 +0200" channel="teledepo.es">
+  <programme start="20260701114500 +0200" stop="20260701120000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260630120000 +0200" stop="20260630123000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Países Bajos - Marruecos Resumen</title>
+  <programme start="20260701120000 +0200" stop="20260701123000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630123000 +0200" stop="20260630130000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Brasil - Japón Resumen</title>
+  <programme start="20260701123000 +0200" stop="20260701130000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 Francia - Suecia Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630130000 +0200" stop="20260630133000 +0200" channel="teledepo.es">
-    <title lang="es">Resúmenes Partidos Mundial - 1/16 Alemania - Paraguay Resumen</title>
+  <programme start="20260701130000 +0200" stop="20260701133000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Costa de Marfil - Noruega</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630133000 +0200" stop="20260630140000 +0200" channel="teledepo.es">
-    <title lang="es">Resúmenes Partidos Mundial - 1/16 Países Bajos - Marruecos Resumen</title>
+  <programme start="20260701133000 +0200" stop="20260701140000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630140000 +0200" stop="20260630150000 +0200" channel="teledepo.es">
+  <programme start="20260701140000 +0200" stop="20260701150000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260630150000 +0200" stop="20260630153000 +0200" channel="teledepo.es">
-    <title lang="es">Estadio 2 Mundial Extra</title>
+  <programme start="20260701150000 +0200" stop="20260701152500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Extra</title>
     <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630153000 +0200" stop="20260630160000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Brasil - Japón Resumen</title>
+  <programme start="20260701152500 +0200" stop="20260701155500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 Costa de Marfil - Noruega</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630160000 +0200" stop="20260630163000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Alemania - Paraguay Resumen</title>
+  <programme start="20260701155500 +0200" stop="20260701162500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630163000 +0200" stop="20260630170000 +0200" channel="teledepo.es">
+  <programme start="20260701162500 +0200" stop="20260701165500 +0200" channel="teledepo.es">
     <title lang="es">Teledeporte Directo al Mundial</title>
     <category lang="es">Deportes</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260630170000 +0200" stop="20260630173000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Países Bajos - Marruecos Resumen</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
-  </programme>
-
-  <programme start="20260630173000 +0200" stop="20260630185500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Programa Gran Estadio Mundial 2026</title>
+  <programme start="20260701165500 +0200" stop="20260701184500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol UEFA Campeonato Europa Sub-19 Femenino España - Islandia</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260630185500 +0200" stop="20260630205000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Sala Liga Femenina Final Melilla - Navalcarnero</title>
-    <category lang="es">Fútbol Sala</category>
-  </programme>
-
-  <programme start="20260630205000 +0200" stop="20260630210000 +0200" channel="teledepo.es">
+  <programme start="20260701184500 +0200" stop="20260701185500 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial Extra</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260630210000 +0200" stop="20260630213000 +0200" channel="teledepo.es">
-    <title lang="es">Resúmenes Partidos Mundial</title>
-    <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
-  </programme>
-
-  <programme start="20260630213000 +0200" stop="20260630223000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Francia - Suecia</title>
+  <programme start="20260701185500 +0200" stop="20260701205000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol UEFA Campeonato Europa Sub-19 Masculino Dinamarca - España</title>
     <category lang="es">Fútbol</category>
   </programme>
 
-  <programme start="20260630223000 +0200" stop="20260630225500 +0200" channel="teledepo.es">
-    <title lang="es">Camino a NY</title>
+  <programme start="20260701205000 +0200" stop="20260701210000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260630225500 +0200" stop="20260701010000 +0200" channel="teledepo.es">
-    <title lang="es">Tenis ATP Mallorca 2026 Final</title>
-    <category lang="es">Tenis</category>
+  <programme start="20260701210000 +0200" stop="20260701213000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260701010000 +0200" stop="20260701020000 +0200" channel="teledepo.es">
+  <programme start="20260701213000 +0200" stop="20260701220000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 Costa de Marfil - Noruega</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701220000 +0200" stop="20260701223000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701223000 +0200" stop="20260701230000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 Inglaterra - Congo Resumen</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260701230000 +0200" stop="20260702004000 +0200" channel="teledepo.es">
     <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
     <category lang="es">Deportes</category>
   </programme>
 
-  <programme start="20260701020000 +0200" stop="20260701023000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Alemania - Paraguay Resumen</title>
+  <programme start="20260702004000 +0200" stop="20260702011000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Copa Mundial 1/16 Inglaterra - Congo Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260701023000 +0200" stop="20260701030000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Países Bajos - Marruecos Resumen</title>
+  <programme start="20260702011000 +0200" stop="20260702014000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Campeonato Europa Sub-19 Masculino Dinamarca - España Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260701030000 +0200" stop="20260701033000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Brasil - Japón Resumen</title>
+  <programme start="20260702014000 +0200" stop="20260702021000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Campeonato Europa Sub-19 Femenino España - Islandia Resumen</title>
     <category lang="es">Fútbol</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260701033000 +0200" stop="20260701040000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Sudáfrica - Canadá Resumen</title>
-    <category lang="es">Fútbol</category>
+  <programme start="20260702021000 +0200" stop="20260702031000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
     <rating><value>Para todos los públicos</value></rating>
   </programme>
 
-  <programme start="20260701040000 +0200" stop="20260701060000 +0200" channel="teledepo.es">
-    <title lang="es">Judo Campeonato Europa Cadete Finales Individuales</title>
+  <programme start="20260702031000 +0200" stop="20260702040000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+
+  <programme start="20260702040000 +0200" stop="20260702060000 +0200" channel="teledepo.es">
+    <title lang="es">Judo Acontecimiento Federación Española 2026 - Campeonato Europa Cadete Finales Individuales</title>
     <category lang="es">Judo</category>
+    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
 </tv>
