@@ -1,200 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-name="RTVE Teledeporte" generator-info-name="XMLTV">
+<tv generator-info-name="teledeporte-epg-generator" generator-info-url="https://github.com/">
   <channel id="teledepo.es">
-    <display-name lang="es">Teledeporte</display-name>
-    <icon src="https://www.rtve.es/resources/img/rtve-tdp-logo.png"/>
+    <display-name>Teledeporte</display-name>
+    <display-name>TDP</display-name>
   </channel>
 
+  <!-- ================= MIÉRCOLES 1 DE JULIO DE 2026 ================= -->
   <programme start="20260701060000 +0200" stop="20260701080000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Sala Liga Femenina Final Melilla - Navalcarnero</title>
+    <title lang="es">Futbol Sala Liga Fem Final Melilla - Navalcarnero</title>
     <category lang="es">Fútbol Sala</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701080000 +0200" stop="20260701080500 +0200" channel="teledepo.es">
     <title lang="es">Baloncesto Lista Chus Mateo</title>
     <category lang="es">Baloncesto</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701080500 +0200" stop="20260701083500 +0200" channel="teledepo.es">
     <title lang="es">TDPedales 2026</title>
     <category lang="es">Ciclismo</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701083500 +0200" stop="20260701084500 +0200" channel="teledepo.es">
-    <title lang="es">Ciclismo Acontecimiento Federación Española 2026 Resúmenes</title>
+    <title lang="es">Ciclismo Acont Fed Española 2026 Resumenes</title>
     <category lang="es">Ciclismo</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701084500 +0200" stop="20260701085500 +0200" channel="teledepo.es">
     <title lang="es">Trial Bici Campeonato de España</title>
     <category lang="es">Ciclismo</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701085500 +0200" stop="20260701090000 +0200" channel="teledepo.es">
     <title lang="es">Telediario Matinal</title>
-    <category lang="es">Noticias</category>
-    <rating><value>Para todos los públicos</value></rating>
+    <category lang="es">Informativos</category>
   </programme>
-
   <programme start="20260701090000 +0200" stop="20260701104500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Francia - Suecia</title>
+    <title lang="es">Futbol Copa Mundo FIFA 1/16 Francia - Suecia</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701104500 +0200" stop="20260701114500 +0200" channel="teledepo.es">
     <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
-    <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260701114500 +0200" stop="20260701120000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260701120000 +0200" stop="20260701123000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Mexico - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701123000 +0200" stop="20260701130000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Francia - Suecia Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Francia - Suecia Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701130000 +0200" stop="20260701133000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundo FIFA 1/16 Costa de Marfil - Noruega</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Costa Marfil - Noruega</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701133000 +0200" stop="20260701140000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Mexico - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701140000 +0200" stop="20260701150000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial</title>
-    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260701150000 +0200" stop="20260701152500 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Extra</title>
-    <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260701152500 +0200" stop="20260701155500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Costa de Marfil - Noruega</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Costa Marfil - Noruega</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701155500 +0200" stop="20260701162500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Mexico - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701162500 +0200" stop="20260701165500 +0200" channel="teledepo.es">
     <title lang="es">Teledeporte Directo al Mundial</title>
-    <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
-  </programme>
-
-  <programme start="20260701165500 +0200" stop="20260701184500 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol UEFA Campeonato Europa Sub-19 Femenino España - Islandia</title>
     <category lang="es">Fútbol</category>
   </programme>
-
+  <programme start="20260701165500 +0200" stop="20260701184500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol UEFA Cto Europa Sub19 Fem España - Islandia</title>
+    <category lang="es">Fútbol</category>
+  </programme>
   <programme start="20260701184500 +0200" stop="20260701185500 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial Extra</title>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260701185500 +0200" stop="20260701205000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol UEFA Campeonato Europa Sub-19 Masculino Dinamarca - España</title>
     <category lang="es">Fútbol</category>
   </programme>
-
+  <programme start="20260701185500 +0200" stop="20260701205000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol UEFA Cto Europa Sub19 Masc Dinamarca-España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
   <programme start="20260701205000 +0200" stop="20260701210000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2 Mundial Extra</title>
-    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260701210000 +0200" stop="20260701213000 +0200" channel="teledepo.es">
     <title lang="es">Camino a NY</title>
     <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701213000 +0200" stop="20260701220000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Costa de Marfil - Noruega</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Costa Marfil - Noruega</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701220000 +0200" stop="20260701223000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 México - Ecuador Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Mexico - Ecuador Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701223000 +0200" stop="20260701230000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Inglaterra - Congo Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Inglaterra-Congo Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260701230000 +0200" stop="20260702004000 +0200" channel="teledepo.es">
     <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
-    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
   </programme>
-
   <programme start="20260702004000 +0200" stop="20260702011000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Copa Mundial 1/16 Inglaterra - Congo Resumen</title>
+    <title lang="es">Futbol Copa Mundial 1/16 Inglaterra-Congo Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260702011000 +0200" stop="20260702014000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Campeonato Europa Sub-19 Masculino Dinamarca - España Resumen</title>
+    <title lang="es">Futbol Cto Europa Sub19 Masc Din - Esp Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260702014000 +0200" stop="20260702021000 +0200" channel="teledepo.es">
-    <title lang="es">Fútbol Campeonato Europa Sub-19 Femenino España - Islandia Resumen</title>
+    <title lang="es">Futbol Cto Europa Sub19 Fem Esp - Isl Resumen</title>
     <category lang="es">Fútbol</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260702021000 +0200" stop="20260702031000 +0200" channel="teledepo.es">
     <title lang="es">Denominación de Origen</title>
     <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
-
   <programme start="20260702031000 +0200" stop="20260702040000 +0200" channel="teledepo.es">
     <title lang="es">Denominación de Origen</title>
     <category lang="es">Deportes</category>
-    <rating><value>Para todos los públicos</value></rating>
+  </programme>
+  <programme start="20260702040000 +0200" stop="20260702060000 +0200" channel="teledepo.es">
+    <title lang="es">Judo Acont Federacion Española 2026 Transmisiones</title>
+    <category lang="es">Judo</category>
   </programme>
 
-  <programme start="20260702040000 +0200" stop="20260702060000 +0200" channel="teledepo.es">
-    <title lang="es">Judo Acontecimiento Federación Española 2026 - Campeonato Europa Cadete Finales Individuales</title>
+  <!-- ================= JUEVES 2 DE JULIO DE 2026 ================= -->
+  <programme start="20260702060000 +0200" stop="20260702061000 +0200" channel="teledepo.es">
+    <title lang="es">Trial Bici Campeonato de España</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260702061000 +0200" stop="20260702075500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1/16 Inglaterra - Congo</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702075500 +0200" stop="20260702081000 +0200" channel="teledepo.es">
+    <title lang="es">Triatlón Programa Somos Triatlón</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260702081000 +0200" stop="20260702082500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Programa Tierra de Campeones</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260702082500 +0200" stop="20260702084000 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Artística Final Liga de Clubes Iberdrola GAF</title>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20260702084000 +0200" stop="20260702090000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Programa Racing for Spain</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260702090000 +0200" stop="20260702090500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260702090500 +0200" stop="20260702093500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Fem Esp - Isl Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702093500 +0200" stop="20260702100500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Masc Din - Esp Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702100500 +0200" stop="20260702114500 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702114500 +0200" stop="20260702120000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702120000 +0200" stop="20260702123000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 EEUU - Bosnia H. Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702123000 +0200" stop="20260702130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Inglaterra-Congo Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702130000 +0200" stop="20260702133000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Belgica - Senegal Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702133000 +0200" stop="20260702140000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 EEUU - Bosnia H. Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702140000 +0200" stop="20260702150000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702150000 +0200" stop="20260702153000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702153000 +0200" stop="20260702160000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Belgica - Senegal Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702160000 +0200" stop="20260702163000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 EEUU - Bosnia H. Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702163000 +0200" stop="20260702173000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702173000 +0200" stop="20260702180000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702180000 +0200" stop="20260702183000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Belgica - Senegal Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702183000 +0200" stop="20260702185000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702185000 +0200" stop="20260702204500 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Clasif Cto Mundo 2027 España-Dinamarca</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260702204500 +0200" stop="20260702230000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1/16 España - Austria</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260702230000 +0200" stop="20260702232000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260702232000 +0200" stop="20260703010000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260703010000 +0200" stop="20260703013000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 EEUU - Bosnia H. Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260703013000 +0200" stop="20260703020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Belgica - Senegal Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260703020000 +0200" stop="20260703023000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Inglaterra-Congo Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260703023000 +0200" stop="20260703040000 +0200" channel="teledepo.es">
+    <title lang="es">Gala Presentacion Equipos Tour de Francia 2026</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260703040000 +0200" stop="20260703043000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Copa Mundo Prueba La Thuile</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260703043000 +0200" stop="20260703050000 +0200" channel="teledepo.es">
+    <title lang="es">Judo Cto Europa Cadete Finales por Equipos</title>
     <category lang="es">Judo</category>
-    <rating><value>Para todos los públicos</value></rating>
   </programme>
 
 </tv>
