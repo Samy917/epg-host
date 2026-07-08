@@ -1049,9 +1049,159 @@
     <title lang="es">Futbol Cto Europa Sub19 Masc SF Esp - Cro Resumen</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260709041000 +0200" stop="20260709050000 +0200" channel="teledepo.es">
+  <programme start="20260709041000 +0200" stop="20260709060000 +0200" channel="teledepo.es">
     <title lang="es">Ciclismo Tour de Francia 2026 5ª Etapa: Lannemezan - Pau</title>
     <category lang="es">Ciclismo</category>
+  </programme>
+
+  <!-- ================= JUEVES 9 DE JULIO DE 2026 ================= -->
+  <programme start="20260709060000 +0200" stop="20260709081000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Mitin Internacional de Barcelona</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260709081000 +0200" stop="20260709082500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Programa Tierra de Campeones</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260709082500 +0200" stop="20260709084000 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Rítmica Final Liga de Clubes Iberdrola</title>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20260709084000 +0200" stop="20260709093500 +0200" channel="teledepo.es">
+    <title lang="es">Hípica Concurso Saltos CSI Maeza</title>
+    <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20260709093500 +0200" stop="20260709094000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260709094000 +0200" stop="20260709100000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Programa Racing for Spain</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260709100000 +0200" stop="20260709110000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 5ª Etapa: Lannemezan - Pau</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260709110000 +0200" stop="20260709113000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Canada - Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709113000 +0200" stop="20260709120000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Paraguay - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709120000 +0200" stop="20260709123000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Fem SF Esp - Swe Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709123000 +0200" stop="20260709130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Masc SF Esp - Cro Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709130000 +0200" stop="20260709135500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709135500 +0200" stop="20260709155000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 6ª Etapa: Pau - Gavarnie-Gedre</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260709155000 +0200" stop="20260709162000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709162000 +0200" stop="20260709163000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709163000 +0200" stop="20260709170000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709170000 +0200" stop="20260709173000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Canada - Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709173000 +0200" stop="20260709180000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Paraguay - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709180000 +0200" stop="20260709193000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709193000 +0200" stop="20260709200000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 86 1/4 Final Bélgica - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709200000 +0200" stop="20260709203000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Canada - Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709203000 +0200" stop="20260709210000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Paraguay - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709210000 +0200" stop="20260709210500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Mbappé II</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709210500 +0200" stop="20260709214500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1/4 Francia - Marruecos</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709214500 +0200" stop="20260709215500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1/4 Francia - Marruecos</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260709215500 +0200" stop="20260709225500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 6ª Etapa: Pau - Gavarnie-Gedre</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260709225500 +0200" stop="20260710000000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Shanghai</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260710000000 +0200" stop="20260710001500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260710001500 +0200" stop="20260710010000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710010000 +0200" stop="20260710013000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 86 1/4 Final Bélgica - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710013000 +0200" stop="20260710020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol RDP Selección Previa España - Bélgica</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710020000 +0200" stop="20260710030000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 6ª Etapa: Pau - Gavarnie-Gedre</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260710030000 +0200" stop="20260710044500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1/4 Francia - Marruecos</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710044500 +0200" stop="20260710051500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA 2026 Goles Primera Fase</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710051500 +0200" stop="20260710053500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/16 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710053500 +0200" stop="20260710054500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260710054500 +0200" stop="20260710060000 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Rítmica Final Liga de Clubes Iberdrola</title>
+    <category lang="es">Gimnasia</category>
   </programme>
 
 </tv>
