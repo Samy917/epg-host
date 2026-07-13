@@ -1589,9 +1589,179 @@
     <title lang="es">Tiro con Arco Copa Mundo Final Equipos Recurvo</title>
     <category lang="es">Tiro con Arco</category>
   </programme>
-  <programme start="20260713042500 +0200" stop="20260713052500 +0200" channel="teledepo.es">
+  <programme start="20260713042500 +0200" stop="20260713060000 +0200" channel="teledepo.es">
     <title lang="es">Tiro con Arco Copa Mundo Final 4 Indiv Recurvo</title>
     <category lang="es">Tiro con Arco</category>
+  </programme>
+
+  <!-- ================= LUNES 13 DE JULIO DE 2026 ================= -->
+  <programme start="20260713060000 +0200" stop="20260713063000 +0200" channel="teledepo.es">
+    <title lang="es">Grabado Tiro con Arco Copa del Mundo Final Four Individual Recurvo Desde Madrid</title>
+    <category lang="es">Tiro con Arco</category>
+  </programme>
+  <programme start="20260713063000 +0200" stop="20260713071000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Copa Mundo Descenso Femenino</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260713071000 +0200" stop="20260713085000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Copa Mundo Descenso Masculino</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260713085000 +0200" stop="20260713090000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260713090000 +0200" stop="20260713100000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 9ª Etapa: Malemort - Ussel</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260713100000 +0200" stop="20260713102000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA 2026 Goles Primera Fase</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713102000 +0200" stop="20260713104000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/16 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713104000 +0200" stop="20260713110000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713110000 +0200" stop="20260713120000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Francia-Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713120000 +0200" stop="20260713130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713130000 +0200" stop="20260713133000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Noruega-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713133000 +0200" stop="20260713140000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713140000 +0200" stop="20260713141500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA 2026 Goles Primera Fase</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713141500 +0200" stop="20260713143000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/16 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713143000 +0200" stop="20260713144500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713144500 +0200" stop="20260713150500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713150500 +0200" stop="20260713153500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 2010 Alemania - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713153500 +0200" stop="20260713160500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 1986 Argentina-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713160500 +0200" stop="20260713161500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260713161500 +0200" stop="20260713171500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Francia-Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713171500 +0200" stop="20260713181500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713181500 +0200" stop="20260713184500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Noruega-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713184500 +0200" stop="20260713191500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713191500 +0200" stop="20260713194500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Fem Final Ale-Esp Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713194500 +0200" stop="20260713201500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Cto Europa Sub19 Masc Final Esp-Ale Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713201500 +0200" stop="20260713204500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 2010 Alemania - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713204500 +0200" stop="20260713211500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 1986 Argentina-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260713211500 +0200" stop="20260713221500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260713221500 +0200" stop="20260713222000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260713222000 +0200" stop="20260713231000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260713231000 +0200" stop="20260714000000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260714000000 +0200" stop="20260714003000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Francia - Senegal Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714003000 +0200" stop="20260714010000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Francia - Irak Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714010000 +0200" stop="20260714013000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Noruega - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714013000 +0200" stop="20260714020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Francia - Suecia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714020000 +0200" stop="20260714023000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Paraguay - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714023000 +0200" stop="20260714033000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Francia-Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714033000 +0200" stop="20260714040000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Cabo Verde Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714040000 +0200" stop="20260714043000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Arabia Saudí Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714043000 +0200" stop="20260714050000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Uruguay - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714050000 +0200" stop="20260714053000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 España - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714053000 +0200" stop="20260714060000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Portugal - España Resumen</title>
+    <category lang="es">Fútbol</category>
   </programme>
 
 </tv>
