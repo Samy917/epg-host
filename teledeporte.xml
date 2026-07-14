@@ -1898,4 +1898,142 @@
     <category lang="es">Fútbol</category>
   </programme>
 
+  <!-- ================= MIÉRCOLES 15 DE JULIO DE 2026 ================= -->
+  <programme start="20260715060000 +0200" stop="20260715063000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Argentina - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715063000 +0200" stop="20260715070000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Jordania - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715070000 +0200" stop="20260715073000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Argentina - Cabo Verde</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715073000 +0200" stop="20260715080000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Argentina - Egipto Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715080000 +0200" stop="20260715083000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715083000 +0200" stop="20260715083500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Messi III</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715083500 +0200" stop="20260715084500 +0200" channel="teledepo.es">
+    <title lang="es">TD Internacional 24 Horas</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260715084500 +0200" stop="20260715103000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1ª SF Francia - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715103000 +0200" stop="20260715130000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260715130000 +0200" stop="20260715140000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715140000 +0200" stop="20260715150000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715150000 +0200" stop="20260715152000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715152000 +0200" stop="20260715161500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 11ª Etapa: Vichy - Nevers</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260715161500 +0200" stop="20260715164500 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715164500 +0200" stop="20260715165000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715165000 +0200" stop="20260715165500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715165500 +0200" stop="20260715170000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Messi III</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715170000 +0200" stop="20260715171000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Bellingham</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715171000 +0200" stop="20260715181000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715181000 +0200" stop="20260715184000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 1986 Argentina-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715184000 +0200" stop="20260715190000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715190000 +0200" stop="20260715193500 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715193500 +0200" stop="20260715203000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260715203000 +0200" stop="20260715203400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Messi III</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715203400 +0200" stop="20260715203800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA Goles Bellingham</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715203800 +0200" stop="20260715205500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260715205500 +0200" stop="20260715215500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 11ª Etapa: Vichy - Nevers</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260715215500 +0200" stop="20260715230000 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Sprint Elite Masc Hamburgo</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260715230000 +0200" stop="20260715231500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260715231500 +0200" stop="20260716010000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716010000 +0200" stop="20260716020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716020000 +0200" stop="20260716034500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 2ª SF Inglaterra-Argentina</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716034500 +0200" stop="20260716044500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 11ª Etapa: Vichy - Nevers</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260716044500 +0200" stop="20260716061500 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Copa Mundo Cross Country Masculino</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
 </tv>
