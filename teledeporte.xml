@@ -1764,4 +1764,138 @@
     <category lang="es">Fútbol</category>
   </programme>
 
+  <!-- ================= MARTES 14 DE JULIO DE 2026 ================= -->
+  <programme start="20260714060000 +0200" stop="20260714062500 +0200" channel="teledepo.es">
+    <title lang="es">Resúmenes Mundial TP Nº 95 Futbol Copa Mundial 1/8 Argentina - Egipto</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714062500 +0200" stop="20260714065500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714065500 +0200" stop="20260714070500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714070500 +0200" stop="20260714073500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Francia - Suecia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714073500 +0200" stop="20260714080500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Paraguay - Francia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714080500 +0200" stop="20260714090500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Francia-Marruecos Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714090500 +0200" stop="20260714091500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260714091500 +0200" stop="20260714101500 +0200" channel="teledepo.es">
+    <title lang="es">Pebetero 2026</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260714101500 +0200" stop="20260714104500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Cabo Verde Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714104500 +0200" stop="20260714111500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Arabia Saudí Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714111500 +0200" stop="20260714114500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Uruguay - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714114500 +0200" stop="20260714120000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714120000 +0200" stop="20260714123000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 España - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714123000 +0200" stop="20260714130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Portugal - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714130000 +0200" stop="20260714140000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714140000 +0200" stop="20260714144000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714144000 +0200" stop="20260714155000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 10ª Etapa: Aurillac - Le Lioran</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260714155000 +0200" stop="20260714160000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714160000 +0200" stop="20260714163000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714163000 +0200" stop="20260714173000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714173000 +0200" stop="20260714180000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 2010 Alemania - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714180000 +0200" stop="20260714183000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714183000 +0200" stop="20260714204500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260714204500 +0200" stop="20260714230000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 1ª SF Francia - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260714230000 +0200" stop="20260715013000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260715013000 +0200" stop="20260715020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715020000 +0200" stop="20260715023000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Noruega-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715023000 +0200" stop="20260715033000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 10ª Etapa: Aurillac - Le Lioran</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260715033000 +0200" stop="20260715040000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Portugal - Uzbekistán Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715040000 +0200" stop="20260715043000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Panamá - Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715043000 +0200" stop="20260715050000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Inglaterra-Congo Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715050000 +0200" stop="20260715053000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Mexico-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260715053000 +0200" stop="20260715060000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Noruega-Inglaterra Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+
 </tv>
