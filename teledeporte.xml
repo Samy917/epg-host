@@ -2031,9 +2031,135 @@
     <title lang="es">Ciclismo Tour de Francia 2026 11ª Etapa: Vichy - Nevers</title>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20260716044500 +0200" stop="20260716061500 +0200" channel="teledepo.es">
+  <programme start="20260716044500 +0200" stop="20260716060000 +0200" channel="teledepo.es">
     <title lang="es">Mountain Bike Copa Mundo Cross Country Masculino</title>
     <category lang="es">Ciclismo</category>
+  </programme>
+
+  <!-- ================= JUEVES 16 DE JULIO DE 2026 ================= -->
+  <programme start="20260716060000 +0200" stop="20260716073000 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Relevos Mixtos Hamburgo</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260716073000 +0200" stop="20260716074000 +0200" channel="teledepo.es">
+    <title lang="es">Trial Bici Campeonato de España</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260716074000 +0200" stop="20260716075000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Mesa Reportaje Más Mujeres en Juego</title>
+    <category lang="es">Tenis de Mesa</category>
+  </programme>
+  <programme start="20260716075000 +0200" stop="20260716080000 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Artística Cto España GAF y GAM</title>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20260716080000 +0200" stop="20260716085500 +0200" channel="teledepo.es">
+    <title lang="es">Hípica Concurso Saltos CSI Coruña Trofeo Longines</title>
+    <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20260716085500 +0200" stop="20260716090500 +0200" channel="teledepo.es">
+    <title lang="es">TD Internacional 24 Horas</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260716090500 +0200" stop="20260716092500 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Programa Racing for Spain</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260716092500 +0200" stop="20260716111000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 2ª SF Inglaterra-Argentina</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716111000 +0200" stop="20260716125500 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716125500 +0200" stop="20260716135500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716135500 +0200" stop="20260716145500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 2ª SF Ing - Arg Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716145500 +0200" stop="20260716161500 +0200" channel="teledepo.es">
+    <title lang="es">Tour de Francia 2026 12ª Etapa: Circuit N. Magny Cours-Chalon sur Saône</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260716161500 +0200" stop="20260716162000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716162000 +0200" stop="20260716172000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260716172000 +0200" stop="20260716181000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260716181000 +0200" stop="20260716190000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 4</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260716190000 +0200" stop="20260716193000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716193000 +0200" stop="20260716194500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260716194500 +0200" stop="20260716195200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716195200 +0200" stop="20260716200000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260716200000 +0200" stop="20260716201000 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24H</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260716201000 +0200" stop="20260716224500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Competiciones RFEA Transmisiones 20256</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260716224500 +0200" stop="20260717012000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Mundial 2010 Final Países Bajos - España</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717012000 +0200" stop="20260717015000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717015000 +0200" stop="20260717025000 +0200" channel="teledepo.es">
+    <title lang="es">Tour de Francia 2026 12ª Etapa: Circuit N. Magny Cours-Chalon sur Saône</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260717025000 +0200" stop="20260717030400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA 2026 Goles Primera Fase</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717030400 +0200" stop="20260717031800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/16 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717031800 +0200" stop="20260717033200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717033200 +0200" stop="20260717034600 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717034600 +0200" stop="20260717040000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717040000 +0200" stop="20260717050000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Competiciones RFEA Transmisiones 20256</title>
+    <category lang="es">Atletismo</category>
   </programme>
 
 </tv>
