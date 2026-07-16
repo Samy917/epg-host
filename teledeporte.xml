@@ -2157,8 +2157,150 @@
     <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260717040000 +0200" stop="20260717050000 +0200" channel="teledepo.es">
+  <programme start="20260717040000 +0200" stop="20260717060000 +0200" channel="teledepo.es">
     <title lang="es">Atletismo Competiciones RFEA Transmisiones 20256</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+
+  <!-- ================= VIERNES 17 DE JULIO DE 2026 ================= -->
+  <programme start="20260717060000 +0200" stop="20260717063500 +0200" channel="teledepo.es">
+    <title lang="es">Redifusión Atletismo World Athletics Continental Tour Silver Desde Madrid / Jueves 16</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260717063500 +0200" stop="20260717064500 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Artística Cto España GAF y GAM</title>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20260717064500 +0200" stop="20260717074500 +0200" channel="teledepo.es">
+    <title lang="es">12ª Etapa: Circuit N. Magny Cours-Chalon sur Saône</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260717074500 +0200" stop="20260717080500 +0200" channel="teledepo.es">
+    <title lang="es">Surf Programa Surfing.es</title>
+    <category lang="es">Surf</category>
+  </programme>
+  <programme start="20260717080500 +0200" stop="20260717081500 +0200" channel="teledepo.es">
+    <title lang="es">Vela Campeonato del Mundo Juvenil de iQFOiL</title>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20260717081500 +0200" stop="20260717091000 +0200" channel="teledepo.es">
+    <title lang="es">Hípica Concurso Saltos CSI Coruña GP Casas Novas</title>
+    <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20260717091000 +0200" stop="20260717092000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Paralímpicos 2026</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260717092000 +0200" stop="20260717093000 +0200" channel="teledepo.es">
+    <title lang="es">TD Internacional 24 Horas</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260717093000 +0200" stop="20260717100000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Argentina - Argelia Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717100000 +0200" stop="20260717103000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Argentina - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717103000 +0200" stop="20260717110000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Jordania - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717110000 +0200" stop="20260717113000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 Argentina - Cabo Verde</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717113000 +0200" stop="20260717120000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Argentina - Egipto Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717120000 +0200" stop="20260717123000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 Argentina - Suiza Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717123000 +0200" stop="20260717133000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 2ª SF Ing - Arg Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717133000 +0200" stop="20260717140000 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717140000 +0200" stop="20260717143500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717143500 +0200" stop="20260717161500 +0200" channel="teledepo.es">
+    <title lang="es">13ª Etapa: Dole - Belfort</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260717161500 +0200" stop="20260717162500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717162500 +0200" stop="20260717163000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260717163000 +0200" stop="20260717171500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1988 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717171500 +0200" stop="20260717180000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1999 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717180000 +0200" stop="20260717193000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717193000 +0200" stop="20260717202000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260717202000 +0200" stop="20260717211000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260717211000 +0200" stop="20260717211700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/8 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717211700 +0200" stop="20260717212500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717212500 +0200" stop="20260717213500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717213500 +0200" stop="20260717214500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260717214500 +0200" stop="20260717224500 +0200" channel="teledepo.es">
+    <title lang="es">NY a por la Final</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260717224500 +0200" stop="20260718000000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718000000 +0200" stop="20260718004500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1988 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718004500 +0200" stop="20260718013000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1999 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718013000 +0200" stop="20260718023000 +0200" channel="teledepo.es">
+    <title lang="es">13ª Etapa: Dole - Belfort</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260718023000 +0200" stop="20260718024500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
     <category lang="es">Atletismo</category>
   </programme>
 
