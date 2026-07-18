@@ -2299,9 +2299,221 @@
     <title lang="es">13ª Etapa: Dole - Belfort</title>
     <category lang="es">Ciclismo</category>
   </programme>
-  <programme start="20260718023000 +0200" stop="20260718024500 +0200" channel="teledepo.es">
+  <programme start="20260718023000 +0200" stop="20260718060000 +0200" channel="teledepo.es">
     <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
     <category lang="es">Atletismo</category>
+  </programme>
+
+  <!-- ================= SÁBADO 18 DE JULIO DE 2026 ================= -->
+  <programme start="20260718060000 +0200" stop="20260718073500 +0200" channel="teledepo.es">
+    <title lang="es">Grabado Atletismo Campeonato de Europa Sub-18 Sesión Vespertina Desde Rieti (Italia)</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260718073500 +0200" stop="20260718090000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis ATP Challenger Pozoblanco 1/4 Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260718090000 +0200" stop="20260718100000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Matinal</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260718100000 +0200" stop="20260718102500 +0200" channel="teledepo.es">
+    <title lang="es">Trail Golden World Series Quebec Mega Trail</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260718102500 +0200" stop="20260718105500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718105500 +0200" stop="20260718115500 +0200" channel="teledepo.es">
+    <title lang="es">NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260718115500 +0200" stop="20260718131000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718131000 +0200" stop="20260718140000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260718140000 +0200" stop="20260718144500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718144500 +0200" stop="20260718155500 +0200" channel="teledepo.es">
+    <title lang="es">14ª Etapa: Mulhouse - Le Markstein Fellering</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260718155500 +0200" stop="20260718164000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1999 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718164000 +0200" stop="20260718170500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260718170500 +0200" stop="20260718180500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718180500 +0200" stop="20260718185000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Amistoso 1988 España - Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718185000 +0200" stop="20260718190500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718190500 +0200" stop="20260718191300 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles 1/4 Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718191300 +0200" stop="20260718192000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718192000 +0200" stop="20260718210000 +0200" channel="teledepo.es">
+    <title lang="es">NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260718210000 +0200" stop="20260718220500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260718220500 +0200" stop="20260718224500 +0200" channel="teledepo.es">
+    <title lang="es">NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260718224500 +0200" stop="20260719005000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA 3º-4º Francia - Inglaterra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719005000 +0200" stop="20260719010000 +0200" channel="teledepo.es">
+    <title lang="es">NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719010000 +0200" stop="20260719020000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719020000 +0200" stop="20260719023000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719023000 +0200" stop="20260719033000 +0200" channel="teledepo.es">
+    <title lang="es">14ª Etapa: Mulhouse - Le Markstein Fellering</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260719033000 +0200" stop="20260719035500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260719035500 +0200" stop="20260719060000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo UCI BMX Cto Mundo 1/4, SF y Finales</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <!-- ================= DOMINGO 19 DE JULIO DE 2026 (FINAL DEL MUNDIAL) ================= -->
+  <programme start="20260719060000 +0200" stop="20260719060500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo UCI BMX Cto Mundo 1/4, SF y Finales</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260719060500 +0200" stop="20260719085500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260719085500 +0200" stop="20260719102000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Matinal</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260719102000 +0200" stop="20260719111000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719111000 +0200" stop="20260719120000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719120000 +0200" stop="20260719130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 3º-4º Francia - Inglaterra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719130000 +0200" stop="20260719140000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719140000 +0200" stop="20260719143500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719143500 +0200" stop="20260719155500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 15ª Etapa: Champagnole - Plateau de Solaison</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260719155500 +0200" stop="20260719160000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719160000 +0200" stop="20260719163000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719163000 +0200" stop="20260719173000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Programa Gran Estadio Mundial 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719173000 +0200" stop="20260719175500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2 Mundial Extra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719175500 +0200" stop="20260719193000 +0200" channel="teledepo.es">
+    <title lang="es">Ojalá la Segunda</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719193000 +0200" stop="20260719204500 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719204500 +0200" stop="20260719230000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA Final España - Argentina</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260719230000 +0200" stop="20260719233000 +0200" channel="teledepo.es">
+    <title lang="es">Camino a NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260719233000 +0200" stop="20260720013000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720013000 +0200" stop="20260720023000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Cabo Verde Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720023000 +0200" stop="20260720030000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Arabia Saudí Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720030000 +0200" stop="20260720033000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Uruguay - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720033000 +0200" stop="20260720040000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 España - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720040000 +0200" stop="20260720043000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Portugal - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720043000 +0200" stop="20260720053000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720053000 +0200" stop="20260720063000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
   </programme>
 
 </tv>
