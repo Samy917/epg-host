@@ -2511,9 +2511,103 @@
     <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260720053000 +0200" stop="20260720063000 +0200" channel="teledepo.es">
+  <programme start="20260720053000 +0200" stop="20260720060000 +0200" channel="teledepo.es">
     <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
     <category lang="es">Fútbol</category>
+  </programme>
+
+  <!-- ================= LUNES 20 DE JULIO DE 2026 ================= -->
+  <programme start="20260720060000 +0200" stop="20260720063000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial de la FIFA 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720063000 +0200" stop="20260720085000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260720085000 +0200" stop="20260720090000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260720090000 +0200" stop="20260720110000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA Final España - Argentina</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720110000 +0200" stop="20260720123000 +0200" channel="teledepo.es">
+    <title lang="es">NY la Finalísima</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720123000 +0200" stop="20260720140000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Estudio Estadio Mundial TDP 2026</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720140000 +0200" stop="20260720150000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Final España-Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720150000 +0200" stop="20260720160000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720160000 +0200" stop="20260720161000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte Directo al Mundial</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720161000 +0200" stop="20260720170000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720170000 +0200" stop="20260720175000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 3</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720175000 +0200" stop="20260720175500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Semifinales</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720175500 +0200" stop="20260720180000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial FIFA Goles Final</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260720180000 +0200" stop="20260720215500 +0200" channel="teledepo.es">
+    <title lang="es">Programa a Determinar</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720215500 +0200" stop="20260720220000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260720220000 +0200" stop="20260721000000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA Final España - Argentina</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721000000 +0200" stop="20260721010000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721010000 +0200" stop="20260721015000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721015000 +0200" stop="20260721024000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 3</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721024000 +0200" stop="20260721033000 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 4</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721033000 +0200" stop="20260721040500 +0200" channel="teledepo.es">
+    <title lang="es">Superbike Campeonato España Supersport NG Aragón</title>
+    <category lang="es">Motociclismo</category>
+  </programme>
+  <programme start="20260721040500 +0200" stop="20260721044000 +0200" channel="teledepo.es">
+    <title lang="es">Superbike Campeonato España Superbike Aragón</title>
+    <category lang="es">Motociclismo</category>
+  </programme>
+  <programme start="20260721044000 +0200" stop="20260721060500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis ATP Challenger Pozoblanco Final</title>
+    <category lang="es">Tenis</category>
   </programme>
 
 </tv>
