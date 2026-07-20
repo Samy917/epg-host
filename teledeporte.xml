@@ -2605,9 +2605,87 @@
     <title lang="es">Superbike Campeonato España Superbike Aragón</title>
     <category lang="es">Motociclismo</category>
   </programme>
-  <programme start="20260721044000 +0200" stop="20260721060500 +0200" channel="teledepo.es">
+  <programme start="20260721044000 +0200" stop="20260721060000 +0200" channel="teledepo.es">
     <title lang="es">Tenis ATP Challenger Pozoblanco Final</title>
     <category lang="es">Tenis</category>
+  </programme>
+
+  <!-- ================= MARTES 21 DE JULIO DE 2026 ================= -->
+  <programme start="20260721060000 +0200" stop="20260721062500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 3</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721062500 +0200" stop="20260721140500 +0200" channel="teledepo.es">
+    <title lang="es">La Segunda Estrella es Nuestra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721140500 +0200" stop="20260721141500 +0200" channel="teledepo.es">
+    <title lang="es">Diario 24</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260721141500 +0200" stop="20260721161500 +0200" channel="teledepo.es">
+    <title lang="es">Tour de Francia 16ª Etapa: Evian-les-Bains - Thonon-les-Bains</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260721161500 +0200" stop="20260721162500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260721162500 +0200" stop="20260721185000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Cto Europa Sub18 Sesión Vespertina</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260721185000 +0200" stop="20260721190000 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24H</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260721190000 +0200" stop="20260721193000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Cabo Verde Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721193000 +0200" stop="20260721200000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial España - Arabia Saudí Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721200000 +0200" stop="20260721203000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Uruguay - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721203000 +0200" stop="20260721210000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 España - Austria Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721210000 +0200" stop="20260721213000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Portugal - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721213000 +0200" stop="20260721223000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721223000 +0200" stop="20260721233000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260721233000 +0200" stop="20260722003000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Final España-Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260722003000 +0200" stop="20260722013000 +0200" channel="teledepo.es">
+    <title lang="es">Tour de Francia 16ª Etapa: Evian-les-Bains - Thonon-les-Bains</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260722013000 +0200" stop="20260722023000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Copa Mundo Prueba Pal Arinsal</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260722023000 +0200" stop="20260722044500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis ATP Challenger Pozoblanco Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260722044500 +0200" stop="20260722054500 +0200" channel="teledepo.es">
+    <title lang="es">Tour de Francia 16ª Etapa: Evian-les-Bains - Thonon-les-Bains</title>
+    <category lang="es">Ciclismo</category>
   </programme>
 
 </tv>
