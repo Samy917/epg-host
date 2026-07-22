@@ -2683,8 +2683,114 @@
     <title lang="es">Tenis ATP Challenger Pozoblanco Final</title>
     <category lang="es">Tenis</category>
   </programme>
-  <programme start="20260722044500 +0200" stop="20260722054500 +0200" channel="teledepo.es">
+  <programme start="20260722044500 +0200" stop="20260722060000 +0200" channel="teledepo.es">
     <title lang="es">Tour de Francia 16ª Etapa: Evian-les-Bains - Thonon-les-Bains</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <!-- ================= MIÉRCOLES 22 DE JULIO DE 2026 ================= -->
+  <programme start="20260722060000 +0200" stop="20260722061500 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Rítmica Final Liga de Clubes Iberdrola</title>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20260722061500 +0200" stop="20260722083000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis ATP Challenger Pozoblanco Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260722083000 +0200" stop="20260722090500 +0200" channel="teledepo.es">
+    <title lang="es">Superbike Campeonato España Superbike Aragón</title>
+    <category lang="es">Motociclismo</category>
+  </programme>
+  <programme start="20260722090500 +0200" stop="20260722091500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260722091500 +0200" stop="20260722101500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 16ª Etapa: Evian-les-Bains - Thonon-les-Bains</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260722101500 +0200" stop="20260722121000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Copa Mundo Sub17 Fem Final USA - ESP</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260722121000 +0200" stop="20260722133000 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo 1/4 Fem España - Hungría</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260722133000 +0200" stop="20260722134000 +0200" channel="teledepo.es">
+    <title lang="es">Vela Campeonato de Europa de WASZP</title>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20260722134000 +0200" stop="20260722135000 +0200" channel="teledepo.es">
+    <title lang="es">Diario 24</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260722135000 +0200" stop="20260722145000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260722145000 +0200" stop="20260722161500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 17ª Etapa: Chambéry - Voiron</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260722161500 +0200" stop="20260722162500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722162500 +0200" stop="20260722172500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722172500 +0200" stop="20260722181500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722181500 +0200" stop="20260722190500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722190500 +0200" stop="20260722195500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722195500 +0200" stop="20260722200500 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24H</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260722200500 +0200" stop="20260722210500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Bélgica Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260722210500 +0200" stop="20260722220500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260722220500 +0200" stop="20260722230500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Final España-Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260722230500 +0200" stop="20260722231000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte 2</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260722231000 +0200" stop="20260723001000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 17ª Etapa: Chambéry - Voiron</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260723001000 +0200" stop="20260723011000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 2ª SF Ing - Arg Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260723011000 +0200" stop="20260723021000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 3º-4º Francia - Inglaterra</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260723021000 +0200" stop="20260723032500 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo 1/4 Fem España - Hungría</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260723032500 +0200" stop="20260723045000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 17ª Etapa: Chambéry - Voiron</title>
     <category lang="es">Ciclismo</category>
   </programme>
 
