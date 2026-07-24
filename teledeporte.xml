@@ -2794,4 +2794,107 @@
     <category lang="es">Ciclismo</category>
   </programme>
 
+  <!-- ================= VIERNES 24 DE JULIO DE 2026 ================= -->
+  <!-- Nota: no se recibió programación para el jueves 23 de julio; existe un hueco entre el final del bloque anterior y el inicio de este día. -->
+  <programme start="20260724060000 +0200" stop="20260724065500 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Slalom Finales Kayak</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260724065500 +0200" stop="20260724081500 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo 5º - 8º Masc España - Croacia</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260724081500 +0200" stop="20260724083000 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Playa Arena 1000 EBT Handball Tour Prueba Cádiz</title>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20260724083000 +0200" stop="20260724084000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Campeonato de España BTT XCO</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260724084000 +0200" stop="20260724085000 +0200" channel="teledepo.es">
+    <title lang="es">Parapente Copa del Mundo Pitolero 2026</title>
+    <category lang="es">Parapente</category>
+  </programme>
+  <programme start="20260724085000 +0200" stop="20260724090000 +0200" channel="teledepo.es">
+    <title lang="es">Deporte Paralímpico Programa Deporte para Todos</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260724090000 +0200" stop="20260724090500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260724090500 +0200" stop="20260724092500 +0200" channel="teledepo.es">
+    <title lang="es">Surf Programa Surfing.es</title>
+    <category lang="es">Surf</category>
+  </programme>
+  <programme start="20260724092500 +0200" stop="20260724121300 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260724121300 +0200" stop="20260724133000 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo 2ª SF Fem Rusia - España</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260724133000 +0200" stop="20260724134000 +0200" channel="teledepo.es">
+    <title lang="es">Diario 24</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260724134000 +0200" stop="20260724145500 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo 1ª SF Fem EE.UU. - Australia</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260724145500 +0200" stop="20260724153000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260724153000 +0200" stop="20260724155000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 19ª Etapa: Gap - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260724155000 +0200" stop="20260724160000 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte 1</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260724160000 +0200" stop="20260724170000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260724170000 +0200" stop="20260724191500 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Slalom Semifinales Canoe</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260724191500 +0200" stop="20260724192500 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24H</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260724192500 +0200" stop="20260724195500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260724195500 +0200" stop="20260724231500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260724231500 +0200" stop="20260725001500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 2026 19ª Etapa: Gap - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260725001500 +0200" stop="20260725011500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260725011500 +0200" stop="20260725021500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Final España-Argentina Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260725021500 +0200" stop="20260725034500 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Slalom Finales Canoe</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260725034500 +0200" stop="20260725044500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Matinal Desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+
 </tv>
