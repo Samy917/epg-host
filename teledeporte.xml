@@ -332,8 +332,112 @@
     <title lang="es">Piragüismo Cto Mundo Slalom Kayak Cross Series</title>
     <category lang="es">Piragüismo</category>
   </programme>
-  <programme start="20260728054500 +0200" stop="20260728064500 +0200" channel="teledepo.es">
+  <programme start="20260728054500 +0200" stop="20260728060000 +0200" channel="teledepo.es">
     <title lang="es">Piragüismo Cto Mundo Slalom Kayak Cross Finales</title>
     <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260728060000 +0200" stop="20260728065500 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Campeonato del Mundo Slalom Kayak Cross Finales</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260728065500 +0200" stop="20260728082000 +0200" channel="teledepo.es">
+    <title lang="es">Waterpolo Copa Mundo Final Masculina Hungría - Grecia desde Sidney</title>
+    <category lang="es">Waterpolo</category>
+  </programme>
+  <programme start="20260728082000 +0200" stop="20260728084500 +0200" channel="teledepo.es">
+    <title lang="es">Triatlón Programa Somos Triatlon</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260728084500 +0200" stop="20260728090000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Campeonato de España BTT XCO</title>
+    <category lang="es">Mountain bike</category>
+  </programme>
+  <programme start="20260728090000 +0200" stop="20260728090500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260728090500 +0200" stop="20260728091500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Mesa Reportaje de Promesas a Realidades</title>
+    <category lang="es">Tenis de mesa</category>
+  </programme>
+  <programme start="20260728091500 +0200" stop="20260728120500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Competiciones RFEA Transmisiones 20256</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260728120500 +0200" stop="20260728133000 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Slalom Finales Canoe</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260728133000 +0200" stop="20260728134000 +0200" channel="teledepo.es">
+    <title lang="es">Diario 24</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260728134000 +0200" stop="20260728141000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/16 España - Austria Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260728141000 +0200" stop="20260728144000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/8 Portugal - España Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260728144000 +0200" stop="20260728154000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1/4 España - Belgica Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260728154000 +0200" stop="20260728184500 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Competiciones RFEA Transmisiones 20256</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260728184500 +0200" stop="20260728185500 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24h</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260728185500 +0200" stop="20260728195500 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Tokio</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260728195500 +0200" stop="20260728210000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Tokio</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260728210000 +0200" stop="20260728220000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260728220000 +0200" stop="20260728220500 +0200" channel="teledepo.es">
+    <title lang="es">Teledeporte 2</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260728220500 +0200" stop="20260728230500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial 2ª SF Ing - Arg Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260728230500 +0200" stop="20260729014500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundo FIFA Final España - Argentina</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729014500 +0200" stop="20260729015500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Lo Mejor de la Fiesta la Segunda Estrella</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729015500 +0200" stop="20260729020000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Entrevista Luis de la Fuente</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729020000 +0200" stop="20260729030000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 3ª Etapa: Granollers - Les Angles</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729030000 +0200" stop="20260729040000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 10ª Etapa: Aurillac - Le Lioran</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729040000 +0200" stop="20260729050000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 19ª Etapa: Gap - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729050000 +0200" stop="20260729060000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia 20ª Etapa: Le Bourg d'Oisans - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
