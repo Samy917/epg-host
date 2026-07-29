@@ -440,4 +440,120 @@
     <title lang="es">Ciclismo Tour de Francia 20ª Etapa: Le Bourg d'Oisans - Alpe d'Huez</title>
     <category lang="es">Ciclismo</category>
   </programme>
+  <programme start="20260729060000 +0200" stop="20260729081000 +0200" channel="teledepo.es">
+    <title lang="es">Atletismo Campeonato de España Aire Libre Sesión Vespertina Finales 3ª Jornada desde Málaga</title>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20260729081000 +0200" stop="20260729091000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Tokio</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260729091000 +0200" stop="20260729091500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729091500 +0200" stop="20260729102000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Tokio</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260729102000 +0200" stop="20260729112000 +0200" channel="teledepo.es">
+    <title lang="es">3ª Etapa: Granollers - Les Angles</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729112000 +0200" stop="20260729122000 +0200" channel="teledepo.es">
+    <title lang="es">10ª Etapa: Aurillac - Le Lioran</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729122000 +0200" stop="20260729132000 +0200" channel="teledepo.es">
+    <title lang="es">14ª Etapa: Mulhouse - Le Markstein Fellering</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729132000 +0200" stop="20260729133000 +0200" channel="teledepo.es">
+    <title lang="es">Diario 24</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729133000 +0200" stop="20260729143000 +0200" channel="teledepo.es">
+    <title lang="es">19ª Etapa: Gap - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729143000 +0200" stop="20260729153000 +0200" channel="teledepo.es">
+    <title lang="es">20ª Etapa: Le Bourg d'Oisans - Alpe d'Huez</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729153000 +0200" stop="20260729154500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo el Quinto de Pogacar</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260729154500 +0200" stop="20260729161500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Supercopa 2011 Ida R. Madrid-FC Barcelona</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729161500 +0200" stop="20260729164500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Supercopa 2011 Vuelta FC Barcelona-R.Madrid</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729164500 +0200" stop="20260729165000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729165000 +0200" stop="20260729175500 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage Mou, Uno de Noi</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729175500 +0200" stop="20260729185500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Mundial Final España-Argentina Resumen</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729185500 +0200" stop="20260729194500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Alula SC - Villarreal CF</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729194500 +0200" stop="20260729195500 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24h</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729195500 +0200" stop="20260729214500 +0200" channel="teledepo.es">
+    <title lang="es">Directo Fútbol Como Cup Alula SC - Villarreal CF desde Como (Italia)</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729214500 +0200" stop="20260729215500 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24h</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729215500 +0200" stop="20260729225000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Villarreal CF - Como 1907</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260729225000 +0200" stop="20260729225500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260729225500 +0200" stop="20260730002500 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage la Noche Betica</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260730002500 +0200" stop="20260730020500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol Trofeo Ciudad de la Línea Betis - Olympique Lyon desde la Línea de la Concepción (Cádiz)</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260730020500 +0200" stop="20260730032000 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Slalom Finales Kayak</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260730032000 +0200" stop="20260730041500 +0200" channel="teledepo.es">
+    <title lang="es">Hipica Concurso Saltos CSI Coruña GP Casas Novas</title>
+    <category lang="es">Hípica</category>
+  </programme>
+  <programme start="20260730041500 +0200" stop="20260730044500 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Playa Arena 1000 EBT Tour Final Femenina</title>
+    <category lang="es">Balonmano playa</category>
+  </programme>
+  <programme start="20260730044500 +0200" stop="20260730051500 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Playa Arena 1000 EBT Tour Final Masc</title>
+    <category lang="es">Balonmano playa</category>
+  </programme>
+  <programme start="20260730051500 +0200" stop="20260730061500 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series 2026</title>
+    <category lang="es">Triatlón</category>
+  </programme>
 </tv>
