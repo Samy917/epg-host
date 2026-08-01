@@ -556,4 +556,312 @@
     <title lang="es">Triathlon World Series 2026</title>
     <category lang="es">Triatlón</category>
   </programme>
+  <programme start="20260801060000 +0200" stop="20260801060500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tecnica Duos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801060500 +0200" stop="20260801062800 +0200" channel="teledepo.es">
+    <title lang="es">Surf Programa Surfing.es</title>
+    <category lang="es">Surf</category>
+  </programme>
+  <programme start="20260801062800 +0200" stop="20260801063600 +0200" channel="teledepo.es">
+    <title lang="es">Vela Armada Cup</title>
+    <category lang="es">Vela</category>
+  </programme>
+  <programme start="20260801063600 +0200" stop="20260801074000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Cto Mundo Formula E Prueba Tokio</title>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20260801074000 +0200" stop="20260801085500 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final Mixto Equipos</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260801085500 +0200" stop="20260801092500 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260801092500 +0200" stop="20260801100000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tecnica Duos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801100000 +0200" stop="20260801105500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Trofeo Ciudad de la Linea Betis - O. Lyon</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260801105500 +0200" stop="20260801115000 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260801115000 +0200" stop="20260801120500 +0200" channel="teledepo.es">
+    <title lang="es">Triatlon Programa Somos Triatlon</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260801120500 +0200" stop="20260801130000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Villarreal CF - Como 1907</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260801130000 +0200" stop="20260801135000 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260801135000 +0200" stop="20260801140500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo el Quinto de Pogacar</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260801140500 +0200" stop="20260801155700 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 1ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260801155700 +0200" stop="20260801163500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistico Cto Europa Final Libre Duos Mix</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801163500 +0200" stop="20260801164500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260801164500 +0200" stop="20260801182500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Libre Duos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801182500 +0200" stop="20260801195500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 1ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260801195500 +0200" stop="20260801215000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Final RC Lens - Villarreal CF</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260801215000 +0200" stop="20260801215500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistico Cto Europa Final Libre Duos Mix</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801215500 +0200" stop="20260801220000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Libre Duos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260801220000 +0200" stop="20260801224500 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 1mt Masculino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260801224500 +0200" stop="20260801233000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 10mt Sincro Femenino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260801233000 +0200" stop="20260802011000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Final RC Lens - Villarreal CF</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260802011000 +0200" stop="20260802032000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 1ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260802032000 +0200" stop="20260802042000 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260802042000 +0200" stop="20260802050500 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260802050500 +0200" stop="20260802060000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis WTA WTT Maspalomas 1ª Semifinal</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260802060000 +0200" stop="20260802064500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Acont Fed Española 2026 Nº 56 Tenis WTA WTT Maspalomas 1ª Semifinal</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260802064500 +0200" stop="20260802083000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis WTA WTT Maspalomas 2ª Semifinal</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260802083000 +0200" stop="20260802093000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 1mt Masculino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260802093000 +0200" stop="20260802101500 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 10mt Sincro Femenino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260802101500 +0200" stop="20260802111000 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260802111000 +0200" stop="20260802120500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Libre Duos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260802120500 +0200" stop="20260802124500 +0200" channel="teledepo.es">
+    <title lang="es">Piraguismo Cto España Sprint Olimpico</title>
+    <category lang="es">Piragüismo</category>
+  </programme>
+  <programme start="20260802124500 +0200" stop="20260802140000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 1ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260802140000 +0200" stop="20260802150000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Final RC Lens - Villarreal CF</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260802150000 +0200" stop="20260802155500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Circuito de Getxo 2026</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260802155500 +0200" stop="20260802164100 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tec Duos Mixto</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260802164100 +0200" stop="20260802180000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 2ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260802180000 +0200" stop="20260802181000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tec Duos Mixto</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260802181000 +0200" stop="20260802185500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Circuito de Getxo 2026</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260802185500 +0200" stop="20260802200500 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 3mt Sincro Mixto</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260802200500 +0200" stop="20260802202500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tec Duos Mixto</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260802202500 +0200" stop="20260802222000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Cto Europa Sub-18 Masculino Final</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260802222000 +0200" stop="20260802223000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Seleccion Femenina Previa Mundial</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260802223000 +0200" stop="20260802223500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260802223500 +0200" stop="20260802234500 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 1mt Femenino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260802234500 +0200" stop="20260803004500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Como Cup Final RC Lens - Villarreal CF</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260803004500 +0200" stop="20260803014000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Trofeo Ciudad de la Linea Betis - O. Lyon</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260803014000 +0200" stop="20260803035000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 2ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260803035000 +0200" stop="20260803054500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis WTA WTT Maspalomas Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260803054500 +0200" stop="20260803060000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 3mt Sincro Mixto</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260803060000 +0200" stop="20260803065000 +0200" channel="teledepo.es">
+    <title lang="es">Natación Saltos Campeonato de Europa Deportes Acuáticos Final</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260803065000 +0200" stop="20260803074500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Tec Duos Mixto</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260803074500 +0200" stop="20260803082000 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Playa Cto España Final Femenina</title>
+    <category lang="es">Balonmano playa</category>
+  </programme>
+  <programme start="20260803082000 +0200" stop="20260803085500 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Playa Cto España Final Masculina</title>
+    <category lang="es">Balonmano playa</category>
+  </programme>
+  <programme start="20260803085500 +0200" stop="20260803100500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Solo Libre Fem</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260803100500 +0200" stop="20260803101000 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260803101000 +0200" stop="20260803112000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Solo Libre Mas</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260803112000 +0200" stop="20260803123000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Circuito de Getxo 2026</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260803123000 +0200" stop="20260803140500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 2ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260803140500 +0200" stop="20260803155000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Cto Europa Sub-18 Masculino Final</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260803155000 +0200" stop="20260803155500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260803155500 +0200" stop="20260803171800 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Libre Equipos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260803171800 +0200" stop="20260803175500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 3ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260803175500 +0200" stop="20260803185500 +0200" channel="teledepo.es">
+    <title lang="es">TDPedales 2026</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260803185500 +0200" stop="20260803201000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 3mt Sincro Masculino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260803201000 +0200" stop="20260803205500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Solo Libre Mas</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260803205500 +0200" stop="20260803221000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 10mt Femeninos</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260803221000 +0200" stop="20260803221500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260803221500 +0200" stop="20260804004500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Tour de Francia Femenino 3ª Etapa</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260804004500 +0200" stop="20260804020000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Libre Equipos</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260804020000 +0200" stop="20260804031500 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Solo Libre Fem</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260804031500 +0200" stop="20260804040000 +0200" channel="teledepo.es">
+    <title lang="es">Natacion Artistica Cto Europa Final Solo Libre Mas</title>
+    <category lang="es">Natación artística</category>
+  </programme>
+  <programme start="20260804040000 +0200" stop="20260804051000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 3mt Sincro Masculino</title>
+    <category lang="es">Saltos</category>
+  </programme>
+  <programme start="20260804051000 +0200" stop="20260804061000 +0200" channel="teledepo.es">
+    <title lang="es">Saltos Cto Europa Final 10mt Femeninos</title>
+    <category lang="es">Saltos</category>
+  </programme>
 </tv>
