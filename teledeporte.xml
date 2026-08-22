@@ -2196,8 +2196,224 @@
     <title lang="es">Hockey Hierba Cto Mundo España - Belgica (M)</title>
     <category lang="es">Hockey hierba</category>
   </programme>
-  <programme start="20260824033500 +0200" stop="20260824043500 +0200" channel="teledepo.es">
+  <programme start="20260824033500 +0200" stop="20260824060000 +0200" channel="teledepo.es">
     <title lang="es">Gimnasia Artistica Cto Europa Masc Final Equipos</title>
     <category lang="es">Gimnasia artística</category>
+  </programme>
+  <programme start="20260824060000 +0200" stop="20260824063500 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Artística Campeonato de Europa Masculino Final Equipos</title>
+    <category lang="es">Gimnasia artística</category>
+  </programme>
+  <programme start="20260824063500 +0200" stop="20260824080500 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem España - Azerbaiyan</title>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20260824080500 +0200" stop="20260824093000 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Hierba Cto Mundo España - Belgica (M)</title>
+    <category lang="es">Hockey hierba</category>
+  </programme>
+  <programme start="20260824093000 +0200" stop="20260824093500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260824093500 +0200" stop="20260824111000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Seleccion Femenina España - Belgica</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260824111000 +0200" stop="20260824114000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026: 2ª Etapa: Monaco - Manosque</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260824114000 +0200" stop="20260824124500 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824124500 +0200" stop="20260824131000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824131000 +0200" stop="20260824132000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Espanyol - R. Madrid</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824132000 +0200" stop="20260824133000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Athletic Club - Sevilla</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824133000 +0200" stop="20260824134000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Valencia - Celta</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824134000 +0200" stop="20260824135000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Betis - Real Sociedad</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824135000 +0200" stop="20260824140000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Oviedo - Leganes</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824140000 +0200" stop="20260824141000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Ceuta - Las Palmas</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824141000 +0200" stop="20260824142000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Eldense - Cadiz</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824142000 +0200" stop="20260824144500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824144500 +0200" stop="20260824161500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026: 3ª Etapa: Gruissan-Aude - Font Romeu</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260824161500 +0200" stop="20260824162500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260824162500 +0200" stop="20260824163900 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Elche - FC Barcelona</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824163900 +0200" stop="20260824165200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 At. Madrid - Villarreal</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824165200 +0200" stop="20260824170500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Getafe - Racing</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824170500 +0200" stop="20260824183000 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Hierba Cto Mundo España - Alemania (F)</title>
+    <category lang="es">Hockey hierba</category>
+  </programme>
+  <programme start="20260824183000 +0200" stop="20260824184000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260824184000 +0200" stop="20260824194000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824194000 +0200" stop="20260824200500 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824200500 +0200" stop="20260824201500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Espanyol - R. Madrid</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824201500 +0200" stop="20260824202500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Athletic Club - Sevilla</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824202500 +0200" stop="20260824203500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Valencia - Celta</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824203500 +0200" stop="20260824204500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Betis - Real Sociedad</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824204500 +0200" stop="20260824205500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Oviedo - Leganes</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824205500 +0200" stop="20260824210500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Ceuta - Las Palmas</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824210500 +0200" stop="20260824213000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026: 3ª Etapa: Gruissan-Aude - Font Romeu</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260824213000 +0200" stop="20260824214200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Elche - FC Barcelona</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824214200 +0200" stop="20260824215400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Getafe - Racing</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824215400 +0200" stop="20260824220600 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 At. Madrid - Villarreal</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824220600 +0200" stop="20260824221800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Espanyol - R. Madrid</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824221800 +0200" stop="20260824223100 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Valencia - Celta</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824223100 +0200" stop="20260824224400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Athletic Club - Sevilla</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824224400 +0200" stop="20260824225700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Betis - Real Sociedad</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824225700 +0200" stop="20260824231000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J2 Rayo - Alaves</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824231000 +0200" stop="20260824232200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Tenerife - Almeria</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824232200 +0200" stop="20260824233400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Sporting - Burgos</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824233400 +0200" stop="20260824234600 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Castellon - Sabadell</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824234600 +0200" stop="20260824235800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Eibar - Valladolid</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260824235800 +0200" stop="20260825001000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Eldense - Cadiz</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260825001000 +0200" stop="20260825002200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Ceuta - Las Palmas</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260825002200 +0200" stop="20260825003400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Albacete-R.Sociedad B</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260825003400 +0200" stop="20260825004700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Oviedo - Leganes</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260825004700 +0200" stop="20260825010000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J2 Cordoba - Girona</title>
+    <category lang="es">Futbol</category>
+  </programme>
+  <programme start="20260825010000 +0200" stop="20260825013000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026: 3ª Etapa: Gruissan-Aude - Font Romeu</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260825013000 +0200" stop="20260825025500 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Hierba Cto Mundo España - Alemania (F)</title>
+    <category lang="es">Hockey hierba</category>
+  </programme>
+  <programme start="20260825025500 +0200" stop="20260825035500 +0200" channel="teledepo.es">
+    <title lang="es">Triatlon Cto España Sprint Elite Masculino Merida</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260825035500 +0200" stop="20260825045500 +0200" channel="teledepo.es">
+    <title lang="es">Triatlon Cto España Sprint Elite Femenino Merida</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260825045500 +0200" stop="20260825055500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026: 3ª Etapa: Gruissan-Aude - Font Romeu</title>
+    <category lang="es">Ciclismo</category>
   </programme>
 </tv>
