@@ -285,4 +285,199 @@
     <rating><value>TP</value></rating>
   </programme>
 
+  <programme start="20260826060000 +0200" stop="20260826064500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 4ª etapa: Andorra la Vella - Andorra la Vella</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826064500 +0200" stop="20260826081000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Selección Femenina España - Bélgica</title>
+    <category lang="es">Baloncesto</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826081000 +0200" stop="20260826085000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Fórmula 4 Spain El Jarama</title>
+    <category lang="es">Automovilismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826085000 +0200" stop="20260826085500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260826085500 +0200" stop="20260826104000 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem Países Bajos - España</title>
+    <category lang="es">Voleibol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826104000 +0200" stop="20260826110500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 4ª etapa: Andorra la Vella - Andorra la Vella</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826110500 +0200" stop="20260826140500 +0200" channel="teledepo.es">
+    <title lang="es">Gimnasia Artística Cto Europa Masc Final Equipos</title>
+    <category lang="es">Gimnasia Artística</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826140500 +0200" stop="20260826142000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Valencia - Betis</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826142000 +0200" stop="20260826144500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2</title>
+    <category lang="es">Magazine Deportivo</category>
+  </programme>
+  <programme start="20260826144500 +0200" stop="20260826161500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 5ª etapa: Falset - Roquetes</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260826161500 +0200" stop="20260826162000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260826162000 +0200" stop="20260826163100 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Valencia - Betis</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826163100 +0200" stop="20260826164200 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Espanyol - R. Madrid</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826164200 +0200" stop="20260826165400 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Osasuna - Levante</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826165400 +0200" stop="20260826170600 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Málaga - Deportivo</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826170600 +0200" stop="20260826171800 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga Hypermotion J2 Granada - Mallorca</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826171800 +0200" stop="20260826173000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga Hypermotion J2 Celta - Andorra</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826173000 +0200" stop="20260826180000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 5ª etapa: Falset - Roquetes</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260826180000 +0200" stop="20260826200000 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem España - Portugal</title>
+    <category lang="es">Voleibol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826200000 +0200" stop="20260826201200 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Espanyol - R. Madrid</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826201200 +0200" stop="20260826202400 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 At. Madrid - Villarreal</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826202400 +0200" stop="20260826203600 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Elche - FC Barcelona</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826203600 +0200" stop="20260826204800 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Osasuna - Levante</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826204800 +0200" stop="20260826210000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Málaga - Deportivo</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826210000 +0200" stop="20260826213000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 5ª etapa: Falset - Roquetes</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826213000 +0200" stop="20260826214200 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Athletic Club - Sevilla</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826214200 +0200" stop="20260826215400 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 At. Madrid - Villarreal</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826215400 +0200" stop="20260826220600 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Getafe - Racing</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826220600 +0200" stop="20260826221800 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Elche - FC Barcelona</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826221800 +0200" stop="20260826223000 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Osasuna - Levante</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826223000 +0200" stop="20260826224200 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J2 Málaga - Deportivo</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826224200 +0200" stop="20260826225500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Valencia - Betis</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260826225500 +0200" stop="20260827000000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Magazine Deportivo</category>
+  </programme>
+  <programme start="20260827000000 +0200" stop="20260827001500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Valencia - Betis</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827001500 +0200" stop="20260827011500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 1</title>
+    <category lang="es">Documentales</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827011500 +0200" stop="20260827020500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 2</title>
+    <category lang="es">Documentales</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827020500 +0200" stop="20260827025500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 3</title>
+    <category lang="es">Documentales</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827025500 +0200" stop="20260827034500 +0200" channel="teledepo.es">
+    <title lang="es">Denominación de Origen 4</title>
+    <category lang="es">Documentales</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827034500 +0200" stop="20260827054500 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem España - Portugal</title>
+    <category lang="es">Voleibol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260827054500 +0200" stop="20260827060000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 5ª etapa: Falset - Roquetes</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+
 </tv>
