@@ -678,4 +678,179 @@
     <rating><value>TP</value></rating>
   </programme>
 
+  <programme start="20260828060000 +0200" stop="20260828063000 +0200" channel="teledepo.es">
+    <title lang="es">Remo Campeonato del Mundo Ámsterdam</title>
+    <category lang="es">Remo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828063000 +0200" stop="20260828074500 +0200" channel="teledepo.es">
+    <title lang="es">Triatlón Cto España Sprint Elite Femenino Mérida</title>
+    <category lang="es">Triatlón</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828074500 +0200" stop="20260828074700 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Chus Mateo</title>
+    <category lang="es">Baloncesto</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828074700 +0200" stop="20260828075000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Selección Aday Mara</title>
+    <category lang="es">Baloncesto</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828075000 +0200" stop="20260828085000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Magazine Deportivo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828085000 +0200" stop="20260828085500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260828085500 +0200" stop="20260828102000 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Hierba Cto Mundo 7º-8º China - España (F)</title>
+    <category lang="es">Hockey Hierba</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828102000 +0200" stop="20260828103000 +0200" channel="teledepo.es">
+    <title lang="es">Programa Paralímpicos 2026</title>
+    <category lang="es">Magazine Deportivo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828103000 +0200" stop="20260828105000 +0200" channel="teledepo.es">
+    <title lang="es">Surf Surfing.es</title>
+    <category lang="es">Surf</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828105000 +0200" stop="20260828112000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 6ª etapa: Alossebre - Castellón</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828112000 +0200" stop="20260828115000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Cto Mundo Short Track Femenino</title>
+    <category lang="es">Ciclismo Montaña</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828115000 +0200" stop="20260828122000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Cto Mundo Short Track Masculino</title>
+    <category lang="es">Ciclismo Montaña</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828122000 +0200" stop="20260828132000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio</title>
+    <category lang="es">Magazine Deportivo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828132000 +0200" stop="20260828155000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 7ª etapa: Vall d'Alba - Aramón Valdelinares</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260828155000 +0200" stop="20260828155500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260828155500 +0200" stop="20260828170000 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Sprint Finales</title>
+    <category lang="es">Piragüismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828170000 +0200" stop="20260828171500 +0200" channel="teledepo.es">
+    <title lang="es">Remo Campeonato del Mundo Ámsterdam</title>
+    <category lang="es">Remo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828171500 +0200" stop="20260828173000 +0200" channel="teledepo.es">
+    <title lang="es">Remo Campeonato del Mundo Ámsterdam</title>
+    <category lang="es">Remo</category>
+  </programme>
+  <programme start="20260828173000 +0200" stop="20260828180500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 7ª etapa: Vall d'Alba - Aramón Valdelinares</title>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20260828180500 +0200" stop="20260828193500 +0200" channel="teledepo.es">
+    <title lang="es">Hockey Hierba Cto Mundo SF Países Bajos - España (M)</title>
+    <category lang="es">Hockey Hierba</category>
+  </programme>
+  <programme start="20260828193500 +0200" stop="20260828194500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260828194500 +0200" stop="20260828195800 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Celta - Osasuna</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828195800 +0200" stop="20260828201100 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 FC Barcelona - Athletic</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828201100 +0200" stop="20260828202500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 R. Madrid - R. Sociedad</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828202500 +0200" stop="20260828205000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 7ª etapa: Vall d'Alba - Aramón Valdelinares</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828205000 +0200" stop="20260828230000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Clasif Cto Mundo España - Portugal</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260828230000 +0200" stop="20260828230500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <category lang="es">Informativos</category>
+  </programme>
+  <programme start="20260828230500 +0200" stop="20260828231700 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 FC Barcelona - Athletic</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828231700 +0200" stop="20260828232900 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Celta - Osasuna</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828232900 +0200" stop="20260828234200 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 R. Madrid - R. Sociedad</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828234200 +0200" stop="20260828235500 +0200" channel="teledepo.es">
+    <title lang="es">Fútbol LaLiga EA Sports J1 Valencia - Betis</title>
+    <category lang="es">Fútbol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260828235500 +0200" stop="20260829004000 +0200" channel="teledepo.es">
+    <title lang="es">Retro Deportivo Jornada 2 1981</title>
+    <category lang="es">Retro Deportivo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260829004000 +0200" stop="20260829014500 +0200" channel="teledepo.es">
+    <title lang="es">Retro Deportivo Jornada 2 1982</title>
+    <category lang="es">Retro Deportivo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260829014500 +0200" stop="20260829025500 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem España - Rumanía</title>
+    <category lang="es">Voleibol</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260829025500 +0200" stop="20260829051000 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Elite Masculino Weihai</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+  <programme start="20260829051000 +0200" stop="20260829055500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 7ª etapa: Vall d'Alba - Aramón Valdelinares</title>
+    <category lang="es">Ciclismo</category>
+    <rating><value>TP</value></rating>
+  </programme>
+  <programme start="20260829055500 +0200" stop="20260829060000 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Elite Femenino Weihai</title>
+    <category lang="es">Triatlón</category>
+  </programme>
+
 </tv>
