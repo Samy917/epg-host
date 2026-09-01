@@ -203,4 +203,178 @@
     <category lang="es">Ciclismo</category>
   </programme>
 
+  <programme start="20260902060000 +0200" stop="20260902082000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Clasif Cto Mundo Grecia - España</title>
+    <desc lang="es">Baloncesto Clasif Cto Mundo Grecia - España</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260902082000 +0200" stop="20260902082500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Telediario Matinal</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260902082500 +0200" stop="20260902100500 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Cto Mundo Cross Country Elite Fem</title>
+    <desc lang="es">Mountain Bike Cto Mundo Cross Country Elite Fem</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902100500 +0200" stop="20260902115500 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem 1/8 Turquía - Azerbaiyán</title>
+    <desc lang="es">Voleibol Cto Europa Fem 1/8 Turquía - Azerbaiyán</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+
+  <programme start="20260902115500 +0200" stop="20260902135000 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Elite Masculino Weihai</title>
+    <desc lang="es">Triathlon World Series Elite Masculino Weihai</desc>
+    <category lang="es">Triatlón</category>
+  </programme>
+
+  <programme start="20260902135000 +0200" stop="20260902142000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 10ª Etapa: Alcaraz - Elche de la Sierra</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 10ª Etapa: Alcaraz - Elche de la Sierra</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902142000 +0200" stop="20260902144500 +0200" channel="teledepo.es">
+    <title lang="es">Estadio 2</title>
+    <desc lang="es">Estadio 2</desc>
+    <category lang="es">Magacín deportivo</category>
+  </programme>
+
+  <programme start="20260902144500 +0200" stop="20260902161500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902161500 +0200" stop="20260902162000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes 1</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260902162000 +0200" stop="20260902163100 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Burgos - R.Sociedad B</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Burgos - R.Sociedad B</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902163100 +0200" stop="20260902164200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Celta - Castellón</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Celta - Castellón</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902164200 +0200" stop="20260902165400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Córdoba - Granada</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Córdoba - Granada</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902165400 +0200" stop="20260902170600 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Mallorca - Ceuta</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Mallorca - Ceuta</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902170600 +0200" stop="20260902171800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Cádiz - Valladolid</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Cádiz - Valladolid</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902171800 +0200" stop="20260902173000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga Hypermotion J3 Andorra - Eibar</title>
+    <desc lang="es">Futbol LaLiga Hypermotion J3 Andorra - Eibar</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902173000 +0200" stop="20260902180000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902180000 +0200" stop="20260902193200 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage Ciclismo Mariano Lejarreta I</title>
+    <desc lang="es">Conexión Vintage Ciclismo Mariano Lejarreta I</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902193200 +0200" stop="20260902210500 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage Ciclismo Mariano Lejarreta II</title>
+    <desc lang="es">Conexión Vintage Ciclismo Mariano Lejarreta II</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902210500 +0200" stop="20260902213000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260902213000 +0200" stop="20260902214200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J3 FC Barcelona - Rayo</title>
+    <desc lang="es">Futbol LaLiga EA Sports J3 FC Barcelona - Rayo</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902214200 +0200" stop="20260902215500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J3 Osasuna - Getafe</title>
+    <desc lang="es">Futbol LaLiga EA Sports J3 Osasuna - Getafe</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260902215500 +0200" stop="20260902220000 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes 2</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260902220000 +0200" stop="20260903001500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Rey Final 10/11 FC Barcelona - R. Madrid</title>
+    <desc lang="es">Futbol Copa Rey Final 10/11 FC Barcelona - R. Madrid</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260903001500 +0200" stop="20260903002700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J3 FC Barcelona - Rayo</title>
+    <desc lang="es">Futbol LaLiga EA Sports J3 FC Barcelona - Rayo</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260903002700 +0200" stop="20260903004000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J3 Osasuna - Getafe</title>
+    <desc lang="es">Futbol LaLiga EA Sports J3 Osasuna - Getafe</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260903004000 +0200" stop="20260903010500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903010500 +0200" stop="20260903030000 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem 1/4 Italia - Suecia</title>
+    <desc lang="es">Voleibol Cto Europa Fem 1/4 Italia - Suecia</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+
+  <programme start="20260903030000 +0200" stop="20260903041500 +0200" channel="teledepo.es">
+    <title lang="es">Piragüismo Cto Mundo Sprint Finales</title>
+    <desc lang="es">Piragüismo Cto Mundo Sprint Finales</desc>
+    <category lang="es">Piragüismo</category>
+  </programme>
+
+  <programme start="20260903041500 +0200" stop="20260903051500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
 </tv>
