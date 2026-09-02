@@ -377,4 +377,172 @@
     <category lang="es">Ciclismo</category>
   </programme>
 
+  <programme start="20260903060000 +0200" stop="20260903074500 +0200" channel="teledepo.es">
+    <title lang="es">Remo Campeonato del Mundo Amsterdam</title>
+    <desc lang="es">Remo Campeonato del Mundo Amsterdam</desc>
+    <category lang="es">Remo</category>
+  </programme>
+
+  <programme start="20260903074500 +0200" stop="20260903093000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Cto Mundo Cross Country Elite Masc</title>
+    <desc lang="es">Mountain Bike Cto Mundo Cross Country Elite Masc</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903093000 +0200" stop="20260903093500 +0200" channel="teledepo.es">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Telediario Matinal</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260903093500 +0200" stop="20260903113500 +0200" channel="teledepo.es">
+    <title lang="es">Voleibol Cto Europa Fem 1/4 Italia - Suecia</title>
+    <desc lang="es">Voleibol Cto Europa Fem 1/4 Italia - Suecia</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+
+  <programme start="20260903113500 +0200" stop="20260903115000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis Programa Tierra de Campeones</title>
+    <desc lang="es">Tenis Programa Tierra de Campeones</desc>
+    <category lang="es">Tenis</category>
+  </programme>
+
+  <programme start="20260903115000 +0200" stop="20260903121000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo Programa Racing for Spain</title>
+    <desc lang="es">Automovilismo Programa Racing for Spain</desc>
+    <category lang="es">Motor</category>
+  </programme>
+
+  <programme start="20260903121000 +0200" stop="20260903124000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 11ª Etapa: Cartagena - Lorca</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903124000 +0200" stop="20260903155000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903155000 +0200" stop="20260903155500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes 1</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260903155500 +0200" stop="20260903161000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto 20 Años Mundial Japón</title>
+    <desc lang="es">Baloncesto 20 Años Mundial Japón</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903161000 +0200" stop="20260903163000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Final Mundial 2006</title>
+    <desc lang="es">Baloncesto Final Mundial 2006</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903163000 +0200" stop="20260903165000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Celebración Mundial Saitama</title>
+    <desc lang="es">Baloncesto Celebración Mundial Saitama</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903165000 +0200" stop="20260903165500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes 1</desc>
+    <category lang="es">Informativos</category>
+  </programme>
+
+  <programme start="20260903165500 +0200" stop="20260903173000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Clasif Cto Mundo Grecia - España</title>
+    <desc lang="es">Baloncesto Clasif Cto Mundo Grecia - España</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903173000 +0200" stop="20260903180000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903180000 +0200" stop="20260903190500 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage: Bernard Hinault en la Vuelta a España de 1978</title>
+    <desc lang="es">Conexión Vintage: Bernard Hinault en la Vuelta a España de 1978</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903190500 +0200" stop="20260903210000 +0200" channel="teledepo.es">
+    <title lang="es">Conexión Vintage: Pino, el 19, pon el 19 Pino</title>
+    <desc lang="es">Conexión Vintage: Pino, el 19, pon el 19 Pino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903210000 +0200" stop="20260903213000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260903213000 +0200" stop="20260903214500 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto 20 Años Mundial Japón</title>
+    <desc lang="es">Baloncesto 20 Años Mundial Japón</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903214500 +0200" stop="20260903220500 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Final Mundial 2006</title>
+    <desc lang="es">Baloncesto Final Mundial 2006</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903220500 +0200" stop="20260903222500 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Celebración Mundial Saitama</title>
+    <desc lang="es">Baloncesto Celebración Mundial Saitama</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260903222500 +0200" stop="20260904004000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Copa Rey Final 12/13 R. Madrid - At. Madrid</title>
+    <desc lang="es">Futbol Copa Rey Final 12/13 R. Madrid - At. Madrid</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+
+  <programme start="20260904004000 +0200" stop="20260904010500 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260904010500 +0200" stop="20260904012000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto 20 Años Mundial Japón</title>
+    <desc lang="es">Baloncesto 20 Años Mundial Japón</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260904012000 +0200" stop="20260904014000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Final Mundial 2006</title>
+    <desc lang="es">Baloncesto Final Mundial 2006</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260904014000 +0200" stop="20260904020000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Celebración Mundial Saitama</title>
+    <desc lang="es">Baloncesto Celebración Mundial Saitama</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+
+  <programme start="20260904020000 +0200" stop="20260904040000 +0200" channel="teledepo.es">
+    <title lang="es">Mountain Bike Cto Mundo Descenso Elite Masculino</title>
+    <desc lang="es">Mountain Bike Cto Mundo Descenso Elite Masculino</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
+  <programme start="20260904040000 +0200" stop="20260904050000 +0200" channel="teledepo.es">
+    <title lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</title>
+    <desc lang="es">Ciclismo Vuelta a España 2026 12ª Etapa: Vera - Calar Alto</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+
 </tv>
