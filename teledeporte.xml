@@ -619,9 +619,249 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260909040000 +0200" stop="20260909043000 +0200" channel="teledepo.es">
+  <programme start="20260909040000 +0200" stop="20260909060000 +0200" channel="teledepo.es">
     <title lang="es">CICLISMO VUELTA A ESPAÑA 2026 16ª ETAPA: CORTEGANA-LA RABIDA - PALOS DE FRONTERA</title>
     <category lang="es">Ciclismo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909060000 +0200" stop="20260909061200 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA EA SPORTS J4 GETAFE - CELTA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909061200 +0200" stop="20260909062500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA EA SPORTS J4 ELCHE - R. SOCIEDAD</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909062500 +0200" stop="20260909080000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL SALA AMISTOSO FEMENINO ESPAÑA - POLONIA</title>
+    <category lang="es">Fútbol Sala</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909080000 +0200" stop="20260909092000 +0200" channel="teledepo.es">
+    <title lang="es">DEPORTE URBANO BCN EXTREME FINAL SKATE FEMENINO</title>
+    <category lang="es">Deporte Urbano</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909092000 +0200" stop="20260909092500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDIARIO MATINAL</title>
+    <category lang="es">Informativos Deportivos</category>
+  </programme>
+  <programme start="20260909092500 +0200" stop="20260909104500 +0200" channel="teledepo.es">
+    <title lang="es">DEPORTE URBANO BCN EXTREME FINAL SKATE MASCULINO</title>
+    <category lang="es">Deporte Urbano</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909104500 +0200" stop="20260909120000 +0200" channel="teledepo.es">
+    <title lang="es">DEPORTE URBANO BCN EXTREME FINAL SCOOTER STREET</title>
+    <category lang="es">Deporte Urbano</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909120000 +0200" stop="20260909123000 +0200" channel="teledepo.es">
+    <title lang="es">16ª ETAPA: CORTEGANA-LA RABIDA - PALOS DE FRONTERA</title>
+    <category lang="es">Deportes</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909123000 +0200" stop="20260909130000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL SALA PRESENTACION LIGA PRIME FUTSAL</title>
+    <category lang="es">Fútbol Sala</category>
+  </programme>
+  <programme start="20260909130000 +0200" stop="20260909135000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909135000 +0200" stop="20260909142000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909142000 +0200" stop="20260909144500 +0200" channel="teledepo.es">
+    <title lang="es">ESTADIO 2</title>
+    <category lang="es">Magacín Deportivo</category>
+  </programme>
+  <programme start="20260909144500 +0200" stop="20260909161500 +0200" channel="teledepo.es">
+    <title lang="es">17ª ETAPA: DOS HERMANAS - SEVILLA</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260909161500 +0200" stop="20260909170000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909170000 +0200" stop="20260909173000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260909173000 +0200" stop="20260909175500 +0200" channel="teledepo.es">
+    <title lang="es">17ª ETAPA: DOS HERMANAS - SEVILLA</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260909175500 +0200" stop="20260909195500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL SALA AMISTOSO FEMENINO ESPAÑA - POLONIA</title>
+    <category lang="es">Fútbol Sala</category>
+  </programme>
+  <programme start="20260909195500 +0200" stop="20260909204000 +0200" channel="teledepo.es">
+    <title lang="es">BALONMANO LIGA GUERRERAS J1 AT. GUARDES - LA RIOJA</title>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20260909204000 +0200" stop="20260909223000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO CTO MUNDO FEM 1/8 ITALIA - AUSTRALIA</title>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20260909223000 +0200" stop="20260909231000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+  </programme>
+  <programme start="20260909231000 +0200" stop="20260910000000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+  </programme>
+  <programme start="20260910000000 +0200" stop="20260910003000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+  </programme>
+  <programme start="20260910003000 +0200" stop="20260910003500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 R. MADRID - INTER MILAN</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910003500 +0200" stop="20260910004000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 LILLE - BETIS</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910004000 +0200" stop="20260910004500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 B. DORTMUND - VILLARREAL</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910004500 +0200" stop="20260910005000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 PORTO - MANCHESTER CITY</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910005000 +0200" stop="20260910005500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 BRUGGE - ASTON VILLA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910005500 +0200" stop="20260910010000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 AEK ATENAS - LASK</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910010000 +0200" stop="20260910013000 +0200" channel="teledepo.es">
+    <title lang="es">17ª ETAPA: DOS HERMANAS - SEVILLA</title>
+    <category lang="es">Deportes</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910013000 +0200" stop="20260910022000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910022000 +0200" stop="20260910025000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910025000 +0200" stop="20260910025500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 R. MADRID - INTER MILAN</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910025500 +0200" stop="20260910030000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 LILLE - BETIS</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910030000 +0200" stop="20260910030500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 B. DORTMUND - VILLARREAL</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910030500 +0200" stop="20260910031000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 PORTO - MANCHESTER CITY</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910031000 +0200" stop="20260910031500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 BRUGGE - ASTON VILLA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910031500 +0200" stop="20260910032000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPION LEAGUE J1 AEK ATENAS - LASK</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910032000 +0200" stop="20260910045500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO SILLA RUEDAS CTO. MUNDO ESPAÑA-COLOMBIA</title>
+    <category lang="es">Baloncesto</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20260910045500 +0200" stop="20260910052500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO SILLA RUEDAS CTO. MUNDO ESPAÑA-CANADA</title>
+    <category lang="es">Baloncesto</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
