@@ -5,159 +5,191 @@
     <display-name>Teledeporte</display-name>
   </channel>
 
-  <programme start="20260917060000 +0200" stop="20260917065500 +0200" channel="teledepo.es">
-    <title lang="es">Conexión Vintage Ciclismo Abraham Olano</title>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20260917065500 +0200" stop="20260917080500 +0200" channel="teledepo.es">
-    <title lang="es">Gimnasia Aeróbica Cto del Mundo 2026</title>
+  <programme start="20260918060000 +0200" stop="20260918061000 +0200" channel="teledepo.es">
+    <title lang="es">Automovilismo</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260917080500 +0200" stop="20260917093500 +0200" channel="teledepo.es">
-    <title lang="es">Balonmano Liga Guerreras J3 Porriño - Lanzarote</title>
-    <category lang="es">Balonmano</category>
+  <programme start="20260918061000 +0200" stop="20260918083500 +0200" channel="teledepo.es">
+    <title lang="es">Triathlon World Series Elite Femenino Karlovy Vary</title>
+    <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260917093500 +0200" stop="20260917094000 +0200" channel="teledepo.es">
+  <programme start="20260918083500 +0200" stop="20260918100000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Silla Ruedas Cto Mundo 5º - 8º Fem</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260918100000 +0200" stop="20260918100500 +0200" channel="teledepo.es">
     <title lang="es">Telediario Matinal</title>
   </programme>
-  <programme start="20260917094000 +0200" stop="20260917095500 +0200" channel="teledepo.es">
-    <title lang="es">Triatlon Programa Somos Triatlon</title>
+  <programme start="20260918100500 +0200" stop="20260918101500 +0200" channel="teledepo.es">
+    <title lang="es">Deporte Paralímpico Programa Deporte para Todos</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260917095500 +0200" stop="20260917101500 +0200" channel="teledepo.es">
-    <title lang="es">Automovilismo Programa Racing for Spain</title>
+  <programme start="20260918101500 +0200" stop="20260918103500 +0200" channel="teledepo.es">
+    <title lang="es">Surf Programa Surfing.es</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260917101500 +0200" stop="20260917120000 +0200" channel="teledepo.es">
-    <title lang="es">Futbol Cto Mundo Fem Sub20 1/8 España - Portugal</title>
-    <category lang="es">Fútbol</category>
+  <programme start="20260918103500 +0200" stop="20260918105000 +0200" channel="teledepo.es">
+    <title lang="es">Raids Baja Aragon</title>
+    <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260917120000 +0200" stop="20260917121300 +0200" channel="teledepo.es">
+  <programme start="20260918105000 +0200" stop="20260918110200 +0200" channel="teledepo.es">
     <title lang="es">Futbol LaLiga EA Sports J6 Elche - Real Madrid</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260917121300 +0200" stop="20260917122600 +0200" channel="teledepo.es">
+  <programme start="20260918110200 +0200" stop="20260918111400 +0200" channel="teledepo.es">
     <title lang="es">Futbol LaLiga EA Sports J6 Alaves - Valencia</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260917122600 +0200" stop="20260917124000 +0200" channel="teledepo.es">
+  <programme start="20260918111400 +0200" stop="20260918112600 +0200" channel="teledepo.es">
     <title lang="es">Futbol LaLiga EA Sports J6 Rayo - Espanyol</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260917124000 +0200" stop="20260917142000 +0200" channel="teledepo.es">
-    <title lang="es">Estudio Estadio</title>
+  <programme start="20260918112600 +0200" stop="20260918113800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 At. Madrid - Osasuna</title>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260917142000 +0200" stop="20260917150000 +0200" channel="teledepo.es">
+  <programme start="20260918113800 +0200" stop="20260918115000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Deportivo - Sevilla</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918115000 +0200" stop="20260918120200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 FC Barcelona - Racing</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918120200 +0200" stop="20260918121400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Betis - Getafe</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918121400 +0200" stop="20260918123000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Malaga - Villarreal</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918123000 +0200" stop="20260918125500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Rueda de Prensa Luis de la Fuente</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918125500 +0200" stop="20260918130700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Betis - Getafe</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918130700 +0200" stop="20260918132000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Malaga - Villarreal</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918132000 +0200" stop="20260918142000 +0200" channel="teledepo.es">
+    <title lang="es">Estudio Estadio 2026-2027 (2026)</title>
+  </programme>
+  <programme start="20260918142000 +0200" stop="20260918150000 +0200" channel="teledepo.es">
     <title lang="es">Estadio 2</title>
   </programme>
-  <programme start="20260917150000 +0200" stop="20260917172000 +0200" channel="teledepo.es">
-    <title lang="es">Futbol Copa Rey Final 12/13 R. Madrid - At. Madrid</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917172000 +0200" stop="20260917172500 +0200" channel="teledepo.es">
-    <title lang="es">Deportes 1</title>
-  </programme>
-  <programme start="20260917172500 +0200" stop="20260917190500 +0200" channel="teledepo.es">
-    <title lang="es">Estudio Estadio</title>
-  </programme>
-  <programme start="20260917190500 +0200" stop="20260917191500 +0200" channel="teledepo.es">
-    <title lang="es">La Tarde en 24H</title>
-  </programme>
-  <programme start="20260917191500 +0200" stop="20260917192500 +0200" channel="teledepo.es">
-    <title lang="es">Futbol Presentación Selección</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917192500 +0200" stop="20260917202200 +0200" channel="teledepo.es">
-    <title lang="es">Futbol Copa Mundial 1ª SF Francia - España Resumen</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917202200 +0200" stop="20260917212000 +0200" channel="teledepo.es">
-    <title lang="es">Futbol Copa Mundial Final España - Argentina Resumen</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917212000 +0200" stop="20260917213000 +0200" channel="teledepo.es">
-    <title lang="es">La Tarde en 24H</title>
-  </programme>
-  <programme start="20260917213000 +0200" stop="20260917214200 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Elche - Real Madrid</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917214200 +0200" stop="20260917215400 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Alaves - Valencia</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917215400 +0200" stop="20260917220600 +0200" channel="teledepo.es">
+  <programme start="20260918150000 +0200" stop="20260918151300 +0200" channel="teledepo.es">
     <title lang="es">Futbol LaLiga EA Sports J6 Rayo - Espanyol</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260917220600 +0200" stop="20260917221800 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 At. Madrid - Osasuna</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917221800 +0200" stop="20260917223000 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Deportivo - Sevilla</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917223000 +0200" stop="20260917224200 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 FC Barcelona - Racing</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917224200 +0200" stop="20260917225500 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Levante - Athletic Club</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260917225500 +0200" stop="20260917230000 +0200" channel="teledepo.es">
-    <title lang="es">Deportes 2</title>
-  </programme>
-  <programme start="20260917230000 +0200" stop="20260918000000 +0200" channel="teledepo.es">
-    <title lang="es">Estudio Estadio</title>
-  </programme>
-  <programme start="20260918000000 +0200" stop="20260918001200 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 FC Barcelona - Racing</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260918001200 +0200" stop="20260918002400 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 At. Madrid - Osasuna</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260918002400 +0200" stop="20260918003600 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Deportivo - Sevilla</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260918003600 +0200" stop="20260918004800 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Levante - Athletic Club</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260918004800 +0200" stop="20260918010000 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Elche - Real Madrid</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260918010000 +0200" stop="20260918011200 +0200" channel="teledepo.es">
+  <programme start="20260918151300 +0200" stop="20260918152600 +0200" channel="teledepo.es">
     <title lang="es">Futbol LaLiga EA Sports J6 Alaves - Valencia</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260918011200 +0200" stop="20260918012500 +0200" channel="teledepo.es">
-    <title lang="es">Futbol LaLiga EA Sports J6 Rayo - Espanyol</title>
+  <programme start="20260918152600 +0200" stop="20260918153900 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Elche - Real Madrid</title>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260918012500 +0200" stop="20260918024500 +0200" channel="teledepo.es">
-    <title lang="es">Deporte Urbano BCN Extreme Final Skate Femenino</title>
-    <category lang="es">Deportes</category>
+  <programme start="20260918153900 +0200" stop="20260918155200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 At. Madrid - Osasuna</title>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260918024500 +0200" stop="20260918040500 +0200" channel="teledepo.es">
-    <title lang="es">Deporte Urbano BCN Extreme Final Skate Masculino</title>
-    <category lang="es">Deportes</category>
+  <programme start="20260918155200 +0200" stop="20260918160500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Deportivo - Sevilla</title>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260918040500 +0200" stop="20260918051500 +0200" channel="teledepo.es">
-    <title lang="es">Deporte Urbano BCN Extreme Final Scooter Street</title>
-    <category lang="es">Deportes</category>
+  <programme start="20260918160500 +0200" stop="20260918161800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 FC Barcelona - Racing</title>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20260918051500 +0200" stop="20260918055000 +0200" channel="teledepo.es">
-    <title lang="es">Balonmano Silla Ruedas Cto Mundo España - Francia</title>
+  <programme start="20260918161800 +0200" stop="20260918163100 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Betis - Getafe</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918163100 +0200" stop="20260918164500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Malaga - Villarreal</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918164500 +0200" stop="20260918185500 +0200" channel="teledepo.es">
+    <title lang="es">Tenis WTA Internacional de Valencia 1/4 Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260918185500 +0200" stop="20260918204000 +0200" channel="teledepo.es">
+    <title lang="es">Balonmano Liga Asobal J2 Sevilla - Logroño La Rioj</title>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20260918055000 +0200" stop="20260918065000 +0200" channel="teledepo.es">
-    <title lang="es">Automovilismo Programa Racing for Spain</title>
+  <programme start="20260918204000 +0200" stop="20260918205000 +0200" channel="teledepo.es">
+    <title lang="es">La Tarde en 24H</title>
+  </programme>
+  <programme start="20260918205000 +0200" stop="20260918210200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Rayo - Espanyol</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918210200 +0200" stop="20260918211400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Alaves - Valencia</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918211400 +0200" stop="20260918212600 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Elche - Real Madrid</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918212600 +0200" stop="20260918213800 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 At. Madrid - Osasuna</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918213800 +0200" stop="20260918215000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Deportivo - Sevilla</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918215000 +0200" stop="20260918220200 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Betis - Getafe</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918220200 +0200" stop="20260918221400 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 Malaga - Villarreal</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918221400 +0200" stop="20260918223000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol LaLiga EA Sports J6 FC Barcelona - Racing</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918223000 +0200" stop="20260918223500 +0200" channel="teledepo.es">
+    <title lang="es">Deportes 2</title>
+  </programme>
+  <programme start="20260918223500 +0200" stop="20260918224500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Liga Atletico Madrid - R. Madrid 81/82 Resumen</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918224500 +0200" stop="20260918234500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Liga Atletico Madrid - R. Madrid Resumen 91/92</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260918234500 +0200" stop="20260919004500 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Liga Atletico Madrid - R. Madrid Resumen 94/95</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260919004500 +0200" stop="20260919005700 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Especial Derbi At. Madrid - R. Madrid 25/26</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260919005700 +0200" stop="20260919010000 +0200" channel="teledepo.es">
+    <title lang="es">Futbol Especial Derbi</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260919010000 +0200" stop="20260919030500 +0200" channel="teledepo.es">
+    <title lang="es">Vintage Futbol Liga Sevilla - FC Barcelona</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20260919030500 +0200" stop="20260919050000 +0200" channel="teledepo.es">
+    <title lang="es">Tenis WTA Internacional de Valencia 1/4 Final</title>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20260919050000 +0200" stop="20260919060000 +0200" channel="teledepo.es">
+    <title lang="es">Baloncesto Silla Ruedas Cto Mundo 7º - 8º Masc</title>
     <category lang="es">Deportes</category>
   </programme>
 </tv>
