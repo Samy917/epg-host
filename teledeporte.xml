@@ -4,385 +4,267 @@
   <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
   </channel>
-  <programme start="20260929060000 +0200" stop="20260929074000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL SALA LIGA PRIME J3 JAEN PARAISO - INTER JP</title>
-    <category lang="es">Fútbol Sala</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
+  <programme start="20261001060000 +0200" stop="20261001061000 +0200" channel="teledepo.es">
+    <title lang="es">WATERPOLO</title>
+    <category lang="es">Waterpolo</category>
   </programme>
-  <programme start="20260929074000 +0200" stop="20260929090500 +0200" channel="teledepo.es">
-    <title lang="es">PIRAGÜISMO CTO EUROPA SLALOM FINALES KAYAK CROSS</title>
-    <category lang="es">Piragüismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929090500 +0200" stop="20260929091000 +0200" channel="teledepo.es">
-    <title lang="es">TELEDIARIO MATINAL</title>
-    <category lang="es">Informativos Deportivos</category>
-  </programme>
-  <programme start="20260929091000 +0200" stop="20260929094000 +0200" channel="teledepo.es">
-    <title lang="es">RAIDS RALLIE DE MARRUECOS 2026</title>
-    <category lang="es">Automovilismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929094000 +0200" stop="20260929104000 +0200" channel="teledepo.es">
-    <title lang="es">PEBETERO 2026</title>
-    <category lang="es">Deportes</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929104000 +0200" stop="20260929122000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LIGA FEMENINA LOGROÑO UNITED - FC BARCELONA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929122000 +0200" stop="20260929123000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL RDP SONIA BERMUDEZ</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929123000 +0200" stop="20260929130500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL RDP SONIA BERMUDEZ</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929130500 +0200" stop="20260929131700 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 LEGANES - CASTELLON</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929131700 +0200" stop="20260929132900 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 EIBAR - LAS PALMAS</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929132900 +0200" stop="20260929134100 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 MALLORCA - ALMERIA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929134100 +0200" stop="20260929135300 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 BURGOS - ELDENSE</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929135300 +0200" stop="20260929140500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 GIRONA - ALBACETE</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929140500 +0200" stop="20260929142000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 CELTA - SABADELL</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929142000 +0200" stop="20260929150000 +0200" channel="teledepo.es">
-    <title lang="es">ESTADIO 2</title>
-    <category lang="es">Magacín Deportivo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929150000 +0200" stop="20260929161000 +0200" channel="teledepo.es">
-    <title lang="es">TDPEDALES 2026</title>
-    <category lang="es">Ciclismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929161000 +0200" stop="20260929181500 +0200" channel="teledepo.es">
-    <title lang="es">CICLISMO CTO MUNDO CARRETERA PRUEBA ELITE MASC</title>
-    <category lang="es">Ciclismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929181500 +0200" stop="20260929182000 +0200" channel="teledepo.es">
-    <title lang="es">TELEDEPORTE 1</title>
-    <category lang="es">Informativos Deportivos</category>
-  </programme>
-  <programme start="20260929182000 +0200" stop="20260929185000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA NATIONS LEAGUE INGLATERRA - ESPAÑA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929185000 +0200" stop="20260929192000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA NATIONS LEAGUE NORUEGA - PORTUGAL</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929192000 +0200" stop="20260929193000 +0200" channel="teledepo.es">
-    <title lang="es">LA TARDE EN 24H</title>
-    <category lang="es">Informativos Deportivos</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929193000 +0200" stop="20260929194200 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 LEGANES - CASTELLON</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929194200 +0200" stop="20260929195400 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 EIBAR - LAS PALMAS</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929195400 +0200" stop="20260929200500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 MALLORCA - ALMERIA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929200500 +0200" stop="20260929221500 +0200" channel="teledepo.es">
-    <title lang="es">TENIS LAVER CUP 2026</title>
-    <category lang="es">Tenis</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929221500 +0200" stop="20260929224000 +0200" channel="teledepo.es">
-    <title lang="es">RAIDS RALLIE DE MARRUECOS 2026</title>
-    <category lang="es">Automovilismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260929224000 +0200" stop="20260930000000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL PROGRAMA NATIONS LEAGUE 2026</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930000000 +0200" stop="20260930014500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA NATIONS LEAGUE ESPAÑA - CROACIA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930014500 +0200" stop="20260930015700 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 OVIEDO - SPORTING</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930015700 +0200" stop="20260930020900 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 TENERIFE - CADIZ</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930020900 +0200" stop="20260930022500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 GRANADA - ANDORRA</title>
-    <category lang="es">Fútbol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930022500 +0200" stop="20260930043500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO WNBA MINNESOTA LYNX - NEW YORK LIBERTY</title>
+  <programme start="20261001061000 +0200" stop="20261001075000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO SUPERCOPA FEMENINA FINAL</title>
     <category lang="es">Baloncesto</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930043500 +0200" stop="20260930050000 +0200" channel="teledepo.es">
-    <title lang="es">RAIDS RALLIE DE MARRUECOS 2026</title>
-    <category lang="es">Automovilismo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930050000 +0200" stop="20260930060000 +0200" channel="teledepo.es">
-    <title lang="es">BALONMANO AMISTOSO SELECCION FEM ESPAÑA - ALEMANIA</title>
-    <category lang="es">Balonmano</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930060000 +0200" stop="20260930062000 +0200" channel="teledepo.es">
-    <title lang="es">BALONMANO</title>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20260930062000 +0200" stop="20260930081000 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA U-22 BURGOS - BARÇA ATLETIC</title>
-    <category lang="es">Baloncesto</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930081000 +0200" stop="20260930082500 +0200" channel="teledepo.es">
-    <title lang="es">GOLF RETIRADA CARMEN ALONSO</title>
-    <category lang="es">Golf</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930082500 +0200" stop="20260930083000 +0200" channel="teledepo.es">
-    <title lang="es">TELEDIARIO MATINAL</title>
-    <category lang="es">Informativos Deportivos</category>
-  </programme>
-  <programme start="20260930083000 +0200" stop="20260930103500 +0200" channel="teledepo.es">
-    <title lang="es">VOLEIBOL CTO EUROPA MASCULINO FINAL</title>
-    <category lang="es">Voleibol</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930103500 +0200" stop="20260930105000 +0200" channel="teledepo.es">
+  <programme start="20261001075000 +0200" stop="20261001080500 +0200" channel="teledepo.es">
     <title lang="es">GOLF PROGRAMA HOLA GOLF</title>
     <category lang="es">Golf</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930105000 +0200" stop="20260930111500 +0200" channel="teledepo.es">
-    <title lang="es">RAIDS RALLIE DE MARRUECOS 2026</title>
+  <programme start="20261001080500 +0200" stop="20261001083000 +0200" channel="teledepo.es">
+    <title lang="es">TRIATLON PROGRAMA SOMOS TRIATLON</title>
+    <category lang="es">Triatlón</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001083000 +0200" stop="20261001083500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDIARIO MATINAL</title>
+    <category lang="es">Informativos Deportivos</category>
+  </programme>
+  <programme start="20261001083500 +0200" stop="20261001093000 +0200" channel="teledepo.es">
+    <title lang="es">HIPICA LIGA NACIONAL DE SALTOS PRUEBA SEVILLA</title>
+    <category lang="es">Hípica</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001093000 +0200" stop="20261001094000 +0200" channel="teledepo.es">
+    <title lang="es">CICLISMO CAMPEONATO DE ESPAÑA CARRETERA MASTER</title>
+    <category lang="es">Ciclismo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001094000 +0200" stop="20261001100000 +0200" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO PROGRAMA RACING FOR SPAIN</title>
     <category lang="es">Automovilismo</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930111500 +0200" stop="20260930120500 +0200" channel="teledepo.es">
-    <title lang="es">AUTOMOVILISMO FORMULA 4 SPAIN JEREZ</title>
-    <category lang="es">Automovilismo</category>
+  <programme start="20261001100000 +0200" stop="20261001101500 +0200" channel="teledepo.es">
+    <title lang="es">HOCKEY HIERBA PROGRAMA PENALTY CORNER</title>
+    <category lang="es">Hockey</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930120500 +0200" stop="20260930123500 +0200" channel="teledepo.es">
-    <title lang="es">ATLETISMO 5KM INTERNACIONAL PORT DE POLLENÇA</title>
-    <category lang="es">Atletismo</category>
+  <programme start="20261001101500 +0200" stop="20261001120500 +0200" channel="teledepo.es">
+    <title lang="es">TRIATHLON WORLD SERIES FINAL PONTEVEDRA ELITE MASC</title>
+    <category lang="es">Triatlón</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930123500 +0200" stop="20260930135000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL PROGRAMA JUEGO DE NACIONES</title>
+  <programme start="20261001120500 +0200" stop="20261001121700 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 GIRONA - ALBACETE</title>
     <category lang="es">Fútbol</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930135000 +0200" stop="20260930142000 +0200" channel="teledepo.es">
+  <programme start="20261001121700 +0200" stop="20261001122900 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 CEUTA - R. SOCIEDAD B</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001122900 +0200" stop="20261001124100 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 GRANADA - ANDORRA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001124100 +0200" stop="20261001125300 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 CELTA - SABADELL</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001125300 +0200" stop="20261001130500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 TENERIFE - CADIZ</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001130500 +0200" stop="20261001131700 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 VALLADOLID - CORDOBA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001131700 +0200" stop="20261001132900 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 MALLORCA - ALMERIA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001132900 +0200" stop="20261001134100 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 BURGOS - ELDENSE</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001134100 +0200" stop="20261001135300 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 EIBAR - LAS PALMAS</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001135300 +0200" stop="20261001140400 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 OVIEDO - SPORTING</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001140400 +0200" stop="20261001142000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL LALIGA HYPERMOTION J7 LEGANES - CASTELLON</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001142000 +0200" stop="20261001150000 +0200" channel="teledepo.es">
+    <title lang="es">ESTADIO 2</title>
+    <category lang="es">Magacín Deportivo</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001150000 +0200" stop="20261001165000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO WNBA ATLANTA DREAM - WASHINGTON MYSTICS</title>
+    <category lang="es">Baloncesto</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001165000 +0200" stop="20261001165500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDEPORTE 1</title>
+    <category lang="es">Informativos Deportivos</category>
+  </programme>
+  <programme start="20261001165500 +0200" stop="20261001184000 +0200" channel="teledepo.es">
+    <title lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA BAKU</title>
+    <category lang="es">Natación</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001184000 +0200" stop="20261001184500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDEPORTE 1</title>
+    <category lang="es">Informativos Deportivos</category>
+  </programme>
+  <programme start="20261001184500 +0200" stop="20261001191500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA NATIONS LEAGUE NORUEGA - PORTUGAL</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001191500 +0200" stop="20261001193000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL NATIONS LEAGUE INGLATERRA-ESPAÑA RESUMEN</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001193000 +0200" stop="20261001200000 +0200" channel="teledepo.es">
     <title lang="es">FUTBOL UEFA NATIONS LEAGUE ESPAÑA - CROACIA</title>
     <category lang="es">Fútbol</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930142000 +0200" stop="20260930150000 +0200" channel="teledepo.es">
-    <title lang="es">ESTADIO 2</title>
-    <category lang="es">Magacín Deportivo</category>
-  </programme>
-  <programme start="20260930150000 +0200" stop="20260930170000 +0200" channel="teledepo.es">
-    <title lang="es">CICLISMO CTO MUNDO CARRETERA PRUEBA ELITE FEMENINA</title>
-    <category lang="es">Ciclismo</category>
+  <programme start="20261001200000 +0200" stop="20261001201000 +0200" channel="teledepo.es">
+    <title lang="es">LA TARDE EN 24H</title>
+    <category lang="es">Informativos Deportivos</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930170000 +0200" stop="20260930173000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA NATIONS LEAGUE 2026-2027</title>
+  <programme start="20261001201000 +0200" stop="20261001220500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CLASIF CTO EUROPA SUB 21 SAN MARINO-ESPAÑA</title>
     <category lang="es">Fútbol</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930173000 +0200" stop="20260930173500 +0200" channel="teledepo.es">
-    <title lang="es">DEPORTES 1</title>
+  <programme start="20261001220500 +0200" stop="20261001221500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL XAVI ESPAR</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261001221500 +0200" stop="20261001222000 +0200" channel="teledepo.es">
+    <title lang="es">TELEDEPORTE 2</title>
     <category lang="es">Informativos Deportivos</category>
   </programme>
-  <programme start="20260930173500 +0200" stop="20260930192500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO WNBA 2026</title>
-    <category lang="es">Baloncesto</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930192500 +0200" stop="20260930204000 +0200" channel="teledepo.es">
-    <title lang="es">WATERPOLO CHAMPIONS LEAGUE 2026 27 PARTIDOS 2026</title>
-    <category lang="es">Waterpolo</category>
-  </programme>
-  <programme start="20260930204000 +0200" stop="20260930222000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL AMISTOSO SELECCIÓN SUB-20 ESPAÑA - MÉXICO DESDE MAJADAHONDA (MADRID)</title>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20260930222000 +0200" stop="20260930223000 +0200" channel="teledepo.es">
-    <title lang="es">WATERPOLO SUPERCOPA EUROPEA MASC CNAB - MARSELLA</title>
-    <category lang="es">Waterpolo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20260930223000 +0200" stop="20260930225500 +0200" channel="teledepo.es">
+  <programme start="20261001222000 +0200" stop="20261001224000 +0200" channel="teledepo.es">
     <title lang="es">RAIDS RALLIE DE MARRUECOS 2026</title>
     <category lang="es">Automovilismo</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930225500 +0200" stop="20260930230000 +0200" channel="teledepo.es">
-    <title lang="es">DEPORTES 2</title>
-    <category lang="es">Informativos Deportivos</category>
-  </programme>
-  <programme start="20260930230000 +0200" stop="20261001005500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO WNBA MINNESOTA LYNX - NEW YORK LIBERTY</title>
+  <programme start="20261001224000 +0200" stop="20261002002500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO WNBA ATLANTA DREAM - WASHINGTON MYSTICS</title>
     <category lang="es">Baloncesto</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20261001005500 +0200" stop="20261001030500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO WNBA ATLANTA DREAM - WASHINGTON MYSTICS</title>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261001030500 +0200" stop="20261001045000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL AMISTOSO SELECCIÓN SUB-20 ESPAÑA - MÉXICO DESDE MAJADAHONDA (MADRID)</title>
+  <programme start="20261002002500 +0200" stop="20261002004000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL NATIONS LEAGUE INGLATERRA-ESPAÑA RESUMEN</title>
     <category lang="es">Fútbol</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20261001045000 +0200" stop="20261001052000 +0200" channel="teledepo.es">
-    <title lang="es">WATERPOLO SUPERCOPA EUROPEA MASC CNAB - MARSELLA</title>
-    <category lang="es">Waterpolo</category>
+  <programme start="20261002004000 +0200" stop="20261002011000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA NATIONS LEAGUE ESPAÑA - CROACIA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261002011000 +0200" stop="20261002025500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CLASIF CTO EUROPA SUB 21 SAN MARINO-ESPAÑA</title>
+    <category lang="es">Fútbol</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261002025500 +0200" stop="20261002050500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO WNBA INDIANA FEVER - LAS VEGAS ACES</title>
+    <category lang="es">Baloncesto</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261002050500 +0200" stop="20261002053500 +0200" channel="teledepo.es">
+    <title lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA BAKU</title>
+    <category lang="es">Natación</category>
     <rating system="ES">
       <value>TP</value>
     </rating>
