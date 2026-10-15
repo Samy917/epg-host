@@ -3,304 +3,238 @@
   <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
   </channel>
-  <programme start="20261014060000 +0200" stop="20261014071500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL PLAYA MUNDIALITO ESPAÑA - BRASIL (M)</title>
-    <desc lang="es">FUTBOL PLAYA MUNDIALITO ESPAÑA - BRASIL (M)</desc>
-    <category lang="es">Fútbol</category>
+  <programme start="20261015060000 +0200" stop="20261015061000 +0200" channel="teledepo.es">
+    <title lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</title>
+    <desc lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</desc>
+    <category lang="es">Ciclismo</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014071500 +0200" stop="20261014075500 +0200" channel="teledepo.es">
-    <title lang="es">SQUASH COPA DE LA REINA FINAL</title>
-    <desc lang="es">SQUASH COPA DE LA REINA FINAL</desc>
-    <category lang="es">Squash</category>
+  <programme start="20261015061000 +0200" stop="20261015065500 +0200" channel="teledepo.es">
+    <title lang="es">ATLETISMO MILLA DE JAEN</title>
+    <desc lang="es">ATLETISMO MILLA DE JAEN</desc>
+    <category lang="es">Atletismo</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014075500 +0200" stop="20261014092000 +0200" channel="teledepo.es">
-    <title lang="es">HOCKEY PATINES CTO MUNDO MASC ESPAÑA - PORTUGAL</title>
-    <desc lang="es">HOCKEY PATINES CTO MUNDO MASC ESPAÑA - PORTUGAL</desc>
-    <category lang="es">Hockey patines</category>
+  <programme start="20261015065500 +0200" stop="20261015084000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO CHAMPIONS LEAGUE BILBAO - SLAVIA PRAHA</title>
+    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE BILBAO - SLAVIA PRAHA</desc>
+    <category lang="es">Baloncesto</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014092000 +0200" stop="20261014092500 +0200" channel="teledepo.es">
+  <programme start="20261015084000 +0200" stop="20261015084500 +0200" channel="teledepo.es">
     <title lang="es">TELEDIARIO MATINAL</title>
     <desc lang="es">TELEDIARIO MATINAL</desc>
     <category lang="es">Deportes</category>
     <rating system="TVE"><value>SIN CALIFICAR</value></rating>
   </programme>
-  <programme start="20261014092500 +0200" stop="20261014093500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO SILLA DE RUEDAS SUPERCOPA RESUMEN</title>
-    <desc lang="es">BALONCESTO SILLA DE RUEDAS SUPERCOPA RESUMEN</desc>
-    <category lang="es">Baloncesto</category>
+  <programme start="20261015084500 +0200" stop="20261015090000 +0200" channel="teledepo.es">
+    <title lang="es">TRIATLON PROGRAMA SOMOS TRIATLON</title>
+    <desc lang="es">TRIATLON PROGRAMA SOMOS TRIATLON</desc>
+    <category lang="es">Triatlón</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014093500 +0200" stop="20261014100000 +0200" channel="teledepo.es">
-    <title lang="es">BALONMANO PROGRAMA GUERRERAS DHF 2026</title>
-    <desc lang="es">BALONMANO PROGRAMA GUERRERAS DHF 2026</desc>
-    <category lang="es">Balonmano</category>
+  <programme start="20261015090000 +0200" stop="20261015092000 +0200" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO PROGRAMA RACING FOR SPAIN</title>
+    <desc lang="es">AUTOMOVILISMO PROGRAMA RACING FOR SPAIN</desc>
+    <category lang="es">Automovilismo</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014100000 +0200" stop="20261014101500 +0200" channel="teledepo.es">
-    <title lang="es">GOLF PROGRAMA HOLA GOLF</title>
-    <desc lang="es">GOLF PROGRAMA HOLA GOLF</desc>
-    <category lang="es">Golf</category>
+  <programme start="20261015092000 +0200" stop="20261015093500 +0200" channel="teledepo.es">
+    <title lang="es">HOCKEY HIERBA PROGRAMA PENALTY CORNER</title>
+    <desc lang="es">HOCKEY HIERBA PROGRAMA PENALTY CORNER</desc>
+    <category lang="es">Hockey hierba</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261014101500 +0200" stop="20261014111500 +0200" channel="teledepo.es">
-    <title lang="es">PEBETERO 2026</title>
-    <desc lang="es">PEBETERO 2026</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014111500 +0200" stop="20261014115000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014115000 +0200" stop="20261014123000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014123000 +0200" stop="20261014141500 +0200" channel="teledepo.es">
-    <title lang="es">CICLISMO UER/UCI CAMPEONATO MUNDO PISTA 2026</title>
-    <desc lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</desc>
-    <category lang="es">Ciclismo</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014141500 +0200" stop="20261014150000 +0200" channel="teledepo.es">
-    <title lang="es">ESTADIO 2</title>
-    <desc lang="es">ESTADIO 2</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014150000 +0200" stop="20261014150500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014150500 +0200" stop="20261014151000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014151000 +0200" stop="20261014151500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014151500 +0200" stop="20261014152000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014152000 +0200" stop="20261014152500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014152500 +0200" stop="20261014153000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</title>
-    <desc lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014153000 +0200" stop="20261014153500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014153500 +0200" stop="20261014154000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 SABAH-SLAVIA PRAGA</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 SABAH-SLAVIA PRAGA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014154000 +0200" stop="20261014154500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LENS - SPORTING CP</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LENS - SPORTING CP</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014154500 +0200" stop="20261014161500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL AMISTOSO SELECCION FEM. EE.UU. - ESPAÑA</title>
-    <desc lang="es">FUTBOL AMISTOSO SELECCION FEM. EE.UU. - ESPAÑA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014161500 +0200" stop="20261014162500 +0200" channel="teledepo.es">
-    <title lang="es">DEPORTES 1</title>
-    <desc lang="es">DEPORTES 1</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014162500 +0200" stop="20261014170000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014170000 +0200" stop="20261014174000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014174000 +0200" stop="20261014174500 +0200" channel="teledepo.es">
-    <title lang="es">TELEDEPORTE 1</title>
-    <desc lang="es">DEPORTES 1</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014174500 +0200" stop="20261014181500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL SELECCION FEMENINA 2026</title>
-    <desc lang="es">FUTBOL AMISTOSO SELECCION FEM. EE.UU. - ESPAÑA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014181500 +0200" stop="20261014182000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014182000 +0200" stop="20261014182500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014182500 +0200" stop="20261014183000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014183000 +0200" stop="20261014184000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CTO MUNDO FEM FINAL ESPAÑA - COREA</title>
-    <desc lang="es">FUTBOL CTO MUNDO FEM FINAL ESPAÑA - COREA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014184000 +0200" stop="20261014185000 +0200" channel="teledepo.es">
-    <title lang="es">LA TARDE EN 24H</title>
-    <desc lang="es">LA TARDE EN 24H</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014185000 +0200" stop="20261014205000 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO CHAMPIONS LEAGUE BAMBERG - UCAM MURCIA</title>
-    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE BAMBERG - UCAM MURCIA</desc>
-    <category lang="es">Baloncesto</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014205000 +0200" stop="20261014210000 +0200" channel="teledepo.es">
-    <title lang="es">LA TARDE EN 24H</title>
-    <desc lang="es">LA TARDE EN 24H</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261014210000 +0200" stop="20261014214500 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO CHAMPIONS LEAGUE BILBAO - SLAVIA PRAHA</title>
-    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE BILBAO - SLAVIA PRAHA</desc>
-    <category lang="es">Baloncesto</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014214500 +0200" stop="20261014231000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261014231000 +0200" stop="20261015000000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261015000000 +0200" stop="20261015010000 +0200" channel="teledepo.es">
-    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
-    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
-    <category lang="es">Deportes</category>
-    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
-  </programme>
-  <programme start="20261015010000 +0200" stop="20261015010500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015010500 +0200" stop="20261015011000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</title>
-    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015011000 +0200" stop="20261015011500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015011500 +0200" stop="20261015012000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015012000 +0200" stop="20261015012500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015012500 +0200" stop="20261015013000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</title>
-    <desc lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015013000 +0200" stop="20261015013500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015013500 +0200" stop="20261015014000 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 SABAH-SLAVIA PRAGA</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 SABAH-SLAVIA PRAGA</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015014000 +0200" stop="20261015014500 +0200" channel="teledepo.es">
-    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LENS - SPORTING CP</title>
-    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LENS - SPORTING CP</desc>
-    <category lang="es">Fútbol</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015014500 +0200" stop="20261015030500 +0200" channel="teledepo.es">
+  <programme start="20261015093500 +0200" stop="20261015110000 +0200" channel="teledepo.es">
     <title lang="es">HOCKEY PATINES CTO MUNDO MASC ESPAÑA - SUIZA</title>
     <desc lang="es">HOCKEY PATINES CTO MUNDO MASC ESPAÑA - SUIZA</desc>
     <category lang="es">Hockey patines</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261015030500 +0200" stop="20261015042500 +0200" channel="teledepo.es">
-    <title lang="es">WATERPOLO SUPERCOPA MASCULINA CNAB - CN SABADELL</title>
-    <desc lang="es">WATERPOLO SUPERCOPA MASCULINA CNAB - CN SABADELL</desc>
-    <category lang="es">Waterpolo</category>
-    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
-  </programme>
-  <programme start="20261015042500 +0200" stop="20261015060000 +0200" channel="teledepo.es">
+  <programme start="20261015110000 +0200" stop="20261015140500 +0200" channel="teledepo.es">
     <title lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</title>
     <desc lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</desc>
     <category lang="es">Ciclismo</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015140500 +0200" stop="20261015141000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ROMA - REAL MADRID</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ROMA - REAL MADRID</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015141000 +0200" stop="20261015141500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 REAL BETIS - PORTO</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 REAL BETIS - PORTO</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015141500 +0200" stop="20261015142000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 M. CITY - PSG</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 M. CITY - PSG</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015142000 +0200" stop="20261015150000 +0200" channel="teledepo.es">
+    <title lang="es">ESTADIO 2</title>
+    <desc lang="es">ESTADIO 2</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015150000 +0200" stop="20261015162000 +0200" channel="teledepo.es">
+    <title lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA ASTANA</title>
+    <desc lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA ASTANA</desc>
+    <category lang="es">Natación</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015162000 +0200" stop="20261015162500 +0200" channel="teledepo.es">
+    <title lang="es">DEPORTES 1</title>
+    <desc lang="es">DEPORTES 1</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015162500 +0200" stop="20261015163000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 BODO GLIM-B. DORTMUND</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 BODO GLIM-B. DORTMUND</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015163000 +0200" stop="20261015163500 +0200" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 LASK - LIVERPOOL</title>
+    <desc lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 LASK - LIVERPOOL</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015163500 +0200" stop="20261015164000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 FEYENOORD - COMO</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 FEYENOORD - COMO</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015164000 +0200" stop="20261015164500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 A.VILLA-FENERBAHÇE</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 A.VILLA-FENERBAHÇE</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015164500 +0200" stop="20261015165000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 SHAKHTAR - AEK ATENAS</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 SHAKHTAR - AEK ATENAS</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015165000 +0200" stop="20261015165500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 S. BRATISLAVA-STUTTGART</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 S. BRATISLAVA-STUTTGART</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015165500 +0200" stop="20261015170000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 GALATASARAY-FCBARCELONA</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015170000 +0200" stop="20261015170500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J2 ATLETICO-MANCHESTER UTD</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015170500 +0200" stop="20261015171000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VILLARREAL-NAPOLES</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015171000 +0200" stop="20261015171500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 ARSENAL - LILLE</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015171500 +0200" stop="20261015172000 +0200" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</title>
+    <desc lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE J2 INTER - BRUGGE</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015172000 +0200" stop="20261015172500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 VIKING - B. MUNICH</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015172500 +0200" stop="20261015173000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 LEIPZIG - PSV</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015173000 +0200" stop="20261015182800 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015182800 +0200" stop="20261015192500 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015192500 +0200" stop="20261015210000 +0200" channel="teledepo.es">
+    <title lang="es">HOCKEY PATINES CTO MUNDO MASC 1/4 FINAL</title>
+    <desc lang="es">HOCKEY PATINES CTO MUNDO MASC 1/4 FINAL</desc>
+    <category lang="es">Hockey patines</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015210000 +0200" stop="20261015211000 +0200" channel="teledepo.es">
+    <title lang="es">LA TARDE EN 24H</title>
+    <desc lang="es">LA TARDE EN 24H</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015211000 +0200" stop="20261015214000 +0200" channel="teledepo.es">
+    <title lang="es">HOCKEY PATINES CTO MUNDO FINAL ARGENTINA-ESPAÑA</title>
+    <desc lang="es">HOCKEY PATINES CTO MUNDO FINAL ARGENTINA-ESPAÑA</desc>
+    <category lang="es">Hockey patines</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015214000 +0200" stop="20261015231000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 RESUMEN</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261015231000 +0200" stop="20261015231500 +0200" channel="teledepo.es">
+    <title lang="es">DEPORTES 2</title>
+    <desc lang="es">DEPORTES 2</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261015231500 +0200" stop="20261016003000 +0200" channel="teledepo.es">
+    <title lang="es">CONEXIÓN VINTAGE 15 AÑOS NO ES NADA</title>
+    <desc lang="es">CONEXIÓN VINTAGE 15 AÑOS NO ES NADA</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261016003000 +0200" stop="20261016033500 +0200" channel="teledepo.es">
+    <title lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</title>
+    <desc lang="es">CICLISMO CAMPEONATO MUNDO PISTA 2026</desc>
+    <category lang="es">Ciclismo</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261016033500 +0200" stop="20261016045500 +0200" channel="teledepo.es">
+    <title lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA ASTANA</title>
+    <desc lang="es">NATACION COPA DEL MUNDO SESION VESPERTINA ASTANA</desc>
+    <category lang="es">Natación</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261016045500 +0200" stop="20261016060000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 RESUMEN</title>
+    <desc lang="es">FUTBOL UEFA CHAMPIONS LEAGUE J2 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
     <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
 </tv>
