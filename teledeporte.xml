@@ -3,269 +3,190 @@
   <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
   </channel>
-  <programme start="20261017063000 +0200" stop="20261017065500 +0200" channel="teledepo.es">
-    <title lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</title>
-    <desc lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</desc>
-    <category lang="es">Automovilismo</category>
+  <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="teledepo.es">
+    <title lang="es">JUDO TORNEO INTERNACIONAL EQUIPOS MIXTOS</title>
+    <desc lang="es">JUDO TORNEO INTERNACIONAL EQUIPOS MIXTOS</desc>
+    <category lang="es">Judo</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017065500 +0200" stop="20261017081500 +0200" channel="teledepo.es">
-    <title lang="es">TENIS DE MESA CAMPEONATO DE ESPAÑA INCLUSIVO FINAL PARLA-PRIEGO-VEGAS – TM FUENTE DEL MAESTRE INCLUSIVO DESDE MURCIA</title>
-    <desc lang="es">TENIS DE MESA CAMPEONATO DE ESPAÑA INCLUSIVO FINAL PARLA-PRIEGO-VEGAS – TM FUENTE DEL MAESTRE INCLUSIVO DESDE MURCIA</desc>
-    <category lang="es">Tenis de mesa</category>
+  <programme start="20261021080000 +0200" stop="20261021105000 +0200" channel="teledepo.es">
+    <title lang="es">GIMNASIA ARTISTICA CTO MUNDO FINAL EQUIPOS MASC</title>
+    <desc lang="es">GIMNASIA ARTISTICA CTO MUNDO FINAL EQUIPOS MASC</desc>
+    <category lang="es">Gimnasia artística</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017081500 +0200" stop="20261017094500 +0200" channel="teledepo.es">
-    <title lang="es">BALONMANO LIGA ASOBAL 6ª JORNADA ABANCA ADEMAR LEÓN – TUBOS ARANDA VILLA DE ARANDA DESDE LEÓN</title>
-    <desc lang="es">BALONMANO LIGA ASOBAL 6ª JORNADA ABANCA ADEMAR LEÓN – TUBOS ARANDA VILLA DE ARANDA DESDE LEÓN</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20261017094500 +0200" stop="20261017111500 +0200" channel="teledepo.es">
-    <title lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO SEMIFINAL ESPAÑA – ARGENTINA DESDE ASUNCIÓN (PARAGUAY)</title>
-    <desc lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO SEMIFINAL ESPAÑA – ARGENTINA DESDE ASUNCIÓN (PARAGUAY)</desc>
-    <category lang="es">Hockey patines</category>
-  </programme>
-  <programme start="20261017111500 +0200" stop="20261017113000 +0200" channel="teledepo.es">
-    <title lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</title>
-    <desc lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</desc>
+  <programme start="20261021105000 +0200" stop="20261021105500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDIARIO MATINAL</title>
+    <desc lang="es">TELEDIARIO MATINAL</desc>
     <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
   </programme>
-  <programme start="20261017113000 +0200" stop="20261017145500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</title>
-    <desc lang="es">DIRECTO CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</desc>
-    <category lang="es">Ciclismo</category>
+  <programme start="20261021105500 +0200" stop="20261021110500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO SILLA RUEDAS SUPERLIGA J1 RESUMEN</title>
+    <desc lang="es">BALONCESTO SILLA RUEDAS SUPERLIGA J1 RESUMEN</desc>
+    <category lang="es">Baloncesto</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017145500 +0200" stop="20261017155500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO NATACIÓN COPA DEL MUNDO SESIÓN VESPERTINA DESDE ASTANÁ (KAZAKHSTÁN)</title>
-    <desc lang="es">DIRECTO NATACIÓN COPA DEL MUNDO SESIÓN VESPERTINA DESDE ASTANÁ (KAZAKHSTÁN)</desc>
-    <category lang="es">Natación</category>
-  </programme>
-  <programme start="20261017155500 +0200" stop="20261017175000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 4ª JORNADA POIO PESCAMAR FS – MELILLA CD TORREBLANCA DESDE POIO (PONTEVEDRA)</title>
-    <desc lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 4ª JORNADA POIO PESCAMAR FS – MELILLA CD TORREBLANCA DESDE POIO (PONTEVEDRA)</desc>
+  <programme start="20261021110500 +0200" stop="20261021123500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL SALA CLASIF CTO MUNDO ESPAÑA - FINLANDIA</title>
+    <desc lang="es">FUTBOL SALA CLASIF CTO MUNDO ESPAÑA - FINLANDIA</desc>
     <category lang="es">Fútbol sala</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017175000 +0200" stop="20261017180000 +0200" channel="teledepo.es">
-    <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
-    <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
+  <programme start="20261021123500 +0200" stop="20261021134000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
     <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017180000 +0200" stop="20261017182500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 Y FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 Y FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</desc>
+  <programme start="20261021134000 +0200" stop="20261021142000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021142000 +0200" stop="20261021150000 +0200" channel="teledepo.es">
+    <title lang="es">ESTADIO 2</title>
+    <desc lang="es">ESTADIO 2</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021150000 +0200" stop="20261021150500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 PSG - FC BARCELONA</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 PSG - FC BARCELONA</desc>
     <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017182500 +0200" stop="20261017202500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 4ª JORNADA MIRAI EUSKOTREN – AZULMARINO MALLORCA PALMA DESDE SAN SEBASTIÁN</title>
-    <desc lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 4ª JORNADA MIRAI EUSKOTREN – AZULMARINO MALLORCA PALMA DESDE SAN SEBASTIÁN</desc>
+  <programme start="20261021150500 +0200" stop="20261021151000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 STUTTGART - AT. MADRID</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 STUTTGART - AT. MADRID</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021151000 +0200" stop="20261021151500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 LIVERPOOL - VILLARREAL</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 LIVERPOOL - VILLARREAL</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021151500 +0200" stop="20261021173000 +0200" channel="teledepo.es">
+    <title lang="es">VINTAGE A LO GRANDE LA TERCERA DE LA QUINTA BUITRE</title>
+    <desc lang="es">VINTAGE A LO GRANDE LA TERCERA DE LA QUINTA BUITRE</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021173000 +0200" stop="20261021173500 +0200" channel="teledepo.es">
+    <title lang="es">TELEDEPORTE 1</title>
+    <desc lang="es">DEPORTES 1</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>SIN CALIFICAR</value></rating>
+  </programme>
+  <programme start="20261021173500 +0200" stop="20261021183500 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021183500 +0200" stop="20261021193500 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021193500 +0200" stop="20261021214000 +0200" channel="teledepo.es">
+    <title lang="es">GIMNASIA ARTISTICA CTO MUNDO FINAL EQUIPOS FEM</title>
+    <desc lang="es">GIMNASIA ARTISTICA CTO MUNDO FINAL EQUIPOS FEM</desc>
+    <category lang="es">Gimnasia artística</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261021214000 +0200" stop="20261021220000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO CHAMPIONS LEAGUE JOVENTUT - BONN</title>
+    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE JOVENTUT - BONN</desc>
     <category lang="es">Baloncesto</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261017202500 +0200" stop="20261017222500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 7ª JORNADA REAL MADRID CF – RCD ESPANYOL DESDE MADRID</title>
-    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 7ª JORNADA REAL MADRID CF – RCD ESPANYOL DESDE MADRID</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261017222500 +0200" stop="20261018010000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</desc>
+  <programme start="20261021220000 +0200" stop="20261021231000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
     <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261018010000 +0200" stop="20261018030000 +0200" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 1º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</title>
-    <desc lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 1º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</desc>
+  <programme start="20261021231000 +0200" stop="20261022000000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022000000 +0200" stop="20261022010000 +0200" channel="teledepo.es">
+    <title lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</title>
+    <desc lang="es">ESTUDIO ESTADIO CHAMPIONS 2026-2027</desc>
+    <category lang="es">Deportes</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022010000 +0200" stop="20261022010500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 PSG - FC BARCELONA</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 PSG - FC BARCELONA</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022010500 +0200" stop="20261022011000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 STUTTGART - AT. MADRID</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 STUTTGART - AT. MADRID</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022011000 +0200" stop="20261022011500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 LIVERPOOL - VILLARREAL</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 LIVERPOOL - VILLARREAL</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022011500 +0200" stop="20261022012000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 M. CITY - AEK ATENAS</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 M. CITY - AEK ATENAS</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022012000 +0200" stop="20261022012500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 NAPOLES - BODO GLIMT</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 NAPOLES - BODO GLIMT</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022012500 +0200" stop="20261022013000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 PORTO - PSV EINDHOVEN</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 PORTO - PSV EINDHOVEN</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022013000 +0200" stop="20261022013500 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 ROMA-SLOVAN BRATISLAVA</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 ROMA-SLOVAN BRATISLAVA</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022013500 +0200" stop="20261022014000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 SABAH-BORUSSIA DORTMUND</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 SABAH-BORUSSIA DORTMUND</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022014000 +0200" stop="20261022015000 +0200" channel="teledepo.es">
+    <title lang="es">FUTBOL CHAMPIONS LEAGUE J3 FENERBAHÇE - S.PRAGA</title>
+    <desc lang="es">FUTBOL CHAMPIONS LEAGUE J3 FENERBAHÇE - S.PRAGA</desc>
+    <category lang="es">Fútbol</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
+  </programme>
+  <programme start="20261022015000 +0200" stop="20261022041500 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO WNBA FINAL GOLEN STATE - ATLANTA DREAM</title>
+    <desc lang="es">BALONCESTO WNBA FINAL GOLEN STATE - ATLANTA DREAM</desc>
     <category lang="es">Baloncesto</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
-  <programme start="20261018030000 +0200" stop="20261018034500 +0200" channel="teledepo.es">
-    <title lang="es">RALLYES SUPERCAMPEONATO DE ESPAÑA RALLYE RACC CATALUNYA</title>
-    <desc lang="es">RALLYES SUPERCAMPEONATO DE ESPAÑA RALLYE RACC CATALUNYA</desc>
-    <category lang="es">Rallyes</category>
-  </programme>
-  <programme start="20261018034500 +0200" stop="20261018053000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO MARRUECOS – NUEVA ZELANDA DESDE RABAT (MARRUECOS)</title>
-    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO MARRUECOS – NUEVA ZELANDA DESDE RABAT (MARRUECOS)</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018053000 +0200" stop="20261018060000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 7ª JORNADA FC BADALONA WOMEN – COSTA ADEJE TENERIFE DESDE PALAMÓS (GIRONA)</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 7ª JORNADA FC BADALONA WOMEN – COSTA ADEJE TENERIFE DESDE PALAMÓS (GIRONA)</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018071500 +0200" stop="20261018073000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018073000 +0200" stop="20261018110500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</title>
-    <desc lang="es">DIRECTO CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20261018110500 +0200" stop="20261018112000 +0200" channel="teledepo.es">
-    <title lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</title>
-    <desc lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261018112000 +0200" stop="20261018132000 +0200" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261018132000 +0200" stop="20261018152500 +0200" channel="teledepo.es">
-    <title lang="es">CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</title>
-    <desc lang="es">CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20261018152500 +0200" stop="20261018155500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 7ª JORNADA REAL MADRID CF – RCD ESPANYOL RESUMEN</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 7ª JORNADA REAL MADRID CF – RCD ESPANYOL RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018155500 +0200" stop="20261018180000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 7ª JORNADA SD EIBAR – DEPORTIVO ABANCA DESDE EIBAR</title>
-    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 7ª JORNADA SD EIBAR – DEPORTIVO ABANCA DESDE EIBAR</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018180000 +0200" stop="20261018180500 +0200" channel="teledepo.es">
-    <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
-    <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261018180500 +0200" stop="20261018185500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018185500 +0200" stop="20261018201000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018201000 +0200" stop="20261018204000 +0200" channel="teledepo.es">
-    <title lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO SEMIFINAL ESPAÑA – ARGENTINA RESUMEN</title>
-    <desc lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO SEMIFINAL ESPAÑA – ARGENTINA RESUMEN</desc>
-    <category lang="es">Hockey patines</category>
-  </programme>
-  <programme start="20261018204000 +0200" stop="20261018205500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018205500 +0200" stop="20261018214500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018214500 +0200" stop="20261018235500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261018235500 +0200" stop="20261019020000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO FINAL DESDE ASUNCIÓN (PARAGUAY)</title>
-    <desc lang="es">DIRECTO HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO FINAL DESDE ASUNCIÓN (PARAGUAY)</desc>
-    <category lang="es">Hockey patines</category>
-  </programme>
-  <programme start="20261019020000 +0200" stop="20261019040500 +0200" channel="teledepo.es">
-    <title lang="es">MOTOCROSS CAMPEONATO DE ESPAÑA DESDE MORÓN DE LA FRONTERA (SEVILLA)</title>
-    <desc lang="es">MOTOCROSS CAMPEONATO DE ESPAÑA DESDE MORÓN DE LA FRONTERA (SEVILLA)</desc>
-    <category lang="es">Motocross</category>
-  </programme>
-  <programme start="20261019040500 +0200" stop="20261019060000 +0200" channel="teledepo.es">
-    <title lang="es">CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</title>
-    <desc lang="es">CICLISMO EN PISTA CAMPEONATO DEL MUNDO SESIÓN VESPERTINA DESDE SHANGHAI (CHINA)</desc>
-    <category lang="es">Ciclismo</category>
-  </programme>
-  <programme start="20261019074000 +0200" stop="20261019080000 +0200" channel="teledepo.es">
-    <title lang="es">SURF PROGRAMA ‘SURFING.ES’</title>
-    <desc lang="es">SURF PROGRAMA ‘SURFING.ES’</desc>
-    <category lang="es">Surf</category>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019093000 +0200" channel="teledepo.es">
-    <title lang="es">TRIATLÓN CAMPEONATO DE EUROPA YOUTH RELEVOS MIXTOS DESDE MELILLA</title>
-    <desc lang="es">TRIATLÓN CAMPEONATO DE EUROPA YOUTH RELEVOS MIXTOS DESDE MELILLA</desc>
-    <category lang="es">Triatlón</category>
-  </programme>
-  <programme start="20261019093000 +0200" stop="20261019093500 +0200" channel="teledepo.es">
-    <title lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</title>
-    <desc lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019093500 +0200" stop="20261019095000 +0200" channel="teledepo.es">
-    <title lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</title>
-    <desc lang="es">JUEGOS DEL AGUA RESUMEN DESDE MELILLA</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019095000 +0200" stop="20261019113500 +0200" channel="teledepo.es">
-    <title lang="es">RALLYES SUPERCAMPEONATO DE ESPAÑA RALLYE RACC CATALUNYA</title>
-    <desc lang="es">RALLYES SUPERCAMPEONATO DE ESPAÑA RALLYE RACC CATALUNYA</desc>
-    <category lang="es">Rallyes</category>
-  </programme>
-  <programme start="20261019113500 +0200" stop="20261019132000 +0200" channel="teledepo.es">
-    <title lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO FINAL DESDE ASUNCIÓN (PARAGUAY)</title>
-    <desc lang="es">HOCKEY PATINES CAMPEONATO DEL MUNDO MASCULINO FINAL DESDE ASUNCIÓN (PARAGUAY)</desc>
-    <category lang="es">Hockey patines</category>
-  </programme>
-  <programme start="20261019132000 +0200" stop="20261019142000 +0200" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019142000 +0200" stop="20261019150000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019150000 +0200" stop="20261019165000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J10 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261019165000 +0200" stop="20261019165500 +0200" channel="teledepo.es">
-    <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
-    <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019165500 +0200" stop="20261019190000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO ESPAÑA – MÉXICO DESDE RABAT (MARRUECOS)</title>
-    <desc lang="es">DIRECTO FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO ESPAÑA – MÉXICO DESDE RABAT (MARRUECOS)</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261019190000 +0200" stop="20261019200000 +0200" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019200000 +0200" stop="20261019204000 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261019204000 +0200" stop="20261019214500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘FUTBOL DE CALLE’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘FUTBOL DE CALLE’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261019214500 +0200" stop="20261019225500 +0200" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J9 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261019225500 +0200" stop="20261020003000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO EL DEBATE’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO EL DEBATE’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261020003000 +0200" stop="20261020015000 +0200" channel="teledepo.es">
-    <title lang="es">CONEXIÓN VINTAGE FÚTBOL LA TERCERA DE LA QUINTA DEL BUITRE</title>
-    <desc lang="es">CONEXIÓN VINTAGE FÚTBOL LA TERCERA DE LA QUINTA DEL BUITRE</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261020015000 +0200" stop="20261020041500 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONCESTO LIGA WNBA PLAY OFF FINAL 2º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</title>
-    <desc lang="es">DIRECTO BALONCESTO LIGA WNBA PLAY OFF FINAL 2º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</desc>
+  <programme start="20261022041500 +0200" stop="20261022060000 +0200" channel="teledepo.es">
+    <title lang="es">BALONCESTO CHAMPIONS LEAGUE JOVENTUT - BONN</title>
+    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE JOVENTUT - BONN</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261020041500 +0200" stop="20261020060000 +0200" channel="teledepo.es">
-    <title lang="es">DIRECTO REMO CAMPEONATO DEL MUNDO BEACHS SPRINT DESDE QUINGDAO (CHINA)</title>
-    <desc lang="es">DIRECTO REMO CAMPEONATO DEL MUNDO BEACHS SPRINT DESDE QUINGDAO (CHINA)</desc>
-    <category lang="es">Remo</category>
+    <rating system="TVE"><value>PARA TODOS LOS PUBLICOS</value></rating>
   </programme>
 </tv>
