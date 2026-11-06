@@ -3,384 +3,419 @@
   <channel id="teledepo.es">
     <display-name lang="es">Teledeporte</display-name>
   </channel>
-  <programme start="20261030062000 +0100" stop="20261030080000 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO CHAMPIONS LEAGUE 4ª JORNADA ALBA BERLIN – SURNE BILBAO DESDE BERLÍN (ALEMANIA)</title>
-    <desc lang="es">BALONCESTO CHAMPIONS LEAGUE 4ª JORNADA ALBA BERLIN – SURNE BILBAO DESDE BERLÍN (ALEMANIA)</desc>
-    <category lang="es">Baloncesto</category>
+  <programme start="20261106060000 +0100" stop="20261106072500 +0100" channel="teledepo.es">
+    <title lang="es">BALONMANO EHF EUROCUP 2028 1ª JORNADA DINAMARCA - ESPAÑA DESDE HERNING (DINAMARCA)</title>
+    <desc lang="es">BALONMANO EHF EUROCUP 2028 1ª JORNADA DINAMARCA - ESPAÑA DESDE HERNING (DINAMARCA)</desc>
+    <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20261030080000 +0100" stop="20261030082000 +0100" channel="teledepo.es">
-    <title lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</title>
-    <desc lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</desc>
-    <category lang="es">Automovilismo</category>
+  <programme start="20261106072500 +0100" stop="20261106092000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1ª SEMIFINAL JAPÓN – RPD DE COREA DESDE RABAT (MARRUECOS)</title>
+    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1ª SEMIFINAL JAPÓN – RPD DE COREA DESDE RABAT (MARRUECOS)</desc>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030082000 +0100" stop="20261030082500 +0100" channel="teledepo.es">
+  <programme start="20261106092000 +0100" stop="20261106092500 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</title>
     <desc lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261030082500 +0100" stop="20261030084000 +0100" channel="teledepo.es">
-    <title lang="es">ATLETISMO PROGRAMA ‘ATLETISMO EN ACCIÓN’</title>
-    <desc lang="es">ATLETISMO PROGRAMA ‘ATLETISMO EN ACCIÓN’</desc>
-    <category lang="es">Atletismo</category>
+  <programme start="20261106092500 +0100" stop="20261106102000 +0100" channel="teledepo.es">
+    <title lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ WATERPOLO I</title>
+    <desc lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ WATERPOLO I</desc>
+    <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261030084000 +0100" stop="20261030085000 +0100" channel="teledepo.es">
-    <title lang="es">DEPORTE PARALÍMPICO PROGRAMA ‘DEPORTE PARA TODOS’</title>
-    <desc lang="es">DEPORTE PARALÍMPICO PROGRAMA ‘DEPORTE PARA TODOS’</desc>
+  <programme start="20261106102000 +0100" stop="20261106103000 +0100" channel="teledepo.es">
+    <title lang="es">DEPORTE PARALÍMPICO PROGRAMA ‘PARALÍMPICOS’</title>
+    <desc lang="es">DEPORTE PARALÍMPICO PROGRAMA ‘PARALÍMPICOS’</desc>
     <category lang="es">Deporte paralímpico</category>
   </programme>
-  <programme start="20261030085000 +0100" stop="20261030091000 +0100" channel="teledepo.es">
+  <programme start="20261106103000 +0100" stop="20261106105000 +0100" channel="teledepo.es">
     <title lang="es">SURF PROGRAMA ‘SURFING.ES’</title>
     <desc lang="es">SURF PROGRAMA ‘SURFING.ES’</desc>
     <category lang="es">Surf</category>
   </programme>
-  <programme start="20261030091000 +0100" stop="20261030111000 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 6º PARTIDO GOLDEN STATE VALKYRIES – ATLANTA DREAM DESDE ATLANTA (EE.UU.)</title>
-    <desc lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 6º PARTIDO GOLDEN STATE VALKYRIES – ATLANTA DREAM DESDE ATLANTA (EE.UU.)</desc>
-    <category lang="es">Baloncesto</category>
+  <programme start="20261106105000 +0100" stop="20261106110000 +0100" channel="teledepo.es">
+    <title lang="es">TENIS CAMPEONATO DE ESPAÑA POR EQUIPOS MASCULINOS RESUMEN</title>
+    <desc lang="es">TENIS CAMPEONATO DE ESPAÑA POR EQUIPOS MASCULINOS RESUMEN</desc>
+    <category lang="es">Tenis</category>
   </programme>
-  <programme start="20261030111000 +0100" stop="20261030130000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. DESDE RABAT (MARRUECOS)</title>
-    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. DESDE RABAT (MARRUECOS)</desc>
+  <programme start="20261106110000 +0100" stop="20261106123000 +0100" channel="teledepo.es">
+    <title lang="es">GIMNASIA RÍTMICA GALA EUSKALGYM</title>
+    <desc lang="es">GIMNASIA RÍTMICA GALA EUSKALGYM</desc>
+    <category lang="es">Gimnasia rítmica</category>
+  </programme>
+  <programme start="20261106123000 +0100" stop="20261106131500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL CONVOCATORIA Y RUEDA DE PRENSA LUIS DE LA FUENTE, SELECCIONADOR NACIONAL ABSOLUTO Y DAVID GORDO, SELECCIONADOR NACIONAL SUB-21 DESDE EL ESTADIO METROPOLITANO (MADRID)</title>
+    <desc lang="es">DIRECTO FÚTBOL CONVOCATORIA Y RUEDA DE PRENSA LUIS DE LA FUENTE, SELECCIONADOR NACIONAL ABSOLUTO Y DAVID GORDO, SELECCIONADOR NACIONAL SUB-21 DESDE EL ESTADIO METROPOLITANO (MADRID)</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030130000 +0100" stop="20261030142000 +0100" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO COPA DEL REY’</title>
-    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO COPA DEL REY’</desc>
-    <category lang="es">Deportes</category>
+  <programme start="20261106131500 +0100" stop="20261106134500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 1ª JORNADA INGLATERRA – ESPAÑA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 1ª JORNADA INGLATERRA – ESPAÑA RESUMEN</desc>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030142000 +0100" stop="20261030150000 +0100" channel="teledepo.es">
+  <programme start="20261106134500 +0100" stop="20261106142000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 2ª JORNADA ESPAÑA - CROACIA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 2ª JORNADA ESPAÑA - CROACIA RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261106142000 +0100" stop="20261106145500 +0100" channel="teledepo.es">
     <title lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</title>
     <desc lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261030150000 +0100" stop="20261030153000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA AE PRAT – ATHLETIC CLUB RESUMEN</title>
-    <desc lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA AE PRAT – ATHLETIC CLUB RESUMEN</desc>
+  <programme start="20261106145500 +0100" stop="20261106152500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA - CHEQUIA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA - CHEQUIA RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030153000 +0100" stop="20261030162000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA RESÚMENES</title>
-    <desc lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA RESÚMENES</desc>
+  <programme start="20261106152500 +0100" stop="20261106155500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 4ª JORNADA CROACIA – ESPAÑA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 4ª JORNADA CROACIA – ESPAÑA RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030162000 +0100" stop="20261030165000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</title>
-    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261030165000 +0100" stop="20261030165500 +0100" channel="teledepo.es">
-    <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
-    <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261030165500 +0100" stop="20261030185500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</title>
-    <desc lang="es">DIRECTO BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</desc>
+  <programme start="20261106155500 +0100" stop="20261106180000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</title>
+    <desc lang="es">DIRECTO BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20261030185500 +0100" stop="20261030204000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONMANO LIGA ASOBAL 8ª JORNADA CASERIO CIUDAD REAL – LOGROÑO DESDE CIUDAD REAL</title>
-    <desc lang="es">DIRECTO BALONMANO LIGA ASOBAL 8ª JORNADA CASERIO CIUDAD REAL – LOGROÑO DESDE CIUDAD REAL</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20261030204000 +0100" stop="20261030211000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</title>
-    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</desc>
+  <programme start="20261106180000 +0100" stop="20261106193000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE 4ª JORNADA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA CHAMPIONS LEAGUE 4ª JORNADA RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030211000 +0100" stop="20261030220000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA RESÚMENES</title>
-    <desc lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA RESÚMENES</desc>
+  <programme start="20261106193000 +0100" stop="20261106195000 +0100" channel="teledepo.es">
+    <title lang="es">INFORMATIVO - BLOQUE DEPORTES 24H TARDE</title>
+    <desc lang="es">INFORMATIVO - BLOQUE DEPORTES 24H TARDE</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261106195000 +0100" stop="20261106214500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</title>
+    <desc lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</desc>
+    <category lang="es">Baloncesto</category>
+  </programme>
+  <programme start="20261106214500 +0100" stop="20261106222000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 1ª JORNADA INGLATERRA – ESPAÑA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 1ª JORNADA INGLATERRA – ESPAÑA RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030220000 +0100" stop="20261030223000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA AE PRAT – ATHLETIC CLUB RESUMEN</title>
-    <desc lang="es">FÚTBOL COPA DEL REY 1ª ELIMINATORIA AE PRAT – ATHLETIC CLUB RESUMEN</desc>
+  <programme start="20261106222000 +0100" stop="20261106225000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 2ª JORNADA ESPAÑA – CROACIA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 2ª JORNADA ESPAÑA – CROACIA RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261030223000 +0100" stop="20261030224000 +0100" channel="teledepo.es">
+  <programme start="20261106225000 +0100" stop="20261106232000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA – CHEQUIA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA – CHEQUIA RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261106232000 +0100" stop="20261106235000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 4ª JORNADA CROACIA – ESPAÑA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 4ª JORNADA CROACIA – ESPAÑA RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261106235000 +0100" stop="20261107000000 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-2</title>
     <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-2</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261030224000 +0100" stop="20261031005500 +0100" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ FÚTBOL LA TERCERA DE LA QUINTA DEL BUITRE</title>
-    <desc lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ FÚTBOL LA TERCERA DE LA QUINTA DEL BUITRE</desc>
+  <programme start="20261107000000 +0100" stop="20261107012500 +0100" channel="teledepo.es">
+    <title lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ FÚTBOL LIGA AT. MADRID - FC BARCELONA</title>
+    <desc lang="es">PROGRAMA ‘CONEXIÓN VINTAGE’ FÚTBOL LIGA AT. MADRID - FC BARCELONA</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261031005500 +0100" stop="20261031023500 +0100" channel="teledepo.es">
-    <title lang="es">RETRO PROGRAMA ESTUDIO ESTADIO</title>
-    <desc lang="es">RETRO PROGRAMA ESTUDIO ESTADIO</desc>
+  <programme start="20261107012500 +0100" stop="20261107022000 +0100" channel="teledepo.es">
+    <title lang="es">RETRO ESTUDIO ESTADIO 1988</title>
+    <desc lang="es">RETRO ESTUDIO ESTADIO 1988</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261031023500 +0100" stop="20261031033500 +0100" channel="teledepo.es">
-    <title lang="es">RETRO PROGRAMA DEPORTIVO</title>
-    <desc lang="es">RETRO PROGRAMA DEPORTIVO</desc>
+  <programme start="20261107022000 +0100" stop="20261107033500 +0100" channel="teledepo.es">
+    <title lang="es">RETRO ESTUDIO ESTADIO 1989</title>
+    <desc lang="es">RETRO ESTUDIO ESTADIO 1989</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261031033500 +0100" stop="20261031040500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</title>
-    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO 1/8 FINAL ESPAÑA – EE.UU. RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031040500 +0100" stop="20261031054500 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</title>
-    <desc lang="es">BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</desc>
+  <programme start="20261107033500 +0100" stop="20261107052000 +0100" channel="teledepo.es">
+    <title lang="es">BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</title>
+    <desc lang="es">BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20261031054500 +0100" stop="20261031060000 +0100" channel="teledepo.es">
-    <title lang="es">ATLETISMO PROGRAMA ‘ATLETISMO EN ACCIÓN’</title>
-    <desc lang="es">ATLETISMO PROGRAMA ‘ATLETISMO EN ACCIÓN’</desc>
-    <category lang="es">Atletismo</category>
+  <programme start="20261107052000 +0100" stop="20261107060000 +0100" channel="teledepo.es">
+    <title lang="es">GIMNASIA RÍTMICA GALA EUSKALGYM</title>
+    <desc lang="es">GIMNASIA RÍTMICA GALA EUSKALGYM</desc>
+    <category lang="es">Gimnasia rítmica</category>
   </programme>
-  <programme start="20261031060000 +0100" stop="20261031075500 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 6º PARTIDO GOLDEN STATE VALKYRIES – ATLANTA DREAM DESDE ATLANTA (EE.UU.)</title>
-    <desc lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 6º PARTIDO GOLDEN STATE VALKYRIES – ATLANTA DREAM DESDE ATLANTA (EE.UU.)</desc>
+  <programme start="20261107065000 +0100" stop="20261107071000 +0100" channel="teledepo.es">
+    <title lang="es">SURF PROGRAMA ‘SURFING.ES’</title>
+    <desc lang="es">SURF PROGRAMA ‘SURFING.ES’</desc>
+    <category lang="es">Surf</category>
+  </programme>
+  <programme start="20261107071000 +0100" stop="20261107073000 +0100" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</title>
+    <desc lang="es">AUTOMOVILISMO PROGRAMA ‘RACING FOR SPAIN’</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20261107073000 +0100" stop="20261107091000 +0100" channel="teledepo.es">
+    <title lang="es">BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</title>
+    <desc lang="es">BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20261031075500 +0100" stop="20261031092000 +0100" channel="teledepo.es">
-    <title lang="es">BALONMANO LIGA ASOBAL 8ª JORNADA CASERIO CIUDAD REAL – LOGROÑO DESDE CIUDAD REAL</title>
-    <desc lang="es">BALONMANO LIGA ASOBAL 8ª JORNADA CASERIO CIUDAD REAL – LOGROÑO DESDE CIUDAD REAL</desc>
-    <category lang="es">Balonmano</category>
-  </programme>
-  <programme start="20261031092000 +0100" stop="20261031105500 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</title>
-    <desc lang="es">BALONCESTO LIGA U-22 6ª JORNADA OBRADOIRO – AMARA LLEIDA DESDE SANTIAGO DE COMPOSTELA</desc>
+  <programme start="20261107091000 +0100" stop="20261107105500 +0100" channel="teledepo.es">
+    <title lang="es">BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</title>
+    <desc lang="es">BALONCESTO LIGA U-22 7ªJORNADA BARÇA ATLÈTIC – FUNDACIÓN CB CANARIAS DESDE BARCELONA</desc>
     <category lang="es">Baloncesto</category>
   </programme>
-  <programme start="20261031105500 +0100" stop="20261031125500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 6ª JORNADA GUADALCACIN FS – POIO PESCAMAR FS DESDE GUADALCACIN (CÁDIZ)</title>
-    <desc lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 6ª JORNADA GUADALCACIN FS – POIO PESCAMAR FS DESDE GUADALCACIN (CÁDIZ)</desc>
+  <programme start="20261107105500 +0100" stop="20261107125000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 7ª JORNADA LBTL FUTSAL ALCANTARILLA – FUTSI ATLÉTICO NAVALCARNERO DESDE ALCANTARILLA (MURCIA)</title>
+    <desc lang="es">DIRECTO FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 7ª JORNADA LBTL FUTSAL ALCANTARILLA – FUTSI ATLÉTICO NAVALCARNERO DESDE ALCANTARILLA (MURCIA)</desc>
     <category lang="es">Fútbol sala</category>
   </programme>
-  <programme start="20261031125500 +0100" stop="20261031145000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL SALA LIGA PRIME 7ª JORNADA JIMBEE CARTAGENA COSTA CÁLIDA – CATGAS ENERGÍA SANTA COLOMA DESDE CARTAGENA</title>
-    <desc lang="es">DIRECTO FÚTBOL SALA LIGA PRIME 7ª JORNADA JIMBEE CARTAGENA COSTA CÁLIDA – CATGAS ENERGÍA SANTA COLOMA DESDE CARTAGENA</desc>
-    <category lang="es">Fútbol sala</category>
-  </programme>
-  <programme start="20261031145000 +0100" stop="20261031150500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J11 VILLARREAL CF – RCD ESPANYOL RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J11 VILLARREAL CF – RCD ESPANYOL RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031150500 +0100" stop="20261031155500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL COPA DEL REY RESUMEN JORNADA</title>
-    <desc lang="es">FÚTBOL COPA DEL REY RESUMEN JORNADA</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031155500 +0100" stop="20261031175500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 9ª JORNADA RCD ESPANYOL – LOGROÑO UNITED DESDE SANT ADRIÀ DE BESÒS (BARCELONA)</title>
-    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 9ª JORNADA RCD ESPANYOL – LOGROÑO UNITED DESDE SANT ADRIÀ DE BESÒS (BARCELONA)</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031175500 +0100" stop="20261031194500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 6ª JORNADA CADÍ LA SEU – DURÁN MAQUINARIA ENSINO DESDE LA SEU D’URGELL (LLEIDA)</title>
-    <desc lang="es">DIRECTO BALONCESTO LIGA FEMENINA ENDESA 6ª JORNADA CADÍ LA SEU – DURÁN MAQUINARIA ENSINO DESDE LA SEU D’URGELL (LLEIDA)</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261031194500 +0100" stop="20261031210000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO JUEGOS OLÍMPICOS DE LA JUVENTUD CEREMONIA DE APERTURA DESDE DAKAR (SENEGAL)</title>
-    <desc lang="es">DIRECTO JUEGOS OLÍMPICOS DE LA JUVENTUD CEREMONIA DE APERTURA DESDE DAKAR (SENEGAL)</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261031210000 +0100" stop="20261031212000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031212000 +0100" stop="20261031213500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J11 VILLARREAL CF – RCD ESPANYOL RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J11 VILLARREAL CF – RCD ESPANYOL RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261031213500 +0100" stop="20261101005000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261101005000 +0100" stop="20261101032500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONCESTO LIGA WNBA PLAY OFF FINAL 7º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</title>
-    <desc lang="es">DIRECTO BALONCESTO LIGA WNBA PLAY OFF FINAL 7º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261101032500 +0100" stop="20261101041500 +0100" channel="teledepo.es">
-    <title lang="es">RETRO ESTUDIO ESTADIO 1983</title>
-    <desc lang="es">RETRO ESTUDIO ESTADIO 1983</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261101041500 +0100" stop="20261101060000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA VCF FEMENINO – SD EIBAR DESDE VALENCIA</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA VCF FEMENINO – SD EIBAR DESDE VALENCIA</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261101060000 +0100" stop="20261101074500 +0100" channel="teledepo.es">
-    <title lang="es">VOLEIBOL SUPERLIGA MASCULINA 3ª JORNADA UC3M VOLEIBOL LEGANÉS – PAMESA TERUEL VOLEIBOL DESDE LEGANÉS (MADRID)</title>
-    <desc lang="es">VOLEIBOL SUPERLIGA MASCULINA 3ª JORNADA UC3M VOLEIBOL LEGANÉS – PAMESA TERUEL VOLEIBOL DESDE LEGANÉS (MADRID)</desc>
-    <category lang="es">Voleibol</category>
-  </programme>
-  <programme start="20261101074500 +0100" stop="20261101091500 +0100" channel="teledepo.es">
-    <title lang="es">HOCKEY PATINES OK LIGA IBERDROLA 1ª JORNADA ESNECA FRAGA – CP VILA-SANA COOP D’IVARS DESDE FRAGA</title>
-    <desc lang="es">HOCKEY PATINES OK LIGA IBERDROLA 1ª JORNADA ESNECA FRAGA – CP VILA-SANA COOP D’IVARS DESDE FRAGA</desc>
-    <category lang="es">Hockey patines</category>
-  </programme>
-  <programme start="20261101091500 +0100" stop="20261101105500 +0100" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
-    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261101105500 +0100" stop="20261101122500 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO BALONMANO LIGA GUERRERAS IBERDROLA 7ª JORNADA BM MORVEDRE – CLUB BALONMANO ELCHE DESDE SAGUNT (VALENCIA)</title>
-    <desc lang="es">DIRECTO BALONMANO LIGA GUERRERAS IBERDROLA 7ª JORNADA BM MORVEDRE – CLUB BALONMANO ELCHE DESDE SAGUNT (VALENCIA)</desc>
+  <programme start="20261107125000 +0100" stop="20261107143000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO BALONMANO LIGA GUERRERAS IBERDROLA 8ª JORNADA REPLASA BETI-ONAK – GRAFOMETAL SPORTING LA RIOJA DESDE VILLAVA (NAVARRA)</title>
+    <desc lang="es">DIRECTO BALONMANO LIGA GUERRERAS IBERDROLA 8ª JORNADA REPLASA BETI-ONAK – GRAFOMETAL SPORTING LA RIOJA DESDE VILLAVA (NAVARRA)</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20261101122500 +0100" stop="20261101143000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 9ª JORNADA FC BADALONA WOMEN – FC BARCELONA DESDE PALAMÓS (GIRONA)</title>
-    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 9ª JORNADA FC BADALONA WOMEN – FC BARCELONA DESDE PALAMÓS (GIRONA)</desc>
+  <programme start="20261107143000 +0100" stop="20261107144500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261101143000 +0100" stop="20261101173000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO ATLETISMO MARATÓN DE NUEVA YORK DESDE NUEVA YORK (EE.UU.)</title>
-    <desc lang="es">DIRECTO ATLETISMO MARATÓN DE NUEVA YORK DESDE NUEVA YORK (EE.UU.)</desc>
-    <category lang="es">Atletismo</category>
+  <programme start="20261107144500 +0100" stop="20261107163000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LIGA F MOEVE 10ª JORNADA GRANADA – RCD ESPANYOL DESDE GRANADA</title>
+    <desc lang="es">FÚTBOL LIGA F MOEVE 10ª JORNADA GRANADA – RCD ESPANYOL DESDE GRANADA</desc>
+    <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261101173000 +0100" stop="20261101173500 +0100" channel="teledepo.es">
+  <programme start="20261107163000 +0100" stop="20261107164500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261107164500 +0100" stop="20261107165500 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
     <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261101173500 +0100" stop="20261101193500 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 7º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</title>
-    <desc lang="es">BALONCESTO LIGA WNBA PLAY OFF FINAL 7º PARTIDO ATLANTA DREAM – GOLDEN STATE VALKYRIES DESDE SAN FRANCISCO (EE.UU.)</desc>
-    <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261101193500 +0100" stop="20261101195500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</desc>
+  <programme start="20261107165500 +0100" stop="20261107190000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA SD EIBAR – REAL SOCIEDAD DESDE EIBAR (GUIPÚZCOA)</title>
+    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA SD EIBAR – REAL SOCIEDAD DESDE EIBAR (GUIPÚZCOA)</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261101195500 +0100" stop="20261101205500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</desc>
+  <programme start="20261107190000 +0100" stop="20261107201500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO ACTO HOMENAJE EN MEMORIA DE JESÚS DE MIGUEL DESDE EL ESTADIO HELIODORO RODRÍGUEZ LOPEZ DE TENERIFE</title>
+    <desc lang="es">DIRECTO ACTO HOMENAJE EN MEMORIA DE JESÚS DE MIGUEL DESDE EL ESTADIO HELIODORO RODRÍGUEZ LOPEZ DE TENERIFE</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261107201500 +0100" stop="20261107213000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO FINAL JAPÓN – NIGERIA DESDE RABAT (MARRUECOS)</title>
+    <desc lang="es">DIRECTO FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO FINAL JAPÓN – NIGERIA DESDE RABAT (MARRUECOS)</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261101205500 +0100" stop="20261101214500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</title>
-    <desc lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261101214500 +0100" stop="20261102020500 +0100" channel="teledepo.es">
+  <programme start="20261107213000 +0100" stop="20261108011000 +0100" channel="teledepo.es">
     <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</title>
     <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102020500 +0100" stop="20261102031500 +0100" channel="teledepo.es">
-    <title lang="es">MOTOCICLISMO CAMPEONATO DE ESPAÑA DE SUPERBIKE 2ª CARRERA SUPERSPORT NG Y SUPERBIKE DESDE EL CIRCUITO DE JEREZ DE LA FRONTERA (CÁDIZ)</title>
-    <desc lang="es">MOTOCICLISMO CAMPEONATO DE ESPAÑA DE SUPERBIKE 2ª CARRERA SUPERSPORT NG Y SUPERBIKE DESDE EL CIRCUITO DE JEREZ DE LA FRONTERA (CÁDIZ)</desc>
-    <category lang="es">Motociclismo</category>
+  <programme start="20261108011000 +0100" stop="20261108020000 +0100" channel="teledepo.es">
+    <title lang="es">RETRO DEPORTIVO 1981</title>
+    <desc lang="es">RETRO DEPORTIVO 1981</desc>
+    <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102031500 +0100" stop="20261102050000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA FC BADALONA WOMEN – FC BARCELONA DESDE PALAMÓS (GIRONA)</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA FC BADALONA WOMEN – FC BARCELONA DESDE PALAMÓS (GIRONA)</desc>
+  <programme start="20261108020000 +0100" stop="20261108030000 +0100" channel="teledepo.es">
+    <title lang="es">RETRO DEPORTIVO 1982</title>
+    <desc lang="es">RETRO DEPORTIVO 1982</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261108030000 +0100" stop="20261108045000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO FINAL JAPÓN – NIGERIA DESDE RABAT (MARRUECOS)</title>
+    <desc lang="es">FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO FINAL JAPÓN – NIGERIA DESDE RABAT (MARRUECOS)</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261102050000 +0100" stop="20261102060000 +0100" channel="teledepo.es">
-    <title lang="es">BALONMANO LIGA GUERRERAS IBERDROLA 7ª JORNADA BM MORVEDRE – CLUB BALONMANO ELCHE DESDE SAGUNT (VALENCIA)</title>
-    <desc lang="es">BALONMANO LIGA GUERRERAS IBERDROLA 7ª JORNADA BM MORVEDRE – CLUB BALONMANO ELCHE DESDE SAGUNT (VALENCIA)</desc>
+  <programme start="20261108045000 +0100" stop="20261108060000 +0100" channel="teledepo.es">
+    <title lang="es">VOLEIBOL LIGA IBERDROLA 6ª JORNADA CV MELILLA CIUDAD DEL DEPORTE – AVARCA MENORCA DESDE MELILLA</title>
+    <desc lang="es">VOLEIBOL LIGA IBERDROLA 6ª JORNADA CV MELILLA CIUDAD DEL DEPORTE – AVARCA MENORCA DESDE MELILLA</desc>
+    <category lang="es">Voleibol</category>
+  </programme>
+  <programme start="20261108063500 +0100" stop="20261108065500 +0100" channel="teledepo.es">
+    <title lang="es">TDPEDALES VINTAGE ANGEL ARROYO</title>
+    <desc lang="es">TDPEDALES VINTAGE ANGEL ARROYO</desc>
+    <category lang="es">Ciclismo</category>
+  </programme>
+  <programme start="20261108065500 +0100" stop="20261108082500 +0100" channel="teledepo.es">
+    <title lang="es">HOCKEY PATINES OK LIGA IBERDROLA 2ª JORNADA CH MATARÓ – UNIKAL HC RAXOI DESDE MATARÓ (BARCELONA)</title>
+    <desc lang="es">HOCKEY PATINES OK LIGA IBERDROLA 2ª JORNADA CH MATARÓ – UNIKAL HC RAXOI DESDE MATARÓ (BARCELONA)</desc>
+    <category lang="es">Hockey patines</category>
+  </programme>
+  <programme start="20261108082500 +0100" stop="20261108110000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO ATLETISMO MARATÓN DE MÁLAGA DESDE MÁLAGA</title>
+    <desc lang="es">DIRECTO ATLETISMO MARATÓN DE MÁLAGA DESDE MÁLAGA</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20261108110000 +0100" stop="20261108115500 +0100" channel="teledepo.es">
+    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
+    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261108115500 +0100" stop="20261108140000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA LOGROÑO UNITED – SEVILLA FC DESDE LOGROÑO</title>
+    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA LOGROÑO UNITED – SEVILLA FC DESDE LOGROÑO</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261108140000 +0100" stop="20261108144500 +0100" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO FÓRMULA 4 SPAIN PRUEBA BARCELONA</title>
+    <desc lang="es">AUTOMOVILISMO FÓRMULA 4 SPAIN PRUEBA BARCELONA</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20261108144500 +0100" stop="20261108153000 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO AUTOMOVILISMO RALLYES CAMPEONATO DE ESPAÑA DE RALLYCROSS PRUEBA MOTORLAND ARAGÓN</title>
+    <desc lang="es">DIRECTO AUTOMOVILISMO RALLYES CAMPEONATO DE ESPAÑA DE RALLYCROSS PRUEBA MOTORLAND ARAGÓN</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20261108153000 +0100" stop="20261108155500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261108155500 +0100" stop="20261108175500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA FC BARCELONA – MADRID CFF DESDE BARCELONA</title>
+    <desc lang="es">DIRECTO FÚTBOL LIGA F MOEVE 10ª JORNADA FC BARCELONA – MADRID CFF DESDE BARCELONA</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261108175500 +0100" stop="20261108194500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO BALONMANO EHF EUROCUP MASCULINA 2ª JORNADA ESPAÑA – PORTUGAL DESDE VIGO (PONTEVEDRA)</title>
+    <desc lang="es">DIRECTO BALONMANO EHF EUROCUP MASCULINA 2ª JORNADA ESPAÑA – PORTUGAL DESDE VIGO (PONTEVEDRA)</desc>
     <category lang="es">Balonmano</category>
   </programme>
-  <programme start="20261102061500 +0100" stop="20261102074500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 6ª JORNADA GUADALCACIN FS – POIO PESCAMAR FS DESDE GUADALCACIN (CÁDIZ)</title>
-    <desc lang="es">FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 6ª JORNADA GUADALCACIN FS – POIO PESCAMAR FS DESDE GUADALCACIN (CÁDIZ)</desc>
+  <programme start="20261108194500 +0100" stop="20261108201000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261108201000 +0100" stop="20261108210000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261108210000 +0100" stop="20261109021500 +0100" channel="teledepo.es">
+    <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</title>
+    <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO’</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261109021500 +0100" stop="20261109032500 +0100" channel="teledepo.es">
+    <title lang="es">CROSS INTERNACIONAL DE ITÁLICA CARRERA FEMENINA Y MASCULINA DESDE SEVILLA</title>
+    <desc lang="es">CROSS INTERNACIONAL DE ITÁLICA CARRERA FEMENINA Y MASCULINA DESDE SEVILLA</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20261109032500 +0100" stop="20261109051000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LIGA F MOEVE 10ª JORNADA FC BARCELONA – MADRID CFF DESDE BARCELONA</title>
+    <desc lang="es">FÚTBOL LIGA F MOEVE 10ª JORNADA FC BARCELONA – MADRID CFF DESDE BARCELONA</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261109051000 +0100" stop="20261109060000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 7ª JORNADA LBTL FUTSAL ALCANTARILLA – FUTSI ATLÉTICO NAVALCARNERO DESDE ALCANTARILLA (MURCIA)</title>
+    <desc lang="es">FÚTBOL SALA PRIMERA DIVISIÓN FEMENINA 7ª JORNADA LBTL FUTSAL ALCANTARILLA – FUTSI ATLÉTICO NAVALCARNERO DESDE ALCANTARILLA (MURCIA)</desc>
     <category lang="es">Fútbol sala</category>
   </programme>
-  <programme start="20261102074500 +0100" stop="20261102091500 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO EN SILLA DE RUEDAS BSR ESPAÑA 3ª JORNADA REHATRANS GETAFE – VILLA DE LEGANÉS DESDE GETAFE (MADRID)</title>
-    <desc lang="es">BALONCESTO EN SILLA DE RUEDAS BSR ESPAÑA 3ª JORNADA REHATRANS GETAFE – VILLA DE LEGANÉS DESDE GETAFE (MADRID)</desc>
-    <category lang="es">Baloncesto</category>
+  <programme start="20261109064500 +0100" stop="20261109074000 +0100" channel="teledepo.es">
+    <title lang="es">HÍPICA ANDALUCÍA OCTOBER TOUR DESDE VEJER DE LA FRONTERA (CÁDIZ)</title>
+    <desc lang="es">HÍPICA ANDALUCÍA OCTOBER TOUR DESDE VEJER DE LA FRONTERA (CÁDIZ)</desc>
+    <category lang="es">Hípica</category>
   </programme>
-  <programme start="20261102091500 +0100" stop="20261102092000 +0100" channel="teledepo.es">
+  <programme start="20261109074000 +0100" stop="20261109091000 +0100" channel="teledepo.es">
+    <title lang="es">BALONMANO EHF EUROCUP MASCULINA 2ª JORNADA ESPAÑA – PORTUGAL DESDE VIGO (PONTEVEDRA)</title>
+    <desc lang="es">BALONMANO EHF EUROCUP MASCULINA 2ª JORNADA ESPAÑA – PORTUGAL DESDE VIGO (PONTEVEDRA)</desc>
+    <category lang="es">Balonmano</category>
+  </programme>
+  <programme start="20261109091000 +0100" stop="20261109091500 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</title>
     <desc lang="es">INFORMATIVO BLOQUE DEPORTES TD-MATINAL</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102092000 +0100" stop="20261102112500 +0100" channel="teledepo.es">
-    <title lang="es">TRIATLÓN CAMPEONATO DE EUROPA PRUEBA ELITE FEMENINA Y MASCULINA DESDE IBIZA</title>
-    <desc lang="es">TRIATLÓN CAMPEONATO DE EUROPA PRUEBA ELITE FEMENINA Y MASCULINA DESDE IBIZA</desc>
-    <category lang="es">Triatlón</category>
+  <programme start="20261109091500 +0100" stop="20261109100500 +0100" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO FÓRMULA 4 SPAIN PRUEBA BARCELONA</title>
+    <desc lang="es">AUTOMOVILISMO FÓRMULA 4 SPAIN PRUEBA BARCELONA</desc>
+    <category lang="es">Automovilismo</category>
   </programme>
-  <programme start="20261102112500 +0100" stop="20261102142000 +0100" channel="teledepo.es">
+  <programme start="20261109100500 +0100" stop="20261109105000 +0100" channel="teledepo.es">
+    <title lang="es">AUTOMOVILISMO RALLYES CAMPEONATO DE ESPAÑA DE RALLYCROSS PRUEBA MOTORLAND ARAGÓN</title>
+    <desc lang="es">AUTOMOVILISMO RALLYES CAMPEONATO DE ESPAÑA DE RALLYCROSS PRUEBA MOTORLAND ARAGÓN</desc>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20261109105000 +0100" stop="20261109120500 +0100" channel="teledepo.es">
+    <title lang="es">CROSS INTERNACIONAL DE ITÁLICA CARRERA FEMENINA Y MASCULINA DESDE SEVILLA</title>
+    <desc lang="es">CROSS INTERNACIONAL DE ITÁLICA CARRERA FEMENINA Y MASCULINA DESDE SEVILLA</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20261109120500 +0100" stop="20261109142000 +0100" channel="teledepo.es">
     <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
     <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102142000 +0100" stop="20261102150000 +0100" channel="teledepo.es">
+  <programme start="20261109142000 +0100" stop="20261109150000 +0100" channel="teledepo.es">
     <title lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</title>
     <desc lang="es">DIRECTO PROGRAMA ‘ESTADIO 2’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102150000 +0100" stop="20261102164000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</title>
-    <desc lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
+  <programme start="20261109150000 +0100" stop="20261109170000 +0100" channel="teledepo.es">
+    <title lang="es">SUPERRESÚMENES</title>
+    <desc lang="es">FÚTBOL LIGA F MOEVE 10ª JORNADA FC BARCELONA – MADRID CFF; FÚTBOL LIGA F MOEVE 10ª JORNADA GRANADA – RCD ESPANYOL; FÚTBOL LIGA F MOEVE 10ª JORNADA SD EIBAR – REAL SOCIEDAD; FÚTBOL LIGA F MOEVE 10ª JORNADA LOGROÑO UNITED – SEVILLA FC; FÚTBOL CAMPEONATO DEL MUNDO SUB-17 FEMENINO FINAL JAPÓN - NIGERIA; BALONMANO EHF EUROCUP MASCULINA 2ª JORNADA ESPAÑA – PORTUGAL</desc>
+    <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102164000 +0100" stop="20261102164500 +0100" channel="teledepo.es">
+  <programme start="20261109170000 +0100" stop="20261109171000 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
     <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102164500 +0100" stop="20261102183500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261102183500 +0100" stop="20261102193500 +0100" channel="teledepo.es">
-    <title lang="es">PROGRAMA ‘TDPEDALES’</title>
-    <desc lang="es">PROGRAMA ‘TDPEDALES’</desc>
+  <programme start="20261109171000 +0100" stop="20261109182000 +0100" channel="teledepo.es">
+    <title lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</title>
+    <desc lang="es">PROGRAMA ‘ESTUDIO ESTADIO’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102193500 +0100" stop="20261102195500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</title>
-    <desc lang="es">FÚTBOL LIGA F MOEVE 9ª JORNADA RESUMEN</desc>
+  <programme start="20261109182000 +0100" stop="20261109183000 +0100" channel="teledepo.es">
+    <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</title>
+    <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-1</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261109183000 +0100" stop="20261109203000 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA EA SPORTS J12 RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261102195500 +0100" stop="20261102220000 +0100" channel="teledepo.es">
-    <title lang="es">DIRECTO FÚTBOL LIGA MOEVE 9ª JORNADA COSTA ADEJE TENERIFE – ATHLETIC CLUB DESDE TENERIFE</title>
-    <desc lang="es">DIRECTO FÚTBOL LIGA MOEVE 9ª JORNADA COSTA ADEJE TENERIFE – ATHLETIC CLUB DESDE TENERIFE</desc>
+  <programme start="20261109203000 +0100" stop="20261109204000 +0100" channel="teledepo.es">
+    <title lang="es">INFORMATIVO - BLOQUE DEPORTES 24H TARDE</title>
+    <desc lang="es">INFORMATIVO - BLOQUE DEPORTES 24H TARDE</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261109204000 +0100" stop="20261109220500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261102220000 +0100" stop="20261102221000 +0100" channel="teledepo.es">
+  <programme start="20261109220500 +0100" stop="20261109223500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA – CHEQUIA RESUMEN</title>
+    <desc lang="es">FÚTBOL UEFA NATIONS LEAGUE 3ª JORNADA ESPAÑA – CHEQUIA RESUMEN</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261109223500 +0100" stop="20261109224500 +0100" channel="teledepo.es">
     <title lang="es">INFORMATIVO – BLOQUE DEPORTES TD-2</title>
     <desc lang="es">INFORMATIVO – BLOQUE DEPORTES TD-2</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261102221000 +0100" stop="20261102224500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</title>
-    <desc lang="es">FÚTBOL LALIGA EA SPORTS J11 RESUMEN</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261102224500 +0100" stop="20261103002000 +0100" channel="teledepo.es">
+  <programme start="20261109224500 +0100" stop="20261110002000 +0100" channel="teledepo.es">
     <title lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO EL DEBATE’</title>
     <desc lang="es">DIRECTO PROGRAMA ‘ESTUDIO ESTADIO EL DEBATE’</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261103002000 +0100" stop="20261103020000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</title>
-    <desc lang="es">FÚTBOL LA LIGA HYPERMOTION J12 RESUMEN</desc>
+  <programme start="20261110002000 +0100" stop="20261110014500 +0100" channel="teledepo.es">
+    <title lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</title>
+    <desc lang="es">FÚTBOL LALIGA HYPERMOTION J13 RESUMEN</desc>
     <category lang="es">Fútbol</category>
   </programme>
-  <programme start="20261103020000 +0100" stop="20261103034500 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL LIGA MOEVE 9ª JORNADA COSTA ADEJE TENERIFE – ATHLETIC CLUB DESDE TENERIFE</title>
-    <desc lang="es">FÚTBOL LIGA MOEVE 9ª JORNADA COSTA ADEJE TENERIFE – ATHLETIC CLUB DESDE TENERIFE</desc>
-    <category lang="es">Fútbol</category>
+  <programme start="20261110014500 +0100" stop="20261110042000 +0100" channel="teledepo.es">
+    <title lang="es">ATLETISMO MARATÓN DE MÁLAGA DESDE MÁLAGA</title>
+    <desc lang="es">ATLETISMO MARATÓN DE MÁLAGA DESDE MÁLAGA</desc>
+    <category lang="es">Atletismo</category>
   </programme>
-  <programme start="20261103034500 +0100" stop="20261103052000 +0100" channel="teledepo.es">
-    <title lang="es">BALONCESTO LIGA FEMENINA ENDESA 6ª JORNADA CADÍ LA SEU – DURÁN MAQUINARIA ENSINO DESDE LA SEU D’URGELL (LLEIDA)</title>
-    <desc lang="es">BALONCESTO LIGA FEMENINA ENDESA 6ª JORNADA CADÍ LA SEU – DURÁN MAQUINARIA ENSINO DESDE LA SEU D’URGELL (LLEIDA)</desc>
+  <programme start="20261110042000 +0100" stop="20261110060000 +0100" channel="teledepo.es">
+    <title lang="es">BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</title>
+    <desc lang="es">BALONCESTO LIGA FEMENINA ENDESA 7ª JORNADA MEINS AVENIDA – MIRAI EUSKOTREN DESDE SALAMANCA</desc>
     <category lang="es">Baloncesto</category>
-  </programme>
-  <programme start="20261103052000 +0100" stop="20261103060000 +0100" channel="teledepo.es">
-    <title lang="es">FÚTBOL SALA LIGA PRIME 7ª JORNADA JIMBEE CARTAGENA COSTA CÁLIDA – CATGAS ENERGÍA SANTA COLOMA DESDE CARTAGENA</title>
-    <desc lang="es">FÚTBOL SALA LIGA PRIME 7ª JORNADA JIMBEE CARTAGENA COSTA CÁLIDA – CATGAS ENERGÍA SANTA COLOMA DESDE CARTAGENA</desc>
-    <category lang="es">Fútbol sala</category>
   </programme>
 </tv>
